@@ -699,7 +699,7 @@ namespace FUJ_DataTranfer
                 ///
                 if (!PingNetwork(txtHostName.Text.Trim())) {
                     //
-                    
+                    //Addition condition alarm code
                     //
                     tMain.Stop();
                     //
