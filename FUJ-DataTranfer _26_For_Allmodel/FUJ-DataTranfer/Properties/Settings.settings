@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FUJ_DataTranfer.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="HostName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.201.1</Value>
+    </Setting>
+    <Setting Name="PathInput" Type="System.String" Scope="User">
+      <Value Profile="(Default)">avi\RGOZ-888</Value>
+    </Setting>
+    <Setting Name="SubFolderInput" Type="System.String" Scope="User">
+      <Value Profile="(Default)">IntegrateDataToPLC</Value>
+    </Setting>
+    <Setting Name="PathOutput" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TrayInput\RGOZ-888</Value>
+    </Setting>
+    <Setting Name="SubFolderOutput" Type="System.String" Scope="User">
+      <Value Profile="(Default)">IntegrateData</Value>
+    </Setting>
+    <Setting Name="ByPassPartView" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ByPassFileNameDelete" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ByPassServer" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

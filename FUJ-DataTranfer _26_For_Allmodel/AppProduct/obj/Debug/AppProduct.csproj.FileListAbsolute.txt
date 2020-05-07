@@ -1,0 +1,13 @@
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer\AppProduct\bin\Debug\AppProduct.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer\AppProduct\bin\Debug\AppProduct.pdb
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer\AppProduct\bin\Debug\CsvHelper.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer\AppProduct\bin\Debug\System.ValueTuple.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer\AppProduct\bin\Debug\CsvHelper.xml
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer\AppProduct\bin\Debug\System.ValueTuple.xml
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer\AppProduct\obj\Debug\AppProduct.csprojAssemblyReference.cache
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer\AppProduct\obj\Debug\AppProduct.View.Part.resources
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer\AppProduct\obj\Debug\AppProduct.csproj.GenerateResource.cache
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer\AppProduct\obj\Debug\AppProduct.csproj.CoreCompileInputs.cache
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer\AppProduct\obj\Debug\AppProduct.csproj.CopyComplete
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer\AppProduct\obj\Debug\AppProduct.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer\AppProduct\obj\Debug\AppProduct.pdb

@@ -1,0 +1,376 @@
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer\AppProduct\bin\Debug\Ai Production.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer\AppProduct\bin\Debug\Ai Production.pdb
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer\AppProduct\bin\Debug\CsvHelper.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer\AppProduct\bin\Debug\System.ValueTuple.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer\AppProduct\bin\Debug\CsvHelper.xml
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer\AppProduct\bin\Debug\System.ValueTuple.xml
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer\AppProduct\obj\Debug\AppProduct.View.Part.resources
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer\AppProduct\obj\Debug\Ai Product.csproj.GenerateResource.cache
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer\AppProduct\obj\Debug\Ai Product.csproj.CoreCompileInputs.cache
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer\AppProduct\obj\Debug\Ai Product.csproj.CopyComplete
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer\AppProduct\obj\Debug\Ai Production.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer\AppProduct\obj\Debug\Ai Production.pdb
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer\AppProduct\obj\Debug\Ai Product.csprojAssemblyReference.cache
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 01\AppProduct\bin\Debug\Ai Production.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 01\AppProduct\bin\Debug\Ai Production.pdb
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 01\AppProduct\bin\Debug\CsvHelper.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 01\AppProduct\bin\Debug\System.ValueTuple.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 01\AppProduct\bin\Debug\CsvHelper.xml
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 01\AppProduct\bin\Debug\System.ValueTuple.xml
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 01\AppProduct\obj\Debug\AppProduct.View.Part.resources
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 01\AppProduct\obj\Debug\Ai Product.csproj.GenerateResource.cache
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 01\AppProduct\obj\Debug\Ai Product.csproj.CoreCompileInputs.cache
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 01\AppProduct\obj\Debug\Ai Product.csproj.CopyComplete
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 01\AppProduct\obj\Debug\Ai Production.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 01\AppProduct\obj\Debug\Ai Production.pdb
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 01\AppProduct\obj\Debug\Ai Product.csprojAssemblyReference.cache
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 02\AppProduct\bin\Debug\Ai Production.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 02\AppProduct\bin\Debug\Ai Production.pdb
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 02\AppProduct\bin\Debug\CsvHelper.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 02\AppProduct\bin\Debug\System.ValueTuple.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 02\AppProduct\bin\Debug\CsvHelper.xml
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 02\AppProduct\bin\Debug\System.ValueTuple.xml
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 02\AppProduct\obj\Debug\Ai Product.csprojAssemblyReference.cache
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 02\AppProduct\obj\Debug\AppProduct.View.Part.resources
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 02\AppProduct\obj\Debug\Ai Product.csproj.GenerateResource.cache
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 02\AppProduct\obj\Debug\Ai Product.csproj.CopyComplete
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 02\AppProduct\obj\Debug\Ai Production.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 02\AppProduct\obj\Debug\Ai Production.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 02\AppProduct\bin\Debug\Ai Production.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 02\AppProduct\bin\Debug\Ai Production.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 02\AppProduct\bin\Debug\CsvHelper.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 02\AppProduct\bin\Debug\System.ValueTuple.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 02\AppProduct\bin\Debug\CsvHelper.xml
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 02\AppProduct\bin\Debug\System.ValueTuple.xml
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 02\AppProduct\obj\Debug\AppProduct.View.Part.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 02\AppProduct\obj\Debug\Ai Product.csproj.GenerateResource.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 02\AppProduct\obj\Debug\Ai Product.csproj.CoreCompileInputs.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 02\AppProduct\obj\Debug\Ai Product.csproj.CopyComplete
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 02\AppProduct\obj\Debug\Ai Production.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 02\AppProduct\obj\Debug\Ai Production.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 02\AppProduct\obj\Debug\Ai Product.csprojAssemblyReference.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 05\AppProduct\bin\Debug\Ai Production.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 05\AppProduct\bin\Debug\Ai Production.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 05\AppProduct\bin\Debug\CsvHelper.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 05\AppProduct\bin\Debug\System.ValueTuple.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 05\AppProduct\bin\Debug\CsvHelper.xml
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 05\AppProduct\bin\Debug\System.ValueTuple.xml
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 05\AppProduct\obj\Debug\Ai Product.csprojAssemblyReference.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 05\AppProduct\obj\Debug\AppProduct.View.Part.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 05\AppProduct\obj\Debug\Ai Product.csproj.GenerateResource.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 05\AppProduct\obj\Debug\Ai Product.csproj.CoreCompileInputs.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 05\AppProduct\obj\Debug\Ai Product.csproj.CopyComplete
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 05\AppProduct\obj\Debug\Ai Production.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 05\AppProduct\obj\Debug\Ai Production.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 06\AppProduct\bin\Debug\Ai Production.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 06\AppProduct\bin\Debug\Ai Production.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 06\AppProduct\bin\Debug\CsvHelper.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 06\AppProduct\bin\Debug\System.ValueTuple.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 06\AppProduct\bin\Debug\CsvHelper.xml
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 06\AppProduct\bin\Debug\System.ValueTuple.xml
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 06\AppProduct\obj\Debug\Ai Product.csprojAssemblyReference.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 06\AppProduct\obj\Debug\AppProduct.View.Part.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 06\AppProduct\obj\Debug\Ai Product.csproj.GenerateResource.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 06\AppProduct\obj\Debug\Ai Product.csproj.CoreCompileInputs.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 06\AppProduct\obj\Debug\Ai Product.csproj.CopyComplete
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 06\AppProduct\obj\Debug\Ai Production.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 06\AppProduct\obj\Debug\Ai Production.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 07-Test\AppProduct\bin\Debug\Ai Production.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 07-Test\AppProduct\bin\Debug\Ai Production.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 07-Test\AppProduct\bin\Debug\CsvHelper.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 07-Test\AppProduct\bin\Debug\System.ValueTuple.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 07-Test\AppProduct\bin\Debug\CsvHelper.xml
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 07-Test\AppProduct\bin\Debug\System.ValueTuple.xml
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 07-Test\AppProduct\obj\Debug\Ai Product.csprojAssemblyReference.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 07-Test\AppProduct\obj\Debug\AppProduct.View.Part.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 07-Test\AppProduct\obj\Debug\Ai Product.csproj.GenerateResource.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 07-Test\AppProduct\obj\Debug\Ai Product.csproj.CoreCompileInputs.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 07-Test\AppProduct\obj\Debug\Ai Product.csproj.CopyComplete
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 07-Test\AppProduct\obj\Debug\Ai Production.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 07-Test\AppProduct\obj\Debug\Ai Production.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 08\AppProduct\bin\Debug\Ai Production.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 08\AppProduct\bin\Debug\Ai Production.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 08\AppProduct\bin\Debug\Ai_PCSystem.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 08\AppProduct\bin\Debug\CsvHelper.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 08\AppProduct\bin\Debug\System.ValueTuple.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 08\AppProduct\bin\Debug\Ai_PCSystem.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 08\AppProduct\bin\Debug\Ai_PCSystem.dll.config
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 08\AppProduct\bin\Debug\CsvHelper.xml
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 08\AppProduct\bin\Debug\System.ValueTuple.xml
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 08\AppProduct\obj\Debug\Ai Product.csprojAssemblyReference.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 08\AppProduct\obj\Debug\AppProduct.View.Part.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 08\AppProduct\obj\Debug\Ai Product.csproj.GenerateResource.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 08\AppProduct\obj\Debug\Ai Product.csproj.CoreCompileInputs.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 08\AppProduct\obj\Debug\Ai Product.csproj.CopyComplete
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 08\AppProduct\obj\Debug\Ai Production.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 08\AppProduct\obj\Debug\Ai Production.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 09\AppProduct\bin\Debug\Ai Production.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 09\AppProduct\bin\Debug\Ai Production.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 09\AppProduct\bin\Debug\Ai_PCSystem.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 09\AppProduct\bin\Debug\CsvHelper.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 09\AppProduct\bin\Debug\System.ValueTuple.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 09\AppProduct\bin\Debug\Ai_PCSystem.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 09\AppProduct\bin\Debug\Ai_PCSystem.dll.config
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 09\AppProduct\bin\Debug\CsvHelper.xml
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 09\AppProduct\bin\Debug\System.ValueTuple.xml
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 09\AppProduct\obj\Debug\Ai Product.csprojAssemblyReference.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 09\AppProduct\obj\Debug\AppProduct.View.Part.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 09\AppProduct\obj\Debug\Ai Product.csproj.GenerateResource.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 09\AppProduct\obj\Debug\Ai Product.csproj.CoreCompileInputs.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 09\AppProduct\obj\Debug\Ai Product.csproj.CopyComplete
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 09\AppProduct\obj\Debug\Ai Production.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 09\AppProduct\obj\Debug\Ai Production.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 10\AppProduct\bin\Debug\Ai Production.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 10\AppProduct\bin\Debug\Ai Production.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 10\AppProduct\bin\Debug\Ai_PCSystem.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 10\AppProduct\bin\Debug\CsvHelper.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 10\AppProduct\bin\Debug\System.ValueTuple.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 10\AppProduct\bin\Debug\Ai_PCSystem.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 10\AppProduct\bin\Debug\Ai_PCSystem.dll.config
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 10\AppProduct\bin\Debug\CsvHelper.xml
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 10\AppProduct\bin\Debug\System.ValueTuple.xml
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 10\AppProduct\obj\Debug\Ai Product.csprojAssemblyReference.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 10\AppProduct\obj\Debug\AppProduct.View.Part.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 10\AppProduct\obj\Debug\Ai Product.csproj.GenerateResource.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 10\AppProduct\obj\Debug\Ai Product.csproj.CoreCompileInputs.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 10\AppProduct\obj\Debug\Ai Product.csproj.CopyComplete
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 10\AppProduct\obj\Debug\Ai Production.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 10\AppProduct\obj\Debug\Ai Production.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 11\AppProduct\bin\Debug\Ai Production.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 11\AppProduct\bin\Debug\Ai Production.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 11\AppProduct\bin\Debug\Ai_PCSystem.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 11\AppProduct\bin\Debug\CsvHelper.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 11\AppProduct\bin\Debug\System.ValueTuple.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 11\AppProduct\bin\Debug\Ai_PCSystem.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 11\AppProduct\bin\Debug\Ai_PCSystem.dll.config
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 11\AppProduct\bin\Debug\CsvHelper.xml
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 11\AppProduct\bin\Debug\System.ValueTuple.xml
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 11\AppProduct\obj\Debug\Ai Product.csprojAssemblyReference.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 11\AppProduct\obj\Debug\AppProduct.View.Part.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 11\AppProduct\obj\Debug\Ai Product.csproj.GenerateResource.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 11\AppProduct\obj\Debug\Ai Product.csproj.CoreCompileInputs.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 11\AppProduct\obj\Debug\Ai Product.csproj.CopyComplete
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 11\AppProduct\obj\Debug\Ai Production.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 11\AppProduct\obj\Debug\Ai Production.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 12\AppProduct\bin\Debug\Ai Production.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 12\AppProduct\bin\Debug\Ai Production.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 12\AppProduct\bin\Debug\Ai_PCSystem.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 12\AppProduct\bin\Debug\CsvHelper.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 12\AppProduct\bin\Debug\System.ValueTuple.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 12\AppProduct\bin\Debug\Ai_PCSystem.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 12\AppProduct\bin\Debug\Ai_PCSystem.dll.config
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 12\AppProduct\bin\Debug\CsvHelper.xml
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 12\AppProduct\bin\Debug\System.ValueTuple.xml
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 12\AppProduct\obj\Debug\Ai Product.csprojAssemblyReference.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 12\AppProduct\obj\Debug\AppProduct.View.Part.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 12\AppProduct\obj\Debug\Ai Product.csproj.GenerateResource.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 12\AppProduct\obj\Debug\Ai Product.csproj.CoreCompileInputs.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 12\AppProduct\obj\Debug\Ai Product.csproj.CopyComplete
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 12\AppProduct\obj\Debug\Ai Production.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 12\AppProduct\obj\Debug\Ai Production.pdb
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 14\AppProduct\bin\Debug\Ai Production.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 14\AppProduct\bin\Debug\Ai Production.pdb
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 14\AppProduct\bin\Debug\Ai_PCSystem.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 14\AppProduct\bin\Debug\CsvHelper.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 14\AppProduct\bin\Debug\System.ValueTuple.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 14\AppProduct\bin\Debug\Ai_PCSystem.pdb
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 14\AppProduct\bin\Debug\Ai_PCSystem.dll.config
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 14\AppProduct\bin\Debug\CsvHelper.xml
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 14\AppProduct\bin\Debug\System.ValueTuple.xml
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 14\AppProduct\obj\Debug\Ai Product.csprojAssemblyReference.cache
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 14\AppProduct\obj\Debug\AppProduct.View.Part.resources
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 14\AppProduct\obj\Debug\Ai Product.csproj.GenerateResource.cache
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 14\AppProduct\obj\Debug\Ai Product.csproj.CoreCompileInputs.cache
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 14\AppProduct\obj\Debug\Ai Product.csproj.CopyComplete
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 14\AppProduct\obj\Debug\Ai Production.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 14\AppProduct\obj\Debug\Ai Production.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 16\AppProduct\bin\Debug\Ai Production.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 16\AppProduct\bin\Debug\Ai Production.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 16\AppProduct\bin\Debug\Ai_PCSystem.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 16\AppProduct\bin\Debug\CsvHelper.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 16\AppProduct\bin\Debug\System.ValueTuple.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 16\AppProduct\bin\Debug\Ai_PCSystem.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 16\AppProduct\bin\Debug\Ai_PCSystem.dll.config
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 16\AppProduct\bin\Debug\CsvHelper.xml
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 16\AppProduct\bin\Debug\System.ValueTuple.xml
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 16\AppProduct\obj\Debug\Ai Product.csprojAssemblyReference.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 16\AppProduct\obj\Debug\AppProduct.View.Part.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 16\AppProduct\obj\Debug\Ai Product.csproj.GenerateResource.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 16\AppProduct\obj\Debug\Ai Product.csproj.CoreCompileInputs.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 16\AppProduct\obj\Debug\Ai Product.csproj.CopyComplete
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 16\AppProduct\obj\Debug\Ai Production.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 16\AppProduct\obj\Debug\Ai Production.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 18\AppProduct\bin\Debug\Ai Production.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 18\AppProduct\bin\Debug\Ai Production.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 18\AppProduct\bin\Debug\Ai_PCSystem.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 18\AppProduct\bin\Debug\CsvHelper.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 18\AppProduct\bin\Debug\System.ValueTuple.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 18\AppProduct\bin\Debug\Ai_PCSystem.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 18\AppProduct\bin\Debug\Ai_PCSystem.dll.config
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 18\AppProduct\bin\Debug\CsvHelper.xml
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 18\AppProduct\bin\Debug\System.ValueTuple.xml
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 18\AppProduct\obj\Debug\Ai Product.csprojAssemblyReference.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 18\AppProduct\obj\Debug\AppProduct.View.Part.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 18\AppProduct\obj\Debug\Ai Product.csproj.GenerateResource.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 18\AppProduct\obj\Debug\Ai Product.csproj.CoreCompileInputs.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 18\AppProduct\obj\Debug\Ai Product.csproj.CopyComplete
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 18\AppProduct\obj\Debug\Ai Production.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 18\AppProduct\obj\Debug\Ai Production.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 20\AppProduct\bin\Debug\Ai Production.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 20\AppProduct\bin\Debug\Ai Production.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 20\AppProduct\bin\Debug\Ai_PCSystem.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 20\AppProduct\bin\Debug\CsvHelper.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 20\AppProduct\bin\Debug\System.ValueTuple.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 20\AppProduct\bin\Debug\Ai_PCSystem.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 20\AppProduct\bin\Debug\Ai_PCSystem.dll.config
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 20\AppProduct\bin\Debug\CsvHelper.xml
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 20\AppProduct\bin\Debug\System.ValueTuple.xml
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 20\AppProduct\obj\Debug\Ai Product.csprojAssemblyReference.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 20\AppProduct\obj\Debug\AppProduct.View.Part.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 20\AppProduct\obj\Debug\Ai Product.csproj.GenerateResource.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 20\AppProduct\obj\Debug\Ai Product.csproj.CoreCompileInputs.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 20\AppProduct\obj\Debug\Ai Product.csproj.CopyComplete
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 20\AppProduct\obj\Debug\Ai Production.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 20\AppProduct\obj\Debug\Ai Production.pdb
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 21\FUJ-DataTranfer - 21\AppProduct\bin\Debug\Ai Production.dll
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 21\FUJ-DataTranfer - 21\AppProduct\bin\Debug\Ai Production.pdb
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 21\FUJ-DataTranfer - 21\AppProduct\bin\Debug\Ai_PCSystem.dll
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 21\FUJ-DataTranfer - 21\AppProduct\bin\Debug\CsvHelper.dll
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 21\FUJ-DataTranfer - 21\AppProduct\bin\Debug\System.ValueTuple.dll
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 21\FUJ-DataTranfer - 21\AppProduct\bin\Debug\Ai_PCSystem.pdb
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 21\FUJ-DataTranfer - 21\AppProduct\bin\Debug\Ai_PCSystem.dll.config
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 21\FUJ-DataTranfer - 21\AppProduct\bin\Debug\CsvHelper.xml
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 21\FUJ-DataTranfer - 21\AppProduct\bin\Debug\System.ValueTuple.xml
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 21\FUJ-DataTranfer - 21\AppProduct\obj\Debug\Ai Product.csprojAssemblyReference.cache
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 21\FUJ-DataTranfer - 21\AppProduct\obj\Debug\AppProduct.View.Part.resources
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 21\FUJ-DataTranfer - 21\AppProduct\obj\Debug\Ai Product.csproj.GenerateResource.cache
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 21\FUJ-DataTranfer - 21\AppProduct\obj\Debug\Ai Product.csproj.CoreCompileInputs.cache
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 21\FUJ-DataTranfer - 21\AppProduct\obj\Debug\Ai Product.csproj.CopyComplete
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 21\FUJ-DataTranfer - 21\AppProduct\obj\Debug\Ai Production.dll
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 21\FUJ-DataTranfer - 21\AppProduct\obj\Debug\Ai Production.pdb
+D:\FUJ-DataTranfer - 23\AppProduct\bin\Debug\Ai Production.dll
+D:\FUJ-DataTranfer - 23\AppProduct\bin\Debug\Ai Production.pdb
+D:\FUJ-DataTranfer - 23\AppProduct\bin\Debug\Ai_PCSystem.dll
+D:\FUJ-DataTranfer - 23\AppProduct\bin\Debug\CsvHelper.dll
+D:\FUJ-DataTranfer - 23\AppProduct\bin\Debug\System.ValueTuple.dll
+D:\FUJ-DataTranfer - 23\AppProduct\bin\Debug\Ai_PCSystem.pdb
+D:\FUJ-DataTranfer - 23\AppProduct\bin\Debug\CsvHelper.xml
+D:\FUJ-DataTranfer - 23\AppProduct\bin\Debug\System.ValueTuple.xml
+D:\FUJ-DataTranfer - 23\AppProduct\obj\Debug\Ai Product.csprojResolveAssemblyReference.cache
+D:\FUJ-DataTranfer - 23\AppProduct\obj\Debug\AppProduct.View.Part.resources
+D:\FUJ-DataTranfer - 23\AppProduct\obj\Debug\Ai Product.csproj.GenerateResource.Cache
+D:\FUJ-DataTranfer - 23\AppProduct\obj\Debug\Ai Production.dll
+D:\FUJ-DataTranfer - 23\AppProduct\obj\Debug\Ai Production.pdb
+D:\FUJ-DataTranfer - 24\AppProduct\bin\Debug\Ai Production.dll
+D:\FUJ-DataTranfer - 24\AppProduct\bin\Debug\Ai Production.pdb
+D:\FUJ-DataTranfer - 24\AppProduct\bin\Debug\Ai_PCSystem.dll
+D:\FUJ-DataTranfer - 24\AppProduct\bin\Debug\CsvHelper.dll
+D:\FUJ-DataTranfer - 24\AppProduct\bin\Debug\System.ValueTuple.dll
+D:\FUJ-DataTranfer - 24\AppProduct\bin\Debug\Ai_PCSystem.pdb
+D:\FUJ-DataTranfer - 24\AppProduct\bin\Debug\CsvHelper.xml
+D:\FUJ-DataTranfer - 24\AppProduct\bin\Debug\System.ValueTuple.xml
+D:\FUJ-DataTranfer - 24\AppProduct\obj\Debug\Ai Product.csprojResolveAssemblyReference.cache
+D:\FUJ-DataTranfer - 24\AppProduct\obj\Debug\AppProduct.View.Part.resources
+D:\FUJ-DataTranfer - 24\AppProduct\obj\Debug\Ai Product.csproj.GenerateResource.Cache
+D:\FUJ-DataTranfer - 24\AppProduct\obj\Debug\Ai Production.dll
+D:\FUJ-DataTranfer - 24\AppProduct\obj\Debug\Ai Production.pdb
+D:\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\AppProduct\bin\Debug\Ai Production.dll
+D:\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\AppProduct\bin\Debug\Ai Production.pdb
+D:\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\AppProduct\bin\Debug\Ai_PCSystem.dll
+D:\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\AppProduct\bin\Debug\CsvHelper.dll
+D:\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\AppProduct\bin\Debug\System.ValueTuple.dll
+D:\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\AppProduct\bin\Debug\Ai_PCSystem.pdb
+D:\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\AppProduct\bin\Debug\CsvHelper.xml
+D:\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\AppProduct\bin\Debug\System.ValueTuple.xml
+D:\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\AppProduct\obj\Debug\Ai Product.csprojResolveAssemblyReference.cache
+D:\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\AppProduct\obj\Debug\AppProduct.View.Part.resources
+D:\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\AppProduct\obj\Debug\Ai Product.csproj.GenerateResource.Cache
+D:\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\AppProduct\obj\Debug\Ai Production.dll
+D:\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\AppProduct\obj\Debug\Ai Production.pdb
+E:\WORK MWI\FUJI\TRAY_MODEL_PROGRAM\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\AppProduct\bin\Debug\Ai Production.dll
+E:\WORK MWI\FUJI\TRAY_MODEL_PROGRAM\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\AppProduct\bin\Debug\Ai Production.pdb
+E:\WORK MWI\FUJI\TRAY_MODEL_PROGRAM\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\AppProduct\bin\Debug\Ai_PCSystem.dll
+E:\WORK MWI\FUJI\TRAY_MODEL_PROGRAM\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\AppProduct\bin\Debug\CsvHelper.dll
+E:\WORK MWI\FUJI\TRAY_MODEL_PROGRAM\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\AppProduct\bin\Debug\System.ValueTuple.dll
+E:\WORK MWI\FUJI\TRAY_MODEL_PROGRAM\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\AppProduct\bin\Debug\Ai_PCSystem.pdb
+E:\WORK MWI\FUJI\TRAY_MODEL_PROGRAM\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\AppProduct\bin\Debug\Ai_PCSystem.dll.config
+E:\WORK MWI\FUJI\TRAY_MODEL_PROGRAM\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\AppProduct\bin\Debug\CsvHelper.xml
+E:\WORK MWI\FUJI\TRAY_MODEL_PROGRAM\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\AppProduct\bin\Debug\System.ValueTuple.xml
+E:\WORK MWI\FUJI\TRAY_MODEL_PROGRAM\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\AppProduct\obj\Debug\Ai Product.csprojAssemblyReference.cache
+E:\WORK MWI\FUJI\TRAY_MODEL_PROGRAM\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\AppProduct\obj\Debug\AppProduct.View.Part.resources
+E:\WORK MWI\FUJI\TRAY_MODEL_PROGRAM\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\AppProduct\obj\Debug\Ai Product.csproj.GenerateResource.cache
+E:\WORK MWI\FUJI\TRAY_MODEL_PROGRAM\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\AppProduct\obj\Debug\Ai Product.csproj.CoreCompileInputs.cache
+E:\WORK MWI\FUJI\TRAY_MODEL_PROGRAM\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\AppProduct\obj\Debug\Ai Product.csproj.CopyComplete
+E:\WORK MWI\FUJI\TRAY_MODEL_PROGRAM\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\AppProduct\obj\Debug\Ai Production.dll
+E:\WORK MWI\FUJI\TRAY_MODEL_PROGRAM\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\AppProduct\obj\Debug\Ai Production.pdb
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\AppProduct\bin\Debug\Ai Production.dll
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\AppProduct\bin\Debug\Ai Production.pdb
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\AppProduct\bin\Debug\Ai_PCSystem.dll
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\AppProduct\bin\Debug\CsvHelper.dll
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\AppProduct\bin\Debug\System.ValueTuple.dll
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\AppProduct\bin\Debug\Ai_PCSystem.pdb
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\AppProduct\bin\Debug\CsvHelper.xml
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\AppProduct\bin\Debug\System.ValueTuple.xml
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\AppProduct\obj\Debug\Ai Product.csprojResolveAssemblyReference.cache
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\AppProduct\obj\Debug\AppProduct.View.Part.resources
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\AppProduct\obj\Debug\Ai Product.csproj.GenerateResource.Cache
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\AppProduct\obj\Debug\Ai Production.dll
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\AppProduct\obj\Debug\Ai Production.pdb
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 26_ALL_MODEL\FUJ-DataTranfer - 25\AppProduct\bin\Debug\Ai Production.dll
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 26_ALL_MODEL\FUJ-DataTranfer - 25\AppProduct\bin\Debug\Ai Production.pdb
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 26_ALL_MODEL\FUJ-DataTranfer - 25\AppProduct\bin\Debug\Ai_PCSystem.dll
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 26_ALL_MODEL\FUJ-DataTranfer - 25\AppProduct\bin\Debug\CsvHelper.dll
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 26_ALL_MODEL\FUJ-DataTranfer - 25\AppProduct\bin\Debug\System.ValueTuple.dll
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 26_ALL_MODEL\FUJ-DataTranfer - 25\AppProduct\bin\Debug\Ai_PCSystem.pdb
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 26_ALL_MODEL\FUJ-DataTranfer - 25\AppProduct\bin\Debug\CsvHelper.xml
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 26_ALL_MODEL\FUJ-DataTranfer - 25\AppProduct\bin\Debug\System.ValueTuple.xml
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 26_ALL_MODEL\FUJ-DataTranfer - 25\AppProduct\obj\Debug\Ai Product.csprojResolveAssemblyReference.cache
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 26_ALL_MODEL\FUJ-DataTranfer - 25\AppProduct\obj\Debug\AppProduct.View.Part.resources
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 26_ALL_MODEL\FUJ-DataTranfer - 25\AppProduct\obj\Debug\Ai Product.csproj.GenerateResource.Cache
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 26_ALL_MODEL\FUJ-DataTranfer - 25\AppProduct\obj\Debug\Ai Production.dll
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 26_ALL_MODEL\FUJ-DataTranfer - 25\AppProduct\obj\Debug\Ai Production.pdb
+D:\FUJ-DataTranfer _26_For_Allmodel\AppProduct\bin\Debug\Ai Production.dll
+D:\FUJ-DataTranfer _26_For_Allmodel\AppProduct\bin\Debug\Ai Production.pdb
+D:\FUJ-DataTranfer _26_For_Allmodel\AppProduct\bin\Debug\Ai_PCSystem.dll
+D:\FUJ-DataTranfer _26_For_Allmodel\AppProduct\bin\Debug\CsvHelper.dll
+D:\FUJ-DataTranfer _26_For_Allmodel\AppProduct\bin\Debug\System.ValueTuple.dll
+D:\FUJ-DataTranfer _26_For_Allmodel\AppProduct\bin\Debug\Ai_PCSystem.pdb
+D:\FUJ-DataTranfer _26_For_Allmodel\AppProduct\bin\Debug\CsvHelper.xml
+D:\FUJ-DataTranfer _26_For_Allmodel\AppProduct\bin\Debug\System.ValueTuple.xml
+D:\FUJ-DataTranfer _26_For_Allmodel\AppProduct\obj\Debug\Ai Product.csprojResolveAssemblyReference.cache
+D:\FUJ-DataTranfer _26_For_Allmodel\AppProduct\obj\Debug\AppProduct.View.Part.resources
+D:\FUJ-DataTranfer _26_For_Allmodel\AppProduct\obj\Debug\Ai Product.csproj.GenerateResource.Cache
+D:\FUJ-DataTranfer _26_For_Allmodel\AppProduct\obj\Debug\Ai Production.dll
+D:\FUJ-DataTranfer _26_For_Allmodel\AppProduct\obj\Debug\Ai Production.pdb
+E:\WORK_MWI\FUJI\microstep\FUJ-DataTranfer _26_For_Allmodel\AppProduct\bin\Debug\Ai Production.dll
+E:\WORK_MWI\FUJI\microstep\FUJ-DataTranfer _26_For_Allmodel\AppProduct\bin\Debug\Ai Production.pdb
+E:\WORK_MWI\FUJI\microstep\FUJ-DataTranfer _26_For_Allmodel\AppProduct\bin\Debug\Ai_PCSystem.dll
+E:\WORK_MWI\FUJI\microstep\FUJ-DataTranfer _26_For_Allmodel\AppProduct\bin\Debug\CsvHelper.dll
+E:\WORK_MWI\FUJI\microstep\FUJ-DataTranfer _26_For_Allmodel\AppProduct\bin\Debug\System.ValueTuple.dll
+E:\WORK_MWI\FUJI\microstep\FUJ-DataTranfer _26_For_Allmodel\AppProduct\bin\Debug\Ai_PCSystem.pdb
+E:\WORK_MWI\FUJI\microstep\FUJ-DataTranfer _26_For_Allmodel\AppProduct\bin\Debug\Ai_PCSystem.dll.config
+E:\WORK_MWI\FUJI\microstep\FUJ-DataTranfer _26_For_Allmodel\AppProduct\bin\Debug\CsvHelper.xml
+E:\WORK_MWI\FUJI\microstep\FUJ-DataTranfer _26_For_Allmodel\AppProduct\bin\Debug\System.ValueTuple.xml
+E:\WORK_MWI\FUJI\microstep\FUJ-DataTranfer _26_For_Allmodel\AppProduct\obj\Debug\Ai Product.csprojAssemblyReference.cache
+E:\WORK_MWI\FUJI\microstep\FUJ-DataTranfer _26_For_Allmodel\AppProduct\obj\Debug\AppProduct.View.Part.resources
+E:\WORK_MWI\FUJI\microstep\FUJ-DataTranfer _26_For_Allmodel\AppProduct\obj\Debug\Ai Product.csproj.GenerateResource.cache
+E:\WORK_MWI\FUJI\microstep\FUJ-DataTranfer _26_For_Allmodel\AppProduct\obj\Debug\Ai Product.csproj.CoreCompileInputs.cache
+E:\WORK_MWI\FUJI\microstep\FUJ-DataTranfer _26_For_Allmodel\AppProduct\obj\Debug\Ai Product.csproj.CopyComplete
+E:\WORK_MWI\FUJI\microstep\FUJ-DataTranfer _26_For_Allmodel\AppProduct\obj\Debug\Ai Production.dll
+E:\WORK_MWI\FUJI\microstep\FUJ-DataTranfer _26_For_Allmodel\AppProduct\obj\Debug\Ai Production.pdb
+C:\Users\dell xsp\OneDrive\Desktop\FUJ-DataTranfer _26_For_Allmodel\AppProduct\bin\Debug\Ai Production.dll
+C:\Users\dell xsp\OneDrive\Desktop\FUJ-DataTranfer _26_For_Allmodel\AppProduct\bin\Debug\Ai Production.pdb
+C:\Users\dell xsp\OneDrive\Desktop\FUJ-DataTranfer _26_For_Allmodel\AppProduct\bin\Debug\Ai_PCSystem.dll
+C:\Users\dell xsp\OneDrive\Desktop\FUJ-DataTranfer _26_For_Allmodel\AppProduct\bin\Debug\CsvHelper.dll
+C:\Users\dell xsp\OneDrive\Desktop\FUJ-DataTranfer _26_For_Allmodel\AppProduct\bin\Debug\System.ValueTuple.dll
+C:\Users\dell xsp\OneDrive\Desktop\FUJ-DataTranfer _26_For_Allmodel\AppProduct\bin\Debug\Ai_PCSystem.pdb
+C:\Users\dell xsp\OneDrive\Desktop\FUJ-DataTranfer _26_For_Allmodel\AppProduct\bin\Debug\Ai_PCSystem.dll.config
+C:\Users\dell xsp\OneDrive\Desktop\FUJ-DataTranfer _26_For_Allmodel\AppProduct\bin\Debug\CsvHelper.xml
+C:\Users\dell xsp\OneDrive\Desktop\FUJ-DataTranfer _26_For_Allmodel\AppProduct\bin\Debug\System.ValueTuple.xml
+C:\Users\dell xsp\OneDrive\Desktop\FUJ-DataTranfer _26_For_Allmodel\AppProduct\obj\Debug\Ai Product.csprojAssemblyReference.cache
+C:\Users\dell xsp\OneDrive\Desktop\FUJ-DataTranfer _26_For_Allmodel\AppProduct\obj\Debug\AppProduct.View.Part.resources
+C:\Users\dell xsp\OneDrive\Desktop\FUJ-DataTranfer _26_For_Allmodel\AppProduct\obj\Debug\Ai Product.csproj.GenerateResource.cache
+C:\Users\dell xsp\OneDrive\Desktop\FUJ-DataTranfer _26_For_Allmodel\AppProduct\obj\Debug\Ai Product.csproj.CoreCompileInputs.cache
+C:\Users\dell xsp\OneDrive\Desktop\FUJ-DataTranfer _26_For_Allmodel\AppProduct\obj\Debug\Ai Product.csproj.CopyComplete
+C:\Users\dell xsp\OneDrive\Desktop\FUJ-DataTranfer _26_For_Allmodel\AppProduct\obj\Debug\Ai Production.dll
+C:\Users\dell xsp\OneDrive\Desktop\FUJ-DataTranfer _26_For_Allmodel\AppProduct\obj\Debug\Ai Production.pdb

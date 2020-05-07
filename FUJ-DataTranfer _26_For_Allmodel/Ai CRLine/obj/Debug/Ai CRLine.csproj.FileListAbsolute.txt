@@ -1,0 +1,43 @@
+D:\Project Automation 2003\036_MITSUBISHI TUREBO\New CR AssyLoging Line 21\zMSB-AT CR AssyLoging\Ai CRLine\bin\Debug\Ai CRLine.dll
+D:\Project Automation 2003\036_MITSUBISHI TUREBO\New CR AssyLoging Line 21\zMSB-AT CR AssyLoging\Ai CRLine\bin\Debug\Ai CRLine.pdb
+D:\Project Automation 2003\036_MITSUBISHI TUREBO\New CR AssyLoging Line 21\zMSB-AT CR AssyLoging\Ai CRLine\obj\Debug\Ai CRLine.csprojResolveAssemblyReference.cache
+D:\Project Automation 2003\036_MITSUBISHI TUREBO\New CR AssyLoging Line 21\zMSB-AT CR AssyLoging\Ai CRLine\obj\Debug\Ai CRLine.dll
+D:\Project Automation 2003\036_MITSUBISHI TUREBO\New CR AssyLoging Line 21\zMSB-AT CR AssyLoging\Ai CRLine\obj\Debug\Ai CRLine.pdb
+D:\Project Automation 2003\036_MITSUBISHI TUREBO\New CR AssyLoging Line 21\zMSB-AT CR AssyLoging - 01\Ai CRLine\bin\Debug\Ai CRLine.dll
+D:\Project Automation 2003\036_MITSUBISHI TUREBO\New CR AssyLoging Line 21\zMSB-AT CR AssyLoging - 01\Ai CRLine\bin\Debug\Ai CRLine.pdb
+D:\Project Automation 2003\036_MITSUBISHI TUREBO\New CR AssyLoging Line 21\zMSB-AT CR AssyLoging - 01\Ai CRLine\obj\Debug\Ai CRLine.csprojResolveAssemblyReference.cache
+D:\Project Automation 2003\036_MITSUBISHI TUREBO\New CR AssyLoging Line 21\zMSB-AT CR AssyLoging - 01\Ai CRLine\obj\Debug\Ai CRLine.dll
+D:\Project Automation 2003\036_MITSUBISHI TUREBO\New CR AssyLoging Line 21\zMSB-AT CR AssyLoging - 01\Ai CRLine\obj\Debug\Ai CRLine.pdb
+D:\Project Automation 2003\036_MITSUBISHI TUREBO\New CR AssyLoging Line 21\zMSB-AT CR AssyLoging - 02\Ai CRLine\obj\Debug\Ai CRLine.csprojResolveAssemblyReference.cache
+D:\Project Automation 2003\036_MITSUBISHI TUREBO\New CR AssyLoging Line 21\zMSB-AT CR AssyLoging - 02\Ai CRLine\obj\Debug\Ai CRLine.dll
+D:\Project Automation 2003\036_MITSUBISHI TUREBO\New CR AssyLoging Line 21\zMSB-AT CR AssyLoging - 02\Ai CRLine\obj\Debug\Ai CRLine.pdb
+D:\Project Automation 2003\036_MITSUBISHI TUREBO\New CR AssyLoging Line 21\zMSB-AT CR AssyLoging - 02\Ai CRLine\bin\Debug\Ai CRLine.dll
+D:\Project Automation 2003\036_MITSUBISHI TUREBO\New CR AssyLoging Line 21\zMSB-AT CR AssyLoging - 02\Ai CRLine\bin\Debug\Ai CRLine.pdb
+C:\Project MWI\002 MTA\zMSB-AT CR AssyLoging - 02\Ai CRLine\bin\Debug\Ai CRLine.dll
+C:\Project MWI\002 MTA\zMSB-AT CR AssyLoging - 02\Ai CRLine\bin\Debug\Ai CRLine.pdb
+C:\Project MWI\002 MTA\zMSB-AT CR AssyLoging - 02\Ai CRLine\obj\Debug\Ai CRLine.csprojResolveAssemblyReference.cache
+C:\Project MWI\002 MTA\zMSB-AT CR AssyLoging - 02\Ai CRLine\obj\Debug\Ai CRLine.dll
+C:\Project MWI\002 MTA\zMSB-AT CR AssyLoging - 02\Ai CRLine\obj\Debug\Ai CRLine.pdb
+C:\Project MWI\002 MTA\zMSB-AT CR AssyLoging - 03\Ai CRLine\bin\Debug\Ai CRLine.dll
+C:\Project MWI\002 MTA\zMSB-AT CR AssyLoging - 03\Ai CRLine\bin\Debug\Ai CRLine.pdb
+C:\Project MWI\002 MTA\zMSB-AT CR AssyLoging - 03\Ai CRLine\obj\Debug\Ai CRLine.csprojResolveAssemblyReference.cache
+C:\Project MWI\002 MTA\zMSB-AT CR AssyLoging - 03\Ai CRLine\obj\Debug\Ai CRLine.dll
+C:\Project MWI\002 MTA\zMSB-AT CR AssyLoging - 03\Ai CRLine\obj\Debug\Ai CRLine.pdb
+D:\AUTOMATION MACHINE 2019\002 MTA\zMSB-AT CR AssyLoging - 05\Ai CRLine\bin\Debug\Ai CRLine.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\zMSB-AT CR AssyLoging - 05\Ai CRLine\bin\Debug\Ai CRLine.pdb
+D:\AUTOMATION MACHINE 2019\002 MTA\zMSB-AT CR AssyLoging - 05\Ai CRLine\obj\Debug\Ai CRLine.csprojAssemblyReference.cache
+D:\AUTOMATION MACHINE 2019\002 MTA\zMSB-AT CR AssyLoging - 05\Ai CRLine\obj\Debug\Ai CRLine.csproj.CoreCompileInputs.cache
+D:\AUTOMATION MACHINE 2019\002 MTA\zMSB-AT CR AssyLoging - 05\Ai CRLine\obj\Debug\Ai CRLine.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\zMSB-AT CR AssyLoging - 05\Ai CRLine\obj\Debug\Ai CRLine.pdb
+D:\AUTOMATION MACHINE 2019\002 MTA\zMSB-AT CR AssyLoging - 06\Ai CRLine\bin\Debug\Ai CRLine.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\zMSB-AT CR AssyLoging - 06\Ai CRLine\bin\Debug\Ai CRLine.pdb
+D:\AUTOMATION MACHINE 2019\002 MTA\zMSB-AT CR AssyLoging - 06\Ai CRLine\obj\Debug\Ai CRLine.csprojAssemblyReference.cache
+D:\AUTOMATION MACHINE 2019\002 MTA\zMSB-AT CR AssyLoging - 06\Ai CRLine\obj\Debug\Ai CRLine.csproj.CoreCompileInputs.cache
+D:\AUTOMATION MACHINE 2019\002 MTA\zMSB-AT CR AssyLoging - 06\Ai CRLine\obj\Debug\Ai CRLine.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\zMSB-AT CR AssyLoging - 06\Ai CRLine\obj\Debug\Ai CRLine.pdb
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 06\Ai CRLine\bin\Debug\Ai CRLine.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 06\Ai CRLine\bin\Debug\Ai CRLine.pdb
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 06\Ai CRLine\obj\Debug\Ai CRLine.csprojAssemblyReference.cache
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 06\Ai CRLine\obj\Debug\Ai CRLine.csproj.CoreCompileInputs.cache
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 06\Ai CRLine\obj\Debug\Ai CRLine.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 06\Ai CRLine\obj\Debug\Ai CRLine.pdb

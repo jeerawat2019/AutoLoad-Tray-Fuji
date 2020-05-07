@@ -1,0 +1,356 @@
+D:\AUTOMATION MACHINE 2019\002 MTA\zMSB-AT CR AssyLoging - 05\Ai PCBase\bin\Debug\PCBase Interface.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\zMSB-AT CR AssyLoging - 05\Ai PCBase\bin\Debug\PCBase Interface.pdb
+D:\AUTOMATION MACHINE 2019\002 MTA\zMSB-AT CR AssyLoging - 05\Ai PCBase\obj\Debug\Ai PCInterface.csprojAssemblyReference.cache
+D:\AUTOMATION MACHINE 2019\002 MTA\zMSB-AT CR AssyLoging - 05\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CoreCompileInputs.cache
+D:\AUTOMATION MACHINE 2019\002 MTA\zMSB-AT CR AssyLoging - 05\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CopyComplete
+D:\AUTOMATION MACHINE 2019\002 MTA\zMSB-AT CR AssyLoging - 05\Ai PCBase\obj\Debug\PCBase Interface.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\zMSB-AT CR AssyLoging - 05\Ai PCBase\obj\Debug\PCBase Interface.pdb
+D:\AUTOMATION MACHINE 2019\002 MTA\zMSB-AT CR AssyLoging - 06\Ai PCBase\bin\Debug\PCBase Interface.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\zMSB-AT CR AssyLoging - 06\Ai PCBase\bin\Debug\PCBase Interface.pdb
+D:\AUTOMATION MACHINE 2019\002 MTA\zMSB-AT CR AssyLoging - 06\Ai PCBase\obj\Debug\Ai PCInterface.csprojAssemblyReference.cache
+D:\AUTOMATION MACHINE 2019\002 MTA\zMSB-AT CR AssyLoging - 06\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CoreCompileInputs.cache
+D:\AUTOMATION MACHINE 2019\002 MTA\zMSB-AT CR AssyLoging - 06\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CopyComplete
+D:\AUTOMATION MACHINE 2019\002 MTA\zMSB-AT CR AssyLoging - 06\Ai PCBase\obj\Debug\PCBase Interface.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\zMSB-AT CR AssyLoging - 06\Ai PCBase\obj\Debug\PCBase Interface.pdb
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 06\Ai PCBase\bin\Debug\PCBase Interface.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 06\Ai PCBase\bin\Debug\PCBase Interface.pdb
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 06\Ai PCBase\obj\Debug\Ai PCInterface.csprojAssemblyReference.cache
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 06\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CoreCompileInputs.cache
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 06\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CopyComplete
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 06\Ai PCBase\obj\Debug\PCBase Interface.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 06\Ai PCBase\obj\Debug\PCBase Interface.pdb
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 12\Ai PCBase\bin\Debug\PCBase Interface.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 12\Ai PCBase\bin\Debug\PCBase Interface.pdb
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 12\Ai PCBase\obj\Debug\Ai PCInterface.csprojAssemblyReference.cache
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 12\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CoreCompileInputs.cache
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 12\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CopyComplete
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 12\Ai PCBase\obj\Debug\PCBase Interface.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 12\Ai PCBase\obj\Debug\PCBase Interface.pdb
+D:\Project Automation 2003\036_MITSUBISHI TUREBO\CR AssyLoging - 13\Ai PCBase\bin\Debug\PCBase Interface.dll
+D:\Project Automation 2003\036_MITSUBISHI TUREBO\CR AssyLoging - 13\Ai PCBase\bin\Debug\PCBase Interface.pdb
+D:\Project Automation 2003\036_MITSUBISHI TUREBO\CR AssyLoging - 13\Ai PCBase\obj\Debug\Ai PCInterface.csprojResolveAssemblyReference.cache
+D:\Project Automation 2003\036_MITSUBISHI TUREBO\CR AssyLoging - 13\Ai PCBase\obj\Debug\PCBase Interface.dll
+D:\Project Automation 2003\036_MITSUBISHI TUREBO\CR AssyLoging - 13\Ai PCBase\obj\Debug\PCBase Interface.pdb
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 14\Ai PCBase\bin\Debug\PCBase Interface.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 14\Ai PCBase\bin\Debug\PCBase Interface.pdb
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 14\Ai PCBase\obj\Debug\Ai PCInterface.csprojAssemblyReference.cache
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 14\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CoreCompileInputs.cache
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 14\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CopyComplete
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 14\Ai PCBase\obj\Debug\PCBase Interface.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 14\Ai PCBase\obj\Debug\PCBase Interface.pdb
+C:\Users\Jeerawat\Dropbox\CR AssyLoging - 14\Ai PCBase\bin\Debug\PCBase Interface.dll
+C:\Users\Jeerawat\Dropbox\CR AssyLoging - 14\Ai PCBase\bin\Debug\PCBase Interface.pdb
+C:\Users\Jeerawat\Dropbox\CR AssyLoging - 14\Ai PCBase\obj\Debug\Ai PCInterface.csprojResolveAssemblyReference.cache
+C:\Users\Jeerawat\Dropbox\CR AssyLoging - 14\Ai PCBase\obj\Debug\PCBase Interface.dll
+C:\Users\Jeerawat\Dropbox\CR AssyLoging - 14\Ai PCBase\obj\Debug\PCBase Interface.pdb
+C:\Users\dell xsp\Dropbox\CR AssyLoging - 14\Ai PCBase\bin\Debug\PCBase Interface.dll
+C:\Users\dell xsp\Dropbox\CR AssyLoging - 14\Ai PCBase\bin\Debug\PCBase Interface.pdb
+C:\Users\dell xsp\Dropbox\CR AssyLoging - 14\Ai PCBase\obj\Debug\Ai PCInterface.csprojAssemblyReference.cache
+C:\Users\dell xsp\Dropbox\CR AssyLoging - 14\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CoreCompileInputs.cache
+C:\Users\dell xsp\Dropbox\CR AssyLoging - 14\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CopyComplete
+C:\Users\dell xsp\Dropbox\CR AssyLoging - 14\Ai PCBase\obj\Debug\PCBase Interface.dll
+C:\Users\dell xsp\Dropbox\CR AssyLoging - 14\Ai PCBase\obj\Debug\PCBase Interface.pdb
+C:\Users\Jeerawat\Dropbox\CR AssyLoging - 15\Ai PCBase\bin\Debug\PCBase Interface.dll
+C:\Users\Jeerawat\Dropbox\CR AssyLoging - 15\Ai PCBase\bin\Debug\PCBase Interface.pdb
+C:\Users\Jeerawat\Dropbox\CR AssyLoging - 15\Ai PCBase\obj\Debug\Ai PCInterface.csprojResolveAssemblyReference.cache
+C:\Users\Jeerawat\Dropbox\CR AssyLoging - 15\Ai PCBase\obj\Debug\PCBase Interface.dll
+C:\Users\Jeerawat\Dropbox\CR AssyLoging - 15\Ai PCBase\obj\Debug\PCBase Interface.pdb
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 15\Ai PCBase\bin\Debug\PCBase Interface.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 15\Ai PCBase\bin\Debug\PCBase Interface.pdb
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 15\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CoreCompileInputs.cache
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 15\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CopyComplete
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 15\Ai PCBase\obj\Debug\PCBase Interface.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 15\Ai PCBase\obj\Debug\PCBase Interface.pdb
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 15\Ai PCBase\obj\Debug\Ai PCInterface.csprojAssemblyReference.cache
+C:\Users\JEERAWAT\Dropbox\CR AssyLoging - 16\Ai PCBase\bin\Debug\PCBase Interface.dll
+C:\Users\JEERAWAT\Dropbox\CR AssyLoging - 16\Ai PCBase\bin\Debug\PCBase Interface.pdb
+C:\Users\JEERAWAT\Dropbox\CR AssyLoging - 16\Ai PCBase\obj\Debug\Ai PCInterface.csprojResolveAssemblyReference.cache
+C:\Users\JEERAWAT\Dropbox\CR AssyLoging - 16\Ai PCBase\obj\Debug\PCBase Interface.dll
+C:\Users\JEERAWAT\Dropbox\CR AssyLoging - 16\Ai PCBase\obj\Debug\PCBase Interface.pdb
+C:\Project MWI\CR AssyLoging - 17\Ai PCBase\bin\Debug\PCBase Interface.dll
+C:\Project MWI\CR AssyLoging - 17\Ai PCBase\bin\Debug\PCBase Interface.pdb
+C:\Project MWI\CR AssyLoging - 17\Ai PCBase\obj\Debug\Ai PCInterface.csprojAssemblyReference.cache
+C:\Project MWI\CR AssyLoging - 17\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CoreCompileInputs.cache
+C:\Project MWI\CR AssyLoging - 17\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CopyComplete
+C:\Project MWI\CR AssyLoging - 17\Ai PCBase\obj\Debug\PCBase Interface.dll
+C:\Project MWI\CR AssyLoging - 17\Ai PCBase\obj\Debug\PCBase Interface.pdb
+C:\Project MWI\CR AssyLoging - 24\Ai PCBase\bin\Debug\PCBase Interface.dll
+C:\Project MWI\CR AssyLoging - 24\Ai PCBase\bin\Debug\PCBase Interface.pdb
+C:\Project MWI\CR AssyLoging - 24\Ai PCBase\obj\Debug\Ai PCInterface.csprojAssemblyReference.cache
+C:\Project MWI\CR AssyLoging - 24\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CoreCompileInputs.cache
+C:\Project MWI\CR AssyLoging - 24\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CopyComplete
+C:\Project MWI\CR AssyLoging - 24\Ai PCBase\obj\Debug\PCBase Interface.dll
+C:\Project MWI\CR AssyLoging - 24\Ai PCBase\obj\Debug\PCBase Interface.pdb
+C:\Project MWI\CR AssyLoging - 27\Ai PCBase\bin\Debug\PCBase Interface.dll
+C:\Project MWI\CR AssyLoging - 27\Ai PCBase\bin\Debug\PCBase Interface.pdb
+C:\Project MWI\CR AssyLoging - 27\Ai PCBase\obj\Debug\Ai PCInterface.csprojAssemblyReference.cache
+C:\Project MWI\CR AssyLoging - 27\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CoreCompileInputs.cache
+C:\Project MWI\CR AssyLoging - 27\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CopyComplete
+C:\Project MWI\CR AssyLoging - 27\Ai PCBase\obj\Debug\PCBase Interface.dll
+C:\Project MWI\CR AssyLoging - 27\Ai PCBase\obj\Debug\PCBase Interface.pdb
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 33 Rework\Ai PCBase\bin\Debug\PCBase Interface.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 33 Rework\Ai PCBase\bin\Debug\PCBase Interface.pdb
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 33 Rework\Ai PCBase\obj\Debug\Ai PCInterface.csprojAssemblyReference.cache
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 33 Rework\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CoreCompileInputs.cache
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 33 Rework\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CopyComplete
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 33 Rework\Ai PCBase\obj\Debug\PCBase Interface.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 33 Rework\Ai PCBase\obj\Debug\PCBase Interface.pdb
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 35 Rework\Ai PCBase\bin\Debug\PCBase Interface.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 35 Rework\Ai PCBase\bin\Debug\PCBase Interface.pdb
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 35 Rework\Ai PCBase\obj\Debug\Ai PCInterface.csprojAssemblyReference.cache
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 35 Rework\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CoreCompileInputs.cache
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 35 Rework\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CopyComplete
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 35 Rework\Ai PCBase\obj\Debug\PCBase Interface.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 35 Rework\Ai PCBase\obj\Debug\PCBase Interface.pdb
+C:\CR AssyLoging - 35 Rework\Ai PCBase\obj\Debug\PCBase Interface.dll
+C:\CR AssyLoging - 35 Rework\Ai PCBase\obj\Debug\PCBase Interface.pdb
+C:\CR AssyLoging - 35 Rework\Ai PCBase\bin\Debug\PCBase Interface.dll
+C:\CR AssyLoging - 35 Rework\Ai PCBase\bin\Debug\PCBase Interface.pdb
+C:\CR AssyLoging - 35 Rework\Ai PCBase\obj\Debug\Ai PCInterface.csprojAssemblyReference.cache
+C:\CR AssyLoging - 35 Rework\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CoreCompileInputs.cache
+C:\CR AssyLoging - 35 Rework\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CopyComplete
+C:\CR AssyLoging - 36 Rework\Ai PCBase\bin\Debug\PCBase Interface.dll
+C:\CR AssyLoging - 36 Rework\Ai PCBase\bin\Debug\PCBase Interface.pdb
+C:\CR AssyLoging - 36 Rework\Ai PCBase\obj\Debug\Ai PCInterface.csprojAssemblyReference.cache
+C:\CR AssyLoging - 36 Rework\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CoreCompileInputs.cache
+C:\CR AssyLoging - 36 Rework\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CopyComplete
+C:\CR AssyLoging - 36 Rework\Ai PCBase\obj\Debug\PCBase Interface.dll
+C:\CR AssyLoging - 36 Rework\Ai PCBase\obj\Debug\PCBase Interface.pdb
+C:\CR AssyLoging - 37 Rework\Ai PCBase\bin\Debug\PCBase Interface.dll
+C:\CR AssyLoging - 37 Rework\Ai PCBase\bin\Debug\PCBase Interface.pdb
+C:\CR AssyLoging - 37 Rework\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CoreCompileInputs.cache
+C:\CR AssyLoging - 37 Rework\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CopyComplete
+C:\CR AssyLoging - 37 Rework\Ai PCBase\obj\Debug\PCBase Interface.dll
+C:\CR AssyLoging - 37 Rework\Ai PCBase\obj\Debug\PCBase Interface.pdb
+D:\AUTOMATION MACHINE 2019\004 HIT AT\03_B2024-AirFlow Machine\New Program\AF-Monitoring\Ai PCBase\bin\Debug\PCBase Interface.dll
+D:\AUTOMATION MACHINE 2019\004 HIT AT\03_B2024-AirFlow Machine\New Program\AF-Monitoring\Ai PCBase\bin\Debug\PCBase Interface.pdb
+D:\AUTOMATION MACHINE 2019\004 HIT AT\03_B2024-AirFlow Machine\New Program\AF-Monitoring\Ai PCBase\obj\Debug\Ai PCInterface.csprojAssemblyReference.cache
+D:\AUTOMATION MACHINE 2019\004 HIT AT\03_B2024-AirFlow Machine\New Program\AF-Monitoring\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CoreCompileInputs.cache
+D:\AUTOMATION MACHINE 2019\004 HIT AT\03_B2024-AirFlow Machine\New Program\AF-Monitoring\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CopyComplete
+D:\AUTOMATION MACHINE 2019\004 HIT AT\03_B2024-AirFlow Machine\New Program\AF-Monitoring\Ai PCBase\obj\Debug\PCBase Interface.dll
+D:\AUTOMATION MACHINE 2019\004 HIT AT\03_B2024-AirFlow Machine\New Program\AF-Monitoring\Ai PCBase\obj\Debug\PCBase Interface.pdb
+D:\AUTOMATION MACHINE 2019\004 HIT AT\03_B2024-AirFlow Machine\New Program\AirFlow-Monitoring\Ai PCBase\bin\Debug\PCBase Interface.dll
+D:\AUTOMATION MACHINE 2019\004 HIT AT\03_B2024-AirFlow Machine\New Program\AirFlow-Monitoring\Ai PCBase\bin\Debug\PCBase Interface.pdb
+D:\AUTOMATION MACHINE 2019\004 HIT AT\03_B2024-AirFlow Machine\New Program\AirFlow-Monitoring\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CopyComplete
+D:\AUTOMATION MACHINE 2019\004 HIT AT\03_B2024-AirFlow Machine\New Program\AirFlow-Monitoring\Ai PCBase\obj\Debug\PCBase Interface.dll
+D:\AUTOMATION MACHINE 2019\004 HIT AT\03_B2024-AirFlow Machine\New Program\AirFlow-Monitoring\Ai PCBase\obj\Debug\PCBase Interface.pdb
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer\Ai PCBase\bin\Debug\PCBase Interface.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer\Ai PCBase\bin\Debug\PCBase Interface.pdb
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CoreCompileInputs.cache
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CopyComplete
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer\Ai PCBase\obj\Debug\PCBase Interface.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer\Ai PCBase\obj\Debug\PCBase Interface.pdb
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 01\Ai PCBase\bin\Debug\PCBase Interface.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 01\Ai PCBase\bin\Debug\PCBase Interface.pdb
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 01\Ai PCBase\obj\Debug\Ai PCInterface.csprojAssemblyReference.cache
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 01\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CoreCompileInputs.cache
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 01\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CopyComplete
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 01\Ai PCBase\obj\Debug\PCBase Interface.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 01\Ai PCBase\obj\Debug\PCBase Interface.pdb
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 02\Ai PCBase\obj\Debug\Ai PCInterface.csprojAssemblyReference.cache
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 02\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CoreCompileInputs.cache
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 02\Ai PCBase\obj\Debug\PCBase Interface.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 02\Ai PCBase\obj\Debug\PCBase Interface.pdb
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 02\Ai PCBase\bin\Debug\PCBase Interface.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 02\Ai PCBase\bin\Debug\PCBase Interface.pdb
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 02\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CopyComplete
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 02\Ai PCBase\bin\Debug\PCBase Interface.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 02\Ai PCBase\bin\Debug\PCBase Interface.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 02\Ai PCBase\bin\Debug\Ai_PCSystem.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 02\Ai PCBase\bin\Debug\Ai_PCSystem.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 02\Ai PCBase\bin\Debug\Ai_PCSystem.dll.config
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 02\Ai PCBase\obj\Debug\Ai PCInterface.csprojAssemblyReference.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 02\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CoreCompileInputs.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 02\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CopyComplete
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 02\Ai PCBase\obj\Debug\PCBase Interface.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 02\Ai PCBase\obj\Debug\PCBase Interface.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 02\Ai PCBase\bin\Debug\Interop.ActSupportMsgLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 02\Ai PCBase\bin\Debug\Interop.ActUtlTypeLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 03\Ai PCBase\obj\Debug\Ai PCInterface.csprojAssemblyReference.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 03\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CoreCompileInputs.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 03\Ai PCBase\obj\Debug\PCBase Interface.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 03\Ai PCBase\obj\Debug\PCBase Interface.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 03\Ai PCBase\bin\Debug\PCBase Interface.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 03\Ai PCBase\bin\Debug\PCBase Interface.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 03\Ai PCBase\bin\Debug\Ai_PCSystem.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 03\Ai PCBase\bin\Debug\Interop.ActSupportMsgLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 03\Ai PCBase\bin\Debug\Interop.ActUtlTypeLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 03\Ai PCBase\bin\Debug\Ai_PCSystem.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 03\Ai PCBase\bin\Debug\Ai_PCSystem.dll.config
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 03\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CopyComplete
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 06\Ai PCBase\bin\Debug\PCBase Interface.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 06\Ai PCBase\bin\Debug\PCBase Interface.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 06\Ai PCBase\bin\Debug\Ai_PCSystem.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 06\Ai PCBase\bin\Debug\Interop.ActSupportMsgLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 06\Ai PCBase\bin\Debug\Interop.ActUtlTypeLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 06\Ai PCBase\bin\Debug\Ai_PCSystem.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 06\Ai PCBase\bin\Debug\Ai_PCSystem.dll.config
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 06\Ai PCBase\obj\Debug\Ai PCInterface.csprojAssemblyReference.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 06\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CoreCompileInputs.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 06\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CopyComplete
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 06\Ai PCBase\obj\Debug\PCBase Interface.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 06\Ai PCBase\obj\Debug\PCBase Interface.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 08\Ai PCBase\bin\Debug\PCBase Interface.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 08\Ai PCBase\bin\Debug\PCBase Interface.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 08\Ai PCBase\bin\Debug\Ai_PCSystem.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 08\Ai PCBase\bin\Debug\Interop.ActSupportMsgLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 08\Ai PCBase\bin\Debug\Interop.ActUtlTypeLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 08\Ai PCBase\bin\Debug\Ai_PCSystem.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 08\Ai PCBase\bin\Debug\Ai_PCSystem.dll.config
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 08\Ai PCBase\obj\Debug\Ai PCInterface.csprojAssemblyReference.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 08\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CoreCompileInputs.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 08\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CopyComplete
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 08\Ai PCBase\obj\Debug\PCBase Interface.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 08\Ai PCBase\obj\Debug\PCBase Interface.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 09\Ai PCBase\bin\Debug\PCBase Interface.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 09\Ai PCBase\bin\Debug\PCBase Interface.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 09\Ai PCBase\bin\Debug\Ai_PCSystem.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 09\Ai PCBase\bin\Debug\Interop.ActSupportMsgLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 09\Ai PCBase\bin\Debug\Interop.ActUtlTypeLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 09\Ai PCBase\bin\Debug\Ai_PCSystem.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 09\Ai PCBase\bin\Debug\Ai_PCSystem.dll.config
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 09\Ai PCBase\obj\Debug\Ai PCInterface.csprojAssemblyReference.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 09\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CoreCompileInputs.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 09\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CopyComplete
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 09\Ai PCBase\obj\Debug\PCBase Interface.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 09\Ai PCBase\obj\Debug\PCBase Interface.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 11\Ai PCBase\bin\Debug\PCBase Interface.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 11\Ai PCBase\bin\Debug\PCBase Interface.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 11\Ai PCBase\bin\Debug\Ai_PCSystem.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 11\Ai PCBase\bin\Debug\Interop.ActSupportMsgLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 11\Ai PCBase\bin\Debug\Interop.ActUtlTypeLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 11\Ai PCBase\bin\Debug\Ai_PCSystem.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 11\Ai PCBase\bin\Debug\Ai_PCSystem.dll.config
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 11\Ai PCBase\obj\Debug\Ai PCInterface.csprojAssemblyReference.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 11\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CoreCompileInputs.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 11\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CopyComplete
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 11\Ai PCBase\obj\Debug\PCBase Interface.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 11\Ai PCBase\obj\Debug\PCBase Interface.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 12\Ai PCBase\bin\Debug\PCBase Interface.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 12\Ai PCBase\bin\Debug\PCBase Interface.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 12\Ai PCBase\bin\Debug\Ai_PCSystem.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 12\Ai PCBase\bin\Debug\Interop.ActSupportMsgLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 12\Ai PCBase\bin\Debug\Interop.ActUtlTypeLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 12\Ai PCBase\bin\Debug\Ai_PCSystem.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 12\Ai PCBase\bin\Debug\Ai_PCSystem.dll.config
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 12\Ai PCBase\obj\Debug\Ai PCInterface.csprojAssemblyReference.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 12\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CoreCompileInputs.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 12\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CopyComplete
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 12\Ai PCBase\obj\Debug\PCBase Interface.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 12\Ai PCBase\obj\Debug\PCBase Interface.pdb
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 14\Ai PCBase\bin\Debug\PCBase Interface.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 14\Ai PCBase\bin\Debug\PCBase Interface.pdb
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 14\Ai PCBase\bin\Debug\Ai_PCSystem.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 14\Ai PCBase\bin\Debug\Ai_PCSystem.pdb
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 14\Ai PCBase\bin\Debug\Ai_PCSystem.dll.config
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 14\Ai PCBase\obj\Debug\Ai PCInterface.csprojAssemblyReference.cache
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 14\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CoreCompileInputs.cache
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 14\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CopyComplete
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 14\Ai PCBase\obj\Debug\PCBase Interface.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 14\Ai PCBase\obj\Debug\PCBase Interface.pdb
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 15\Ai PCBase\bin\Debug\PCBase Interface.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 15\Ai PCBase\bin\Debug\PCBase Interface.pdb
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 15\Ai PCBase\bin\Debug\Ai_PCSystem.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 15\Ai PCBase\bin\Debug\Ai_PCSystem.pdb
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 15\Ai PCBase\bin\Debug\Ai_PCSystem.dll.config
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 15\Ai PCBase\obj\Debug\Ai PCInterface.csprojAssemblyReference.cache
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 15\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CoreCompileInputs.cache
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 15\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CopyComplete
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 15\Ai PCBase\obj\Debug\PCBase Interface.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 15\Ai PCBase\obj\Debug\PCBase Interface.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 16\Ai PCBase\bin\Debug\PCBase Interface.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 16\Ai PCBase\bin\Debug\PCBase Interface.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 16\Ai PCBase\bin\Debug\Ai_PCSystem.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 16\Ai PCBase\bin\Debug\Interop.ActSupportMsgLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 16\Ai PCBase\bin\Debug\Interop.ActUtlTypeLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 16\Ai PCBase\bin\Debug\Ai_PCSystem.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 16\Ai PCBase\bin\Debug\Ai_PCSystem.dll.config
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 16\Ai PCBase\obj\Debug\Ai PCInterface.csprojAssemblyReference.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 16\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CoreCompileInputs.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 16\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CopyComplete
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 16\Ai PCBase\obj\Debug\PCBase Interface.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 16\Ai PCBase\obj\Debug\PCBase Interface.pdb
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 21\FUJ-DataTranfer - 21\Ai PCBase\bin\Debug\PCBase Interface.dll
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 21\FUJ-DataTranfer - 21\Ai PCBase\bin\Debug\PCBase Interface.pdb
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 21\FUJ-DataTranfer - 21\Ai PCBase\bin\Debug\Ai_PCSystem.dll
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 21\FUJ-DataTranfer - 21\Ai PCBase\bin\Debug\Ai_PCSystem.pdb
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 21\FUJ-DataTranfer - 21\Ai PCBase\bin\Debug\Ai_PCSystem.dll.config
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 21\FUJ-DataTranfer - 21\Ai PCBase\obj\Debug\Ai PCInterface.csprojAssemblyReference.cache
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 21\FUJ-DataTranfer - 21\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CoreCompileInputs.cache
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 21\FUJ-DataTranfer - 21\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CopyComplete
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 21\FUJ-DataTranfer - 21\Ai PCBase\obj\Debug\PCBase Interface.dll
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 21\FUJ-DataTranfer - 21\Ai PCBase\obj\Debug\PCBase Interface.pdb
+D:\FUJ-DataTranfer - 23\Ai PCBase\bin\Debug\PCBase Interface.dll
+D:\FUJ-DataTranfer - 23\Ai PCBase\bin\Debug\PCBase Interface.pdb
+D:\FUJ-DataTranfer - 23\Ai PCBase\bin\Debug\Ai_PCSystem.dll
+D:\FUJ-DataTranfer - 23\Ai PCBase\bin\Debug\Ai_PCSystem.pdb
+D:\FUJ-DataTranfer - 23\Ai PCBase\obj\Debug\Ai PCInterface.csprojResolveAssemblyReference.cache
+D:\FUJ-DataTranfer - 23\Ai PCBase\obj\Debug\PCBase Interface.dll
+D:\FUJ-DataTranfer - 23\Ai PCBase\obj\Debug\PCBase Interface.pdb
+D:\FUJ-DataTranfer - 24\Ai PCBase\bin\Debug\PCBase Interface.dll
+D:\FUJ-DataTranfer - 24\Ai PCBase\bin\Debug\PCBase Interface.pdb
+D:\FUJ-DataTranfer - 24\Ai PCBase\bin\Debug\Ai_PCSystem.dll
+D:\FUJ-DataTranfer - 24\Ai PCBase\bin\Debug\Ai_PCSystem.pdb
+D:\FUJ-DataTranfer - 24\Ai PCBase\obj\Debug\Ai PCInterface.csprojResolveAssemblyReference.cache
+D:\FUJ-DataTranfer - 24\Ai PCBase\obj\Debug\PCBase Interface.dll
+D:\FUJ-DataTranfer - 24\Ai PCBase\obj\Debug\PCBase Interface.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 25\Ai PCBase\bin\Debug\PCBase Interface.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 25\Ai PCBase\bin\Debug\PCBase Interface.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 25\Ai PCBase\bin\Debug\Ai_PCSystem.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 25\Ai PCBase\bin\Debug\Interop.ActSupportMsgLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 25\Ai PCBase\bin\Debug\Interop.ActUtlTypeLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 25\Ai PCBase\bin\Debug\Ai_PCSystem.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 25\Ai PCBase\bin\Debug\Ai_PCSystem.dll.config
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 25\Ai PCBase\obj\Debug\Ai PCInterface.csprojAssemblyReference.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 25\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CoreCompileInputs.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 25\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CopyComplete
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 25\Ai PCBase\obj\Debug\PCBase Interface.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 25\Ai PCBase\obj\Debug\PCBase Interface.pdb
+D:\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\Ai PCBase\bin\Debug\PCBase Interface.dll
+D:\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\Ai PCBase\bin\Debug\PCBase Interface.pdb
+D:\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\Ai PCBase\bin\Debug\Ai_PCSystem.dll
+D:\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\Ai PCBase\bin\Debug\Ai_PCSystem.pdb
+D:\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\Ai PCBase\obj\Debug\Ai PCInterface.csprojResolveAssemblyReference.cache
+D:\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\Ai PCBase\obj\Debug\PCBase Interface.dll
+D:\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\Ai PCBase\obj\Debug\PCBase Interface.pdb
+E:\WORK MWI\FUJI\TRAY_MODEL_PROGRAM\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\Ai PCBase\bin\Debug\PCBase Interface.dll
+E:\WORK MWI\FUJI\TRAY_MODEL_PROGRAM\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\Ai PCBase\bin\Debug\PCBase Interface.pdb
+E:\WORK MWI\FUJI\TRAY_MODEL_PROGRAM\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\Ai PCBase\bin\Debug\Ai_PCSystem.dll
+E:\WORK MWI\FUJI\TRAY_MODEL_PROGRAM\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\Ai PCBase\bin\Debug\Ai_PCSystem.pdb
+E:\WORK MWI\FUJI\TRAY_MODEL_PROGRAM\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\Ai PCBase\bin\Debug\Ai_PCSystem.dll.config
+E:\WORK MWI\FUJI\TRAY_MODEL_PROGRAM\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\Ai PCBase\obj\Debug\Ai PCInterface.csprojAssemblyReference.cache
+E:\WORK MWI\FUJI\TRAY_MODEL_PROGRAM\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CoreCompileInputs.cache
+E:\WORK MWI\FUJI\TRAY_MODEL_PROGRAM\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CopyComplete
+E:\WORK MWI\FUJI\TRAY_MODEL_PROGRAM\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\Ai PCBase\obj\Debug\PCBase Interface.dll
+E:\WORK MWI\FUJI\TRAY_MODEL_PROGRAM\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\Ai PCBase\obj\Debug\PCBase Interface.pdb
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\Ai PCBase\bin\Debug\PCBase Interface.dll
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\Ai PCBase\bin\Debug\PCBase Interface.pdb
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\Ai PCBase\bin\Debug\Ai_PCSystem.dll
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\Ai PCBase\bin\Debug\Ai_PCSystem.pdb
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\Ai PCBase\obj\Debug\Ai PCInterface.csprojResolveAssemblyReference.cache
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\Ai PCBase\obj\Debug\PCBase Interface.dll
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\Ai PCBase\obj\Debug\PCBase Interface.pdb
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 26_ALL_MODEL\FUJ-DataTranfer - 25\Ai PCBase\bin\Debug\PCBase Interface.dll
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 26_ALL_MODEL\FUJ-DataTranfer - 25\Ai PCBase\bin\Debug\PCBase Interface.pdb
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 26_ALL_MODEL\FUJ-DataTranfer - 25\Ai PCBase\bin\Debug\Ai_PCSystem.dll
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 26_ALL_MODEL\FUJ-DataTranfer - 25\Ai PCBase\bin\Debug\Ai_PCSystem.pdb
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 26_ALL_MODEL\FUJ-DataTranfer - 25\Ai PCBase\obj\Debug\Ai PCInterface.csprojResolveAssemblyReference.cache
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 26_ALL_MODEL\FUJ-DataTranfer - 25\Ai PCBase\obj\Debug\PCBase Interface.dll
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 26_ALL_MODEL\FUJ-DataTranfer - 25\Ai PCBase\obj\Debug\PCBase Interface.pdb
+D:\FUJ-DataTranfer _26_For_Allmodel\Ai PCBase\bin\Debug\PCBase Interface.dll
+D:\FUJ-DataTranfer _26_For_Allmodel\Ai PCBase\bin\Debug\PCBase Interface.pdb
+D:\FUJ-DataTranfer _26_For_Allmodel\Ai PCBase\bin\Debug\Ai_PCSystem.dll
+D:\FUJ-DataTranfer _26_For_Allmodel\Ai PCBase\bin\Debug\Ai_PCSystem.pdb
+D:\FUJ-DataTranfer _26_For_Allmodel\Ai PCBase\obj\Debug\Ai PCInterface.csprojResolveAssemblyReference.cache
+D:\FUJ-DataTranfer _26_For_Allmodel\Ai PCBase\obj\Debug\PCBase Interface.dll
+D:\FUJ-DataTranfer _26_For_Allmodel\Ai PCBase\obj\Debug\PCBase Interface.pdb
+E:\WORK_MWI\FUJI\microstep\FUJ-DataTranfer _26_For_Allmodel\Ai PCBase\bin\Debug\PCBase Interface.dll
+E:\WORK_MWI\FUJI\microstep\FUJ-DataTranfer _26_For_Allmodel\Ai PCBase\bin\Debug\PCBase Interface.pdb
+E:\WORK_MWI\FUJI\microstep\FUJ-DataTranfer _26_For_Allmodel\Ai PCBase\bin\Debug\Ai_PCSystem.dll
+E:\WORK_MWI\FUJI\microstep\FUJ-DataTranfer _26_For_Allmodel\Ai PCBase\bin\Debug\Ai_PCSystem.pdb
+E:\WORK_MWI\FUJI\microstep\FUJ-DataTranfer _26_For_Allmodel\Ai PCBase\bin\Debug\Ai_PCSystem.dll.config
+E:\WORK_MWI\FUJI\microstep\FUJ-DataTranfer _26_For_Allmodel\Ai PCBase\obj\Debug\Ai PCInterface.csprojAssemblyReference.cache
+E:\WORK_MWI\FUJI\microstep\FUJ-DataTranfer _26_For_Allmodel\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CoreCompileInputs.cache
+E:\WORK_MWI\FUJI\microstep\FUJ-DataTranfer _26_For_Allmodel\Ai PCBase\obj\Debug\Ai PCInterface.csproj.CopyComplete
+E:\WORK_MWI\FUJI\microstep\FUJ-DataTranfer _26_For_Allmodel\Ai PCBase\obj\Debug\PCBase Interface.dll
+E:\WORK_MWI\FUJI\microstep\FUJ-DataTranfer _26_For_Allmodel\Ai PCBase\obj\Debug\PCBase Interface.pdb

@@ -1,0 +1,918 @@
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe.config
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.pdb
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer\FUJ-DataTranfer\bin\Debug\Ai Production.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer\FUJ-DataTranfer\bin\Debug\PCBase Interface.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer\FUJ-DataTranfer\bin\Debug\System.ValueTuple.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer\FUJ-DataTranfer\bin\Debug\AxInterop.DATABUILDERAXLibLB.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer\FUJ-DataTranfer\bin\Debug\Interop.DATABUILDERAXLibLB.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer\FUJ-DataTranfer\bin\Debug\PCBase Interface.pdb
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.pdb
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.dll.config
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer\FUJ-DataTranfer\bin\Debug\Ai Production.pdb
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer\FUJ-DataTranfer\bin\Debug\System.ValueTuple.xml
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csprojAssemblyReference.cache
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Form1.resources
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Properties.Resources.resources
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.GenerateResource.cache
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.CoreCompileInputs.cache
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.CopyComplete
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.exe
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.pdb
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 01\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe.config
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 01\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 01\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.pdb
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 01\FUJ-DataTranfer\bin\Debug\Ai Production.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 01\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 01\FUJ-DataTranfer\bin\Debug\PCBase Interface.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 01\FUJ-DataTranfer\bin\Debug\System.ValueTuple.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 01\FUJ-DataTranfer\bin\Debug\AxInterop.DATABUILDERAXLibLB.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 01\FUJ-DataTranfer\bin\Debug\Interop.DATABUILDERAXLibLB.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 01\FUJ-DataTranfer\bin\Debug\PCBase Interface.pdb
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 01\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.pdb
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 01\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.dll.config
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 01\FUJ-DataTranfer\bin\Debug\Ai Production.pdb
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 01\FUJ-DataTranfer\bin\Debug\System.ValueTuple.xml
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 01\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csprojAssemblyReference.cache
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 01\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Form1.resources
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 01\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Properties.Resources.resources
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 01\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.GenerateResource.cache
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 01\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.CoreCompileInputs.cache
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 01\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.CopyComplete
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 01\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.exe
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 01\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.pdb
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 02\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe.config
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 02\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 02\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.pdb
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 02\FUJ-DataTranfer\bin\Debug\Ai Production.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 02\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 02\FUJ-DataTranfer\bin\Debug\PCBase Interface.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 02\FUJ-DataTranfer\bin\Debug\System.ValueTuple.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 02\FUJ-DataTranfer\bin\Debug\AxInterop.DATABUILDERAXLibLB.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 02\FUJ-DataTranfer\bin\Debug\Interop.DATABUILDERAXLibLB.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 02\FUJ-DataTranfer\bin\Debug\PCBase Interface.pdb
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 02\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.pdb
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 02\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.dll.config
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 02\FUJ-DataTranfer\bin\Debug\Ai Production.pdb
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 02\FUJ-DataTranfer\bin\Debug\System.ValueTuple.xml
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 02\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csprojAssemblyReference.cache
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 02\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Form1.resources
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 02\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Properties.Resources.resources
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 02\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.GenerateResource.cache
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 02\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.CopyComplete
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 02\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.exe
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 02\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.pdb
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 02\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Part.ucTray.resources
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 02\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.View.PartTary.resources
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 02\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.CoreCompileInputs.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 02\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csprojAssemblyReference.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 02\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Form1.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 02\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Part.ucTray.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 02\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Properties.Resources.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 02\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.View.PartTary.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 02\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.GenerateResource.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 02\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.CoreCompileInputs.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 02\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe.config
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 02\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 02\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 02\FUJ-DataTranfer\bin\Debug\Ai Production.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 02\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 02\FUJ-DataTranfer\bin\Debug\PCBase Interface.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 02\FUJ-DataTranfer\bin\Debug\System.ValueTuple.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 02\FUJ-DataTranfer\bin\Debug\AxInterop.DATABUILDERAXLibLB.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 02\FUJ-DataTranfer\bin\Debug\Interop.ActSupportMsgLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 02\FUJ-DataTranfer\bin\Debug\Interop.DATABUILDERAXLibLB.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 02\FUJ-DataTranfer\bin\Debug\PCBase Interface.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 02\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 02\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.dll.config
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 02\FUJ-DataTranfer\bin\Debug\Ai Production.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 02\FUJ-DataTranfer\bin\Debug\System.ValueTuple.xml
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 02\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.CopyComplete
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 02\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.exe
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 02\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 02\FUJ-DataTranfer\bin\Debug\Interop.ActUtlTypeLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 03\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe.config
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 03\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 03\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 03\FUJ-DataTranfer\bin\Debug\Ai Production.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 03\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 03\FUJ-DataTranfer\bin\Debug\Interop.ActSupportMsgLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 03\FUJ-DataTranfer\bin\Debug\Interop.ActUtlTypeLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 03\FUJ-DataTranfer\bin\Debug\PCBase Interface.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 03\FUJ-DataTranfer\bin\Debug\System.ValueTuple.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 03\FUJ-DataTranfer\bin\Debug\AxInterop.DATABUILDERAXLibLB.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 03\FUJ-DataTranfer\bin\Debug\Interop.DATABUILDERAXLibLB.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 03\FUJ-DataTranfer\bin\Debug\PCBase Interface.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 03\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 03\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.dll.config
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 03\FUJ-DataTranfer\bin\Debug\Ai Production.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 03\FUJ-DataTranfer\bin\Debug\System.ValueTuple.xml
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 03\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csprojAssemblyReference.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 03\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Form1.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 03\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Part.ucTray.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 03\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Properties.Resources.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 03\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.View.PartTary.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 03\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.GenerateResource.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 03\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.CoreCompileInputs.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 03\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.CopyComplete
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 03\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.exe
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 03\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 03\FUJ-DataTranfer\bin\Debug\Interop.ActProgTypeLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 05\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe.config
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 05\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 05\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 05\FUJ-DataTranfer\bin\Debug\Ai Production.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 05\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 05\FUJ-DataTranfer\bin\Debug\Interop.ActProgTypeLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 05\FUJ-DataTranfer\bin\Debug\Interop.ActSupportMsgLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 05\FUJ-DataTranfer\bin\Debug\Interop.ActUtlTypeLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 05\FUJ-DataTranfer\bin\Debug\PCBase Interface.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 05\FUJ-DataTranfer\bin\Debug\System.ValueTuple.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 05\FUJ-DataTranfer\bin\Debug\AxInterop.DATABUILDERAXLibLB.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 05\FUJ-DataTranfer\bin\Debug\Interop.DATABUILDERAXLibLB.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 05\FUJ-DataTranfer\bin\Debug\PCBase Interface.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 05\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 05\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.dll.config
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 05\FUJ-DataTranfer\bin\Debug\Ai Production.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 05\FUJ-DataTranfer\bin\Debug\System.ValueTuple.xml
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 05\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csprojAssemblyReference.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 05\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Form1.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 05\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Part.ucTray.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 05\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Properties.Resources.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 05\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.View.PartTary.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 05\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.GenerateResource.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 05\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.CoreCompileInputs.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 05\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.CopyComplete
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 05\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.exe
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 05\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 06\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csprojAssemblyReference.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 06\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Form1.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 06\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Part.ucTray.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 06\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Properties.Resources.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 06\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.View.PartTary.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 06\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.GenerateResource.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 06\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.CoreCompileInputs.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 06\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.exe
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 06\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 06\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe.config
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 06\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 06\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 06\FUJ-DataTranfer\bin\Debug\Ai Production.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 06\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 06\FUJ-DataTranfer\bin\Debug\Interop.ActProgTypeLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 06\FUJ-DataTranfer\bin\Debug\Interop.ActSupportMsgLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 06\FUJ-DataTranfer\bin\Debug\Interop.ActUtlTypeLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 06\FUJ-DataTranfer\bin\Debug\PCBase Interface.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 06\FUJ-DataTranfer\bin\Debug\System.ValueTuple.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 06\FUJ-DataTranfer\bin\Debug\AxInterop.DATABUILDERAXLibLB.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 06\FUJ-DataTranfer\bin\Debug\Interop.DATABUILDERAXLibLB.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 06\FUJ-DataTranfer\bin\Debug\PCBase Interface.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 06\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 06\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.dll.config
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 06\FUJ-DataTranfer\bin\Debug\Ai Production.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 06\FUJ-DataTranfer\bin\Debug\System.ValueTuple.xml
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 06\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.CopyComplete
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 07-Test\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe.config
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 07-Test\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 07-Test\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 07-Test\FUJ-DataTranfer\bin\Debug\Ai Production.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 07-Test\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 07-Test\FUJ-DataTranfer\bin\Debug\Interop.ActProgTypeLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 07-Test\FUJ-DataTranfer\bin\Debug\Interop.ActSupportMsgLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 07-Test\FUJ-DataTranfer\bin\Debug\Interop.ActUtlTypeLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 07-Test\FUJ-DataTranfer\bin\Debug\PCBase Interface.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 07-Test\FUJ-DataTranfer\bin\Debug\System.ValueTuple.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 07-Test\FUJ-DataTranfer\bin\Debug\AxInterop.DATABUILDERAXLibLB.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 07-Test\FUJ-DataTranfer\bin\Debug\Interop.DATABUILDERAXLibLB.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 07-Test\FUJ-DataTranfer\bin\Debug\PCBase Interface.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 07-Test\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 07-Test\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.dll.config
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 07-Test\FUJ-DataTranfer\bin\Debug\Ai Production.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 07-Test\FUJ-DataTranfer\bin\Debug\System.ValueTuple.xml
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 07-Test\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csprojAssemblyReference.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 07-Test\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Form1.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 07-Test\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Part.ucTray.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 07-Test\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Properties.Resources.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 07-Test\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.View.PartTary.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 07-Test\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.GenerateResource.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 07-Test\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.CoreCompileInputs.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 07-Test\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.CopyComplete
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 07-Test\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.exe
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 07-Test\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 08\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe.config
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 08\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 08\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 08\FUJ-DataTranfer\bin\Debug\Ai Production.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 08\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 08\FUJ-DataTranfer\bin\Debug\Interop.ActProgTypeLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 08\FUJ-DataTranfer\bin\Debug\Interop.ActSupportMsgLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 08\FUJ-DataTranfer\bin\Debug\Interop.ActUtlTypeLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 08\FUJ-DataTranfer\bin\Debug\PCBase Interface.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 08\FUJ-DataTranfer\bin\Debug\System.ValueTuple.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 08\FUJ-DataTranfer\bin\Debug\AxInterop.DATABUILDERAXLibLB.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 08\FUJ-DataTranfer\bin\Debug\Interop.DATABUILDERAXLibLB.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 08\FUJ-DataTranfer\bin\Debug\PCBase Interface.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 08\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 08\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.dll.config
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 08\FUJ-DataTranfer\bin\Debug\Ai Production.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 08\FUJ-DataTranfer\bin\Debug\System.ValueTuple.xml
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 08\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csprojAssemblyReference.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 08\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Form1.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 08\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Part.ucTray.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 08\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Properties.Resources.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 08\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.View.PartTary.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 08\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.GenerateResource.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 08\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.CoreCompileInputs.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 08\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.CopyComplete
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 08\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.exe
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 08\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 09\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csprojAssemblyReference.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 09\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Form1.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 09\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Part.ucTray.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 09\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Properties.Resources.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 09\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.View.PartTary.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 09\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.GenerateResource.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 09\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.CoreCompileInputs.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 09\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.exe
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 09\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 09\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe.config
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 09\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 09\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 09\FUJ-DataTranfer\bin\Debug\Ai Production.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 09\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 09\FUJ-DataTranfer\bin\Debug\Interop.ActProgTypeLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 09\FUJ-DataTranfer\bin\Debug\Interop.ActSupportMsgLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 09\FUJ-DataTranfer\bin\Debug\Interop.ActUtlTypeLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 09\FUJ-DataTranfer\bin\Debug\PCBase Interface.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 09\FUJ-DataTranfer\bin\Debug\System.ValueTuple.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 09\FUJ-DataTranfer\bin\Debug\AxInterop.DATABUILDERAXLibLB.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 09\FUJ-DataTranfer\bin\Debug\Interop.DATABUILDERAXLibLB.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 09\FUJ-DataTranfer\bin\Debug\PCBase Interface.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 09\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 09\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.dll.config
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 09\FUJ-DataTranfer\bin\Debug\Ai Production.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 09\FUJ-DataTranfer\bin\Debug\System.ValueTuple.xml
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 09\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.CopyComplete
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 10\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe.config
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 10\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.exe
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 10\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 10\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Form1.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 10\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Part.ucTray.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 10\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Properties.Resources.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 10\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.View.PartTary.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 10\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.GenerateResource.Cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 10\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 10\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 10\FUJ-DataTranfer\bin\Debug\Ai Production.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 10\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 10\FUJ-DataTranfer\bin\Debug\Interop.ActProgTypeLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 10\FUJ-DataTranfer\bin\Debug\Interop.ActSupportMsgLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 10\FUJ-DataTranfer\bin\Debug\Interop.ActUtlTypeLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 10\FUJ-DataTranfer\bin\Debug\PCBase Interface.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 10\FUJ-DataTranfer\bin\Debug\System.ValueTuple.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 10\FUJ-DataTranfer\bin\Debug\AxInterop.DATABUILDERAXLibLB.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 10\FUJ-DataTranfer\bin\Debug\Interop.DATABUILDERAXLibLB.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 10\FUJ-DataTranfer\bin\Debug\PCBase Interface.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 10\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 10\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.dll.config
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 10\FUJ-DataTranfer\bin\Debug\Ai Production.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 10\FUJ-DataTranfer\bin\Debug\System.ValueTuple.xml
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 10\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csprojAssemblyReference.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 10\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.CoreCompileInputs.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 10\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.CopyComplete
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 11\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe.config
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 11\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 11\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 11\FUJ-DataTranfer\bin\Debug\Ai Production.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 11\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 11\FUJ-DataTranfer\bin\Debug\Interop.ActProgTypeLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 11\FUJ-DataTranfer\bin\Debug\Interop.ActSupportMsgLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 11\FUJ-DataTranfer\bin\Debug\Interop.ActUtlTypeLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 11\FUJ-DataTranfer\bin\Debug\PCBase Interface.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 11\FUJ-DataTranfer\bin\Debug\System.ValueTuple.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 11\FUJ-DataTranfer\bin\Debug\AxInterop.DATABUILDERAXLibLB.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 11\FUJ-DataTranfer\bin\Debug\Interop.DATABUILDERAXLibLB.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 11\FUJ-DataTranfer\bin\Debug\PCBase Interface.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 11\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 11\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.dll.config
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 11\FUJ-DataTranfer\bin\Debug\Ai Production.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 11\FUJ-DataTranfer\bin\Debug\System.ValueTuple.xml
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 11\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csprojAssemblyReference.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 11\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Form1.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 11\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Part.ucTray.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 11\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Properties.Resources.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 11\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.View.PartTary.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 11\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.GenerateResource.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 11\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.CoreCompileInputs.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 11\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.CopyComplete
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 11\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.exe
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 11\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 12\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe.config
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 12\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 12\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 12\FUJ-DataTranfer\bin\Debug\Ai Production.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 12\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 12\FUJ-DataTranfer\bin\Debug\Interop.ActProgTypeLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 12\FUJ-DataTranfer\bin\Debug\Interop.ActSupportMsgLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 12\FUJ-DataTranfer\bin\Debug\Interop.ActUtlTypeLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 12\FUJ-DataTranfer\bin\Debug\PCBase Interface.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 12\FUJ-DataTranfer\bin\Debug\System.ValueTuple.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 12\FUJ-DataTranfer\bin\Debug\AxInterop.DATABUILDERAXLibLB.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 12\FUJ-DataTranfer\bin\Debug\Interop.DATABUILDERAXLibLB.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 12\FUJ-DataTranfer\bin\Debug\PCBase Interface.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 12\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 12\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.dll.config
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 12\FUJ-DataTranfer\bin\Debug\Ai Production.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 12\FUJ-DataTranfer\bin\Debug\System.ValueTuple.xml
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 12\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csprojAssemblyReference.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 12\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Form1.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 12\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Part.ucTray.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 12\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Properties.Resources.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 12\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.View.PartTary.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 12\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.GenerateResource.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 12\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.CoreCompileInputs.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 12\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.CopyComplete
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 12\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.exe
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 12\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 13\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe.config
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 13\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 13\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 13\FUJ-DataTranfer\bin\Debug\Ai Production.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 13\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 13\FUJ-DataTranfer\bin\Debug\Interop.ActProgTypeLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 13\FUJ-DataTranfer\bin\Debug\Interop.ActSupportMsgLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 13\FUJ-DataTranfer\bin\Debug\Interop.ActUtlTypeLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 13\FUJ-DataTranfer\bin\Debug\PCBase Interface.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 13\FUJ-DataTranfer\bin\Debug\System.ValueTuple.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 13\FUJ-DataTranfer\bin\Debug\AxInterop.DATABUILDERAXLibLB.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 13\FUJ-DataTranfer\bin\Debug\Interop.DATABUILDERAXLibLB.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 13\FUJ-DataTranfer\bin\Debug\PCBase Interface.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 13\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 13\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.dll.config
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 13\FUJ-DataTranfer\bin\Debug\Ai Production.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 13\FUJ-DataTranfer\bin\Debug\System.ValueTuple.xml
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 13\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csprojAssemblyReference.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 13\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Form1.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 13\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Part.ucTray.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 13\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Properties.Resources.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 13\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.View.PartTary.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 13\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.GenerateResource.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 13\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.CoreCompileInputs.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 13\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.CopyComplete
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 13\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.exe
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 13\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.pdb
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 14\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csprojAssemblyReference.cache
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 14\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Form1.resources
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 14\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Part.ucTray.resources
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 14\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Properties.Resources.resources
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 14\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.View.PartTary.resources
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 14\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.GenerateResource.cache
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 14\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.CoreCompileInputs.cache
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 14\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.exe
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 14\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.pdb
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 14\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe.config
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 14\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 14\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.pdb
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 14\FUJ-DataTranfer\bin\Debug\Ai Production.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 14\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 14\FUJ-DataTranfer\bin\Debug\Interop.ActProgTypeLib.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 14\FUJ-DataTranfer\bin\Debug\PCBase Interface.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 14\FUJ-DataTranfer\bin\Debug\System.ValueTuple.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 14\FUJ-DataTranfer\bin\Debug\AxInterop.DATABUILDERAXLibLB.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 14\FUJ-DataTranfer\bin\Debug\Interop.DATABUILDERAXLibLB.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 14\FUJ-DataTranfer\bin\Debug\PCBase Interface.pdb
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 14\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.pdb
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 14\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.dll.config
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 14\FUJ-DataTranfer\bin\Debug\Ai Production.pdb
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 14\FUJ-DataTranfer\bin\Debug\System.ValueTuple.xml
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 14\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.CopyComplete
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 15\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe.config
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 15\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 15\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.pdb
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 15\FUJ-DataTranfer\bin\Debug\Ai Production.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 15\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 15\FUJ-DataTranfer\bin\Debug\Interop.ActProgTypeLib.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 15\FUJ-DataTranfer\bin\Debug\PCBase Interface.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 15\FUJ-DataTranfer\bin\Debug\System.ValueTuple.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 15\FUJ-DataTranfer\bin\Debug\AxInterop.DATABUILDERAXLibLB.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 15\FUJ-DataTranfer\bin\Debug\Interop.DATABUILDERAXLibLB.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 15\FUJ-DataTranfer\bin\Debug\PCBase Interface.pdb
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 15\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.pdb
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 15\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.dll.config
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 15\FUJ-DataTranfer\bin\Debug\Ai Production.pdb
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 15\FUJ-DataTranfer\bin\Debug\System.ValueTuple.xml
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 15\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csprojAssemblyReference.cache
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 15\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Form1.resources
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 15\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Part.ucTray.resources
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 15\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Properties.Resources.resources
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 15\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.View.PartTary.resources
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 15\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.GenerateResource.cache
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 15\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.CoreCompileInputs.cache
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 15\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.CopyComplete
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 15\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.exe
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 15\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 15\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe.config
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 15\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 15\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 15\FUJ-DataTranfer\bin\Debug\Ai Production.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 15\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 15\FUJ-DataTranfer\bin\Debug\Interop.ActProgTypeLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 15\FUJ-DataTranfer\bin\Debug\Interop.ActSupportMsgLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 15\FUJ-DataTranfer\bin\Debug\Interop.ActUtlTypeLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 15\FUJ-DataTranfer\bin\Debug\PCBase Interface.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 15\FUJ-DataTranfer\bin\Debug\System.ValueTuple.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 15\FUJ-DataTranfer\bin\Debug\AxInterop.DATABUILDERAXLibLB.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 15\FUJ-DataTranfer\bin\Debug\Interop.DATABUILDERAXLibLB.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 15\FUJ-DataTranfer\bin\Debug\PCBase Interface.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 15\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 15\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.dll.config
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 15\FUJ-DataTranfer\bin\Debug\Ai Production.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 15\FUJ-DataTranfer\bin\Debug\System.ValueTuple.xml
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 15\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csprojAssemblyReference.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 15\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Form1.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 15\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Part.ucTray.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 15\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Properties.Resources.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 15\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.View.PartTary.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 15\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.GenerateResource.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 15\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.CoreCompileInputs.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 15\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.CopyComplete
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 15\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.exe
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 15\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 16\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe.config
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 16\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 16\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 16\FUJ-DataTranfer\bin\Debug\Ai Production.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 16\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 16\FUJ-DataTranfer\bin\Debug\Interop.ActProgTypeLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 16\FUJ-DataTranfer\bin\Debug\Interop.ActSupportMsgLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 16\FUJ-DataTranfer\bin\Debug\Interop.ActUtlTypeLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 16\FUJ-DataTranfer\bin\Debug\PCBase Interface.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 16\FUJ-DataTranfer\bin\Debug\System.ValueTuple.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 16\FUJ-DataTranfer\bin\Debug\AxInterop.DATABUILDERAXLibLB.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 16\FUJ-DataTranfer\bin\Debug\Interop.DATABUILDERAXLibLB.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 16\FUJ-DataTranfer\bin\Debug\PCBase Interface.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 16\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 16\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.dll.config
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 16\FUJ-DataTranfer\bin\Debug\Ai Production.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 16\FUJ-DataTranfer\bin\Debug\System.ValueTuple.xml
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 16\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csprojAssemblyReference.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 16\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Form1.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 16\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Part.ucTray.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 16\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Properties.Resources.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 16\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.View.PartTary.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 16\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.GenerateResource.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 16\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.CoreCompileInputs.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 16\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.CopyComplete
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 16\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.exe
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 16\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 17\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe.config
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 17\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 17\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 17\FUJ-DataTranfer\bin\Debug\Ai Production.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 17\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 17\FUJ-DataTranfer\bin\Debug\Interop.ActProgTypeLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 17\FUJ-DataTranfer\bin\Debug\Interop.ActSupportMsgLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 17\FUJ-DataTranfer\bin\Debug\Interop.ActUtlTypeLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 17\FUJ-DataTranfer\bin\Debug\PCBase Interface.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 17\FUJ-DataTranfer\bin\Debug\System.ValueTuple.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 17\FUJ-DataTranfer\bin\Debug\AxInterop.DATABUILDERAXLibLB.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 17\FUJ-DataTranfer\bin\Debug\Interop.DATABUILDERAXLibLB.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 17\FUJ-DataTranfer\bin\Debug\PCBase Interface.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 17\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 17\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.dll.config
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 17\FUJ-DataTranfer\bin\Debug\Ai Production.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 17\FUJ-DataTranfer\bin\Debug\System.ValueTuple.xml
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 17\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csprojAssemblyReference.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 17\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Form1.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 17\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Part.ucTray.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 17\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Properties.Resources.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 17\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.View.PartTary.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 17\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.GenerateResource.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 17\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.CoreCompileInputs.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 17\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.CopyComplete
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 17\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.exe
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 17\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 18\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csprojAssemblyReference.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 18\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Form1.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 18\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Part.ucTray.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 18\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Properties.Resources.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 18\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.View.PartTary.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 18\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.GenerateResource.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 18\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.CoreCompileInputs.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 18\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.exe
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 18\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 18\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe.config
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 18\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 18\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 18\FUJ-DataTranfer\bin\Debug\Ai Production.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 18\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 18\FUJ-DataTranfer\bin\Debug\Interop.ActProgTypeLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 18\FUJ-DataTranfer\bin\Debug\Interop.ActSupportMsgLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 18\FUJ-DataTranfer\bin\Debug\Interop.ActUtlTypeLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 18\FUJ-DataTranfer\bin\Debug\PCBase Interface.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 18\FUJ-DataTranfer\bin\Debug\System.ValueTuple.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 18\FUJ-DataTranfer\bin\Debug\AxInterop.DATABUILDERAXLibLB.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 18\FUJ-DataTranfer\bin\Debug\Interop.DATABUILDERAXLibLB.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 18\FUJ-DataTranfer\bin\Debug\PCBase Interface.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 18\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 18\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.dll.config
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 18\FUJ-DataTranfer\bin\Debug\Ai Production.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 18\FUJ-DataTranfer\bin\Debug\System.ValueTuple.xml
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 18\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.CopyComplete
+C:\Users\JEERAWAT\Desktop\FUJ-DataTranfer - 18\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe.config
+C:\Users\JEERAWAT\Desktop\FUJ-DataTranfer - 18\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe
+C:\Users\JEERAWAT\Desktop\FUJ-DataTranfer - 18\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.pdb
+C:\Users\JEERAWAT\Desktop\FUJ-DataTranfer - 18\FUJ-DataTranfer\bin\Debug\Ai Production.dll
+C:\Users\JEERAWAT\Desktop\FUJ-DataTranfer - 18\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.dll
+C:\Users\JEERAWAT\Desktop\FUJ-DataTranfer - 18\FUJ-DataTranfer\bin\Debug\Interop.ActProgTypeLib.dll
+C:\Users\JEERAWAT\Desktop\FUJ-DataTranfer - 18\FUJ-DataTranfer\bin\Debug\PCBase Interface.dll
+C:\Users\JEERAWAT\Desktop\FUJ-DataTranfer - 18\FUJ-DataTranfer\bin\Debug\System.ValueTuple.dll
+C:\Users\JEERAWAT\Desktop\FUJ-DataTranfer - 18\FUJ-DataTranfer\bin\Debug\AxInterop.DATABUILDERAXLibLB.dll
+C:\Users\JEERAWAT\Desktop\FUJ-DataTranfer - 18\FUJ-DataTranfer\bin\Debug\Interop.DATABUILDERAXLibLB.dll
+C:\Users\JEERAWAT\Desktop\FUJ-DataTranfer - 18\FUJ-DataTranfer\bin\Debug\PCBase Interface.pdb
+C:\Users\JEERAWAT\Desktop\FUJ-DataTranfer - 18\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.pdb
+C:\Users\JEERAWAT\Desktop\FUJ-DataTranfer - 18\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.dll.config
+C:\Users\JEERAWAT\Desktop\FUJ-DataTranfer - 18\FUJ-DataTranfer\bin\Debug\Ai Production.pdb
+C:\Users\JEERAWAT\Desktop\FUJ-DataTranfer - 18\FUJ-DataTranfer\bin\Debug\System.ValueTuple.xml
+C:\Users\JEERAWAT\Desktop\FUJ-DataTranfer - 18\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csprojAssemblyReference.cache
+C:\Users\JEERAWAT\Desktop\FUJ-DataTranfer - 18\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Form1.resources
+C:\Users\JEERAWAT\Desktop\FUJ-DataTranfer - 18\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Part.ucTray.resources
+C:\Users\JEERAWAT\Desktop\FUJ-DataTranfer - 18\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Properties.Resources.resources
+C:\Users\JEERAWAT\Desktop\FUJ-DataTranfer - 18\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.View.PartTary.resources
+C:\Users\JEERAWAT\Desktop\FUJ-DataTranfer - 18\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.GenerateResource.cache
+C:\Users\JEERAWAT\Desktop\FUJ-DataTranfer - 18\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.CoreCompileInputs.cache
+C:\Users\JEERAWAT\Desktop\FUJ-DataTranfer - 18\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.CopyComplete
+C:\Users\JEERAWAT\Desktop\FUJ-DataTranfer - 18\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.exe
+C:\Users\JEERAWAT\Desktop\FUJ-DataTranfer - 18\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 19\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe.config
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 19\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 19\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 19\FUJ-DataTranfer\bin\Debug\Ai Production.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 19\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 19\FUJ-DataTranfer\bin\Debug\Interop.ActProgTypeLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 19\FUJ-DataTranfer\bin\Debug\Interop.ActSupportMsgLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 19\FUJ-DataTranfer\bin\Debug\Interop.ActUtlTypeLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 19\FUJ-DataTranfer\bin\Debug\PCBase Interface.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 19\FUJ-DataTranfer\bin\Debug\System.ValueTuple.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 19\FUJ-DataTranfer\bin\Debug\AxInterop.DATABUILDERAXLibLB.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 19\FUJ-DataTranfer\bin\Debug\Interop.DATABUILDERAXLibLB.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 19\FUJ-DataTranfer\bin\Debug\PCBase Interface.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 19\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 19\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.dll.config
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 19\FUJ-DataTranfer\bin\Debug\Ai Production.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 19\FUJ-DataTranfer\bin\Debug\System.ValueTuple.xml
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 19\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csprojAssemblyReference.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 19\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Form1.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 19\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Part.ucTray.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 19\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Properties.Resources.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 19\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.View.PartTary.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 19\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.GenerateResource.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 19\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.CoreCompileInputs.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 19\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.CopyComplete
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 19\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.exe
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 19\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 20\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe.config
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 20\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 20\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 20\FUJ-DataTranfer\bin\Debug\Ai Production.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 20\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 20\FUJ-DataTranfer\bin\Debug\Interop.ActProgTypeLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 20\FUJ-DataTranfer\bin\Debug\Interop.ActSupportMsgLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 20\FUJ-DataTranfer\bin\Debug\Interop.ActUtlTypeLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 20\FUJ-DataTranfer\bin\Debug\PCBase Interface.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 20\FUJ-DataTranfer\bin\Debug\System.ValueTuple.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 20\FUJ-DataTranfer\bin\Debug\AxInterop.DATABUILDERAXLibLB.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 20\FUJ-DataTranfer\bin\Debug\Interop.DATABUILDERAXLibLB.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 20\FUJ-DataTranfer\bin\Debug\PCBase Interface.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 20\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 20\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.dll.config
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 20\FUJ-DataTranfer\bin\Debug\Ai Production.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 20\FUJ-DataTranfer\bin\Debug\System.ValueTuple.xml
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 20\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csprojAssemblyReference.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 20\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Form1.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 20\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Part.ucTray.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 20\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Properties.Resources.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 20\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.View.PartTary.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 20\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.GenerateResource.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 20\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.CoreCompileInputs.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 20\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.CopyComplete
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 20\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.exe
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 20\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.pdb
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 21\FUJ-DataTranfer - 21\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe.config
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 21\FUJ-DataTranfer - 21\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 21\FUJ-DataTranfer - 21\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.pdb
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 21\FUJ-DataTranfer - 21\FUJ-DataTranfer\bin\Debug\Ai Production.dll
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 21\FUJ-DataTranfer - 21\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.dll
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 21\FUJ-DataTranfer - 21\FUJ-DataTranfer\bin\Debug\Interop.ActProgTypeLib.dll
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 21\FUJ-DataTranfer - 21\FUJ-DataTranfer\bin\Debug\PCBase Interface.dll
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 21\FUJ-DataTranfer - 21\FUJ-DataTranfer\bin\Debug\System.ValueTuple.dll
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 21\FUJ-DataTranfer - 21\FUJ-DataTranfer\bin\Debug\AxInterop.DATABUILDERAXLibLB.dll
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 21\FUJ-DataTranfer - 21\FUJ-DataTranfer\bin\Debug\Interop.DATABUILDERAXLibLB.dll
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 21\FUJ-DataTranfer - 21\FUJ-DataTranfer\bin\Debug\PCBase Interface.pdb
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 21\FUJ-DataTranfer - 21\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.pdb
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 21\FUJ-DataTranfer - 21\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.dll.config
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 21\FUJ-DataTranfer - 21\FUJ-DataTranfer\bin\Debug\Ai Production.pdb
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 21\FUJ-DataTranfer - 21\FUJ-DataTranfer\bin\Debug\System.ValueTuple.xml
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 21\FUJ-DataTranfer - 21\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csprojAssemblyReference.cache
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 21\FUJ-DataTranfer - 21\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Form1.resources
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 21\FUJ-DataTranfer - 21\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Part.ucTray.resources
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 21\FUJ-DataTranfer - 21\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Properties.Resources.resources
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 21\FUJ-DataTranfer - 21\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.View.PartTary.resources
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 21\FUJ-DataTranfer - 21\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.GenerateResource.cache
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 21\FUJ-DataTranfer - 21\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.CoreCompileInputs.cache
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 21\FUJ-DataTranfer - 21\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.CopyComplete
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 21\FUJ-DataTranfer - 21\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.exe
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 21\FUJ-DataTranfer - 21\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.pdb
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe.config
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.pdb
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\bin\Debug\Ai Production.dll
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.dll
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\bin\Debug\Interop.ActProgTypeLib.dll
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\bin\Debug\PCBase Interface.dll
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\bin\Debug\System.ValueTuple.dll
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\bin\Debug\AxInterop.DATABUILDERAXLibLB.dll
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\bin\Debug\Interop.DATABUILDERAXLibLB.dll
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\bin\Debug\PCBase Interface.pdb
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.pdb
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.dll.config
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\bin\Debug\Ai Production.pdb
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\bin\Debug\System.ValueTuple.xml
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csprojAssemblyReference.cache
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Form1.resources
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Part.ucTray.resources
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Properties.Resources.resources
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.View.PartTary.resources
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.GenerateResource.cache
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.CoreCompileInputs.cache
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.CopyComplete
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.exe
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.pdb
+C:\Users\Administrator\Desktop\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe.config
+C:\Users\Administrator\Desktop\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe
+C:\Users\Administrator\Desktop\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.pdb
+C:\Users\Administrator\Desktop\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\bin\Debug\Ai Production.dll
+C:\Users\Administrator\Desktop\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.dll
+C:\Users\Administrator\Desktop\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\bin\Debug\Interop.ActProgTypeLib.dll
+C:\Users\Administrator\Desktop\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\bin\Debug\PCBase Interface.dll
+C:\Users\Administrator\Desktop\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\bin\Debug\System.ValueTuple.dll
+C:\Users\Administrator\Desktop\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\bin\Debug\AxInterop.DATABUILDERAXLibLB.dll
+C:\Users\Administrator\Desktop\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\bin\Debug\Interop.DATABUILDERAXLibLB.dll
+C:\Users\Administrator\Desktop\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\bin\Debug\PCBase Interface.pdb
+C:\Users\Administrator\Desktop\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.pdb
+C:\Users\Administrator\Desktop\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\bin\Debug\Ai Production.pdb
+C:\Users\Administrator\Desktop\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\bin\Debug\System.ValueTuple.xml
+C:\Users\Administrator\Desktop\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Form1.resources
+C:\Users\Administrator\Desktop\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Part.ucTray.resources
+C:\Users\Administrator\Desktop\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Properties.Resources.resources
+C:\Users\Administrator\Desktop\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.View.PartTary.resources
+C:\Users\Administrator\Desktop\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.exe
+C:\Users\Administrator\Desktop\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.pdb
+D:\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe.config
+D:\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.exe
+D:\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.pdb
+D:\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe
+D:\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.pdb
+D:\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\bin\Debug\Ai Production.dll
+D:\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.dll
+D:\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\bin\Debug\Interop.ActProgTypeLib.dll
+D:\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\bin\Debug\PCBase Interface.dll
+D:\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\bin\Debug\System.ValueTuple.dll
+D:\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\bin\Debug\AxInterop.DATABUILDERAXLibLB.dll
+D:\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\bin\Debug\Interop.DATABUILDERAXLibLB.dll
+D:\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\bin\Debug\PCBase Interface.pdb
+D:\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.pdb
+D:\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\bin\Debug\Ai Production.pdb
+D:\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\bin\Debug\System.ValueTuple.xml
+D:\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csprojResolveAssemblyReference.cache
+D:\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Form1.resources
+D:\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Part.ucTray.resources
+D:\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Properties.Resources.resources
+D:\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.View.PartTary.resources
+D:\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer - 23\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.GenerateResource.Cache
+D:\FUJ-DataTranfer - 23\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe.config
+D:\FUJ-DataTranfer - 23\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.exe
+D:\FUJ-DataTranfer - 23\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.pdb
+D:\FUJ-DataTranfer - 23\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe
+D:\FUJ-DataTranfer - 23\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.pdb
+D:\FUJ-DataTranfer - 23\FUJ-DataTranfer\bin\Debug\Ai Production.dll
+D:\FUJ-DataTranfer - 23\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.dll
+D:\FUJ-DataTranfer - 23\FUJ-DataTranfer\bin\Debug\Interop.ActProgTypeLib.dll
+D:\FUJ-DataTranfer - 23\FUJ-DataTranfer\bin\Debug\PCBase Interface.dll
+D:\FUJ-DataTranfer - 23\FUJ-DataTranfer\bin\Debug\System.ValueTuple.dll
+D:\FUJ-DataTranfer - 23\FUJ-DataTranfer\bin\Debug\AxInterop.DATABUILDERAXLibLB.dll
+D:\FUJ-DataTranfer - 23\FUJ-DataTranfer\bin\Debug\Interop.DATABUILDERAXLibLB.dll
+D:\FUJ-DataTranfer - 23\FUJ-DataTranfer\bin\Debug\PCBase Interface.pdb
+D:\FUJ-DataTranfer - 23\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.pdb
+D:\FUJ-DataTranfer - 23\FUJ-DataTranfer\bin\Debug\Ai Production.pdb
+D:\FUJ-DataTranfer - 23\FUJ-DataTranfer\bin\Debug\System.ValueTuple.xml
+D:\FUJ-DataTranfer - 23\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csprojResolveAssemblyReference.cache
+D:\FUJ-DataTranfer - 23\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Form1.resources
+D:\FUJ-DataTranfer - 23\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Part.ucTray.resources
+D:\FUJ-DataTranfer - 23\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Properties.Resources.resources
+D:\FUJ-DataTranfer - 23\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.View.PartTary.resources
+D:\FUJ-DataTranfer - 23\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.GenerateResource.Cache
+D:\FUJ-DataTranfer - 24\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csprojResolveAssemblyReference.cache
+D:\FUJ-DataTranfer - 24\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Form1.resources
+D:\FUJ-DataTranfer - 24\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Part.ucTray.resources
+D:\FUJ-DataTranfer - 24\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Properties.Resources.resources
+D:\FUJ-DataTranfer - 24\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.View.PartTary.resources
+D:\FUJ-DataTranfer - 24\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.GenerateResource.Cache
+D:\FUJ-DataTranfer - 24\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe.config
+D:\FUJ-DataTranfer - 24\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe
+D:\FUJ-DataTranfer - 24\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.pdb
+D:\FUJ-DataTranfer - 24\FUJ-DataTranfer\bin\Debug\Ai Production.dll
+D:\FUJ-DataTranfer - 24\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.dll
+D:\FUJ-DataTranfer - 24\FUJ-DataTranfer\bin\Debug\Interop.ActProgTypeLib.dll
+D:\FUJ-DataTranfer - 24\FUJ-DataTranfer\bin\Debug\PCBase Interface.dll
+D:\FUJ-DataTranfer - 24\FUJ-DataTranfer\bin\Debug\System.ValueTuple.dll
+D:\FUJ-DataTranfer - 24\FUJ-DataTranfer\bin\Debug\AxInterop.DATABUILDERAXLibLB.dll
+D:\FUJ-DataTranfer - 24\FUJ-DataTranfer\bin\Debug\Interop.DATABUILDERAXLibLB.dll
+D:\FUJ-DataTranfer - 24\FUJ-DataTranfer\bin\Debug\PCBase Interface.pdb
+D:\FUJ-DataTranfer - 24\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.pdb
+D:\FUJ-DataTranfer - 24\FUJ-DataTranfer\bin\Debug\Ai Production.pdb
+D:\FUJ-DataTranfer - 24\FUJ-DataTranfer\bin\Debug\System.ValueTuple.xml
+D:\FUJ-DataTranfer - 24\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.exe
+D:\FUJ-DataTranfer - 24\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe.config
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\Ai Production.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\Interop.ActProgTypeLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\Interop.ActSupportMsgLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\Interop.ActUtlTypeLib.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\PCBase Interface.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\System.ValueTuple.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\AxInterop.DATABUILDERAXLibLB.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\Interop.DATABUILDERAXLibLB.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\PCBase Interface.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.dll.config
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\Ai Production.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\System.ValueTuple.xml
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 25\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csprojAssemblyReference.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 25\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Form1.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 25\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Part.ucTray.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 25\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Properties.Resources.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 25\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.View.PartTary.resources
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 25\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.GenerateResource.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 25\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.CoreCompileInputs.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 25\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.CopyComplete
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 25\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.exe
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 25\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.pdb
+E:\WORK MWI\FUJI\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe.config
+E:\WORK MWI\FUJI\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.exe
+E:\WORK MWI\FUJI\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.pdb
+D:\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe.config
+D:\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.exe
+D:\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.pdb
+D:\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe
+D:\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.pdb
+D:\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\Ai Production.dll
+D:\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.dll
+D:\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\Interop.ActProgTypeLib.dll
+D:\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\PCBase Interface.dll
+D:\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\System.ValueTuple.dll
+D:\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\AxInterop.DATABUILDERAXLibLB.dll
+D:\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\Interop.DATABUILDERAXLibLB.dll
+D:\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\PCBase Interface.pdb
+D:\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.pdb
+D:\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\Ai Production.pdb
+D:\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\System.ValueTuple.xml
+D:\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csprojResolveAssemblyReference.cache
+D:\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Form1.resources
+D:\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Part.ucTray.resources
+D:\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Properties.Resources.resources
+D:\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.View.PartTary.resources
+D:\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.GenerateResource.Cache
+E:\WORK MWI\FUJI\TRAY_MODEL_PROGRAM\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe.config
+E:\WORK MWI\FUJI\TRAY_MODEL_PROGRAM\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe
+E:\WORK MWI\FUJI\TRAY_MODEL_PROGRAM\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.pdb
+E:\WORK MWI\FUJI\TRAY_MODEL_PROGRAM\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\Ai Production.dll
+E:\WORK MWI\FUJI\TRAY_MODEL_PROGRAM\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.dll
+E:\WORK MWI\FUJI\TRAY_MODEL_PROGRAM\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\Interop.ActProgTypeLib.dll
+E:\WORK MWI\FUJI\TRAY_MODEL_PROGRAM\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\PCBase Interface.dll
+E:\WORK MWI\FUJI\TRAY_MODEL_PROGRAM\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\System.ValueTuple.dll
+E:\WORK MWI\FUJI\TRAY_MODEL_PROGRAM\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\AxInterop.DATABUILDERAXLibLB.dll
+E:\WORK MWI\FUJI\TRAY_MODEL_PROGRAM\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\Interop.DATABUILDERAXLibLB.dll
+E:\WORK MWI\FUJI\TRAY_MODEL_PROGRAM\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\PCBase Interface.pdb
+E:\WORK MWI\FUJI\TRAY_MODEL_PROGRAM\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.pdb
+E:\WORK MWI\FUJI\TRAY_MODEL_PROGRAM\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.dll.config
+E:\WORK MWI\FUJI\TRAY_MODEL_PROGRAM\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\Ai Production.pdb
+E:\WORK MWI\FUJI\TRAY_MODEL_PROGRAM\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\System.ValueTuple.xml
+E:\WORK MWI\FUJI\TRAY_MODEL_PROGRAM\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csprojAssemblyReference.cache
+E:\WORK MWI\FUJI\TRAY_MODEL_PROGRAM\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Form1.resources
+E:\WORK MWI\FUJI\TRAY_MODEL_PROGRAM\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.FrmSetposi.resources
+E:\WORK MWI\FUJI\TRAY_MODEL_PROGRAM\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Part.ucTray.resources
+E:\WORK MWI\FUJI\TRAY_MODEL_PROGRAM\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Properties.Resources.resources
+E:\WORK MWI\FUJI\TRAY_MODEL_PROGRAM\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.View.PartTary.resources
+E:\WORK MWI\FUJI\TRAY_MODEL_PROGRAM\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.GenerateResource.cache
+E:\WORK MWI\FUJI\TRAY_MODEL_PROGRAM\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.CoreCompileInputs.cache
+E:\WORK MWI\FUJI\TRAY_MODEL_PROGRAM\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.CopyComplete
+E:\WORK MWI\FUJI\TRAY_MODEL_PROGRAM\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.exe
+E:\WORK MWI\FUJI\TRAY_MODEL_PROGRAM\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.pdb
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe.config
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.exe
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.pdb
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.pdb
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\Ai Production.dll
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.dll
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\Interop.ActProgTypeLib.dll
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\PCBase Interface.dll
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\System.ValueTuple.dll
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\AxInterop.DATABUILDERAXLibLB.dll
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\Interop.DATABUILDERAXLibLB.dll
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\PCBase Interface.pdb
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.pdb
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\Ai Production.pdb
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\System.ValueTuple.xml
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csprojResolveAssemblyReference.cache
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Form1.resources
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.FrmSetposi.resources
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Part.ucTray.resources
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Properties.Resources.resources
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.View.PartTary.resources
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.GenerateResource.Cache
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 26_ALL_MODEL\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe.config
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 26_ALL_MODEL\FUJ-DataTranfer - 25\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.exe
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 26_ALL_MODEL\FUJ-DataTranfer - 25\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.pdb
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 26_ALL_MODEL\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 26_ALL_MODEL\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.pdb
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 26_ALL_MODEL\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\Ai Production.dll
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 26_ALL_MODEL\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.dll
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 26_ALL_MODEL\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\Interop.ActProgTypeLib.dll
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 26_ALL_MODEL\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\PCBase Interface.dll
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 26_ALL_MODEL\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\System.ValueTuple.dll
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 26_ALL_MODEL\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\AxInterop.DATABUILDERAXLibLB.dll
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 26_ALL_MODEL\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\Interop.DATABUILDERAXLibLB.dll
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 26_ALL_MODEL\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\PCBase Interface.pdb
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 26_ALL_MODEL\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.pdb
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 26_ALL_MODEL\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\Ai Production.pdb
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 26_ALL_MODEL\FUJ-DataTranfer - 25\FUJ-DataTranfer\bin\Debug\System.ValueTuple.xml
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 26_ALL_MODEL\FUJ-DataTranfer - 25\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csprojResolveAssemblyReference.cache
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 26_ALL_MODEL\FUJ-DataTranfer - 25\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Form1.resources
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 26_ALL_MODEL\FUJ-DataTranfer - 25\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Part.ucTray.resources
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 26_ALL_MODEL\FUJ-DataTranfer - 25\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Properties.Resources.resources
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 26_ALL_MODEL\FUJ-DataTranfer - 25\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.View.PartTary.resources
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 26_ALL_MODEL\FUJ-DataTranfer - 25\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.GenerateResource.Cache
+D:\FUJ-DataTranfer _26_For_Allmodel\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe.config
+D:\FUJ-DataTranfer _26_For_Allmodel\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.exe
+D:\FUJ-DataTranfer _26_For_Allmodel\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.pdb
+D:\FUJ-DataTranfer _26_For_Allmodel\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe
+D:\FUJ-DataTranfer _26_For_Allmodel\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.pdb
+D:\FUJ-DataTranfer _26_For_Allmodel\FUJ-DataTranfer\bin\Debug\Ai Production.dll
+D:\FUJ-DataTranfer _26_For_Allmodel\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.dll
+D:\FUJ-DataTranfer _26_For_Allmodel\FUJ-DataTranfer\bin\Debug\Interop.ActProgTypeLib.dll
+D:\FUJ-DataTranfer _26_For_Allmodel\FUJ-DataTranfer\bin\Debug\PCBase Interface.dll
+D:\FUJ-DataTranfer _26_For_Allmodel\FUJ-DataTranfer\bin\Debug\System.ValueTuple.dll
+D:\FUJ-DataTranfer _26_For_Allmodel\FUJ-DataTranfer\bin\Debug\AxInterop.DATABUILDERAXLibLB.dll
+D:\FUJ-DataTranfer _26_For_Allmodel\FUJ-DataTranfer\bin\Debug\Interop.DATABUILDERAXLibLB.dll
+D:\FUJ-DataTranfer _26_For_Allmodel\FUJ-DataTranfer\bin\Debug\PCBase Interface.pdb
+D:\FUJ-DataTranfer _26_For_Allmodel\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.pdb
+D:\FUJ-DataTranfer _26_For_Allmodel\FUJ-DataTranfer\bin\Debug\Ai Production.pdb
+D:\FUJ-DataTranfer _26_For_Allmodel\FUJ-DataTranfer\bin\Debug\System.ValueTuple.xml
+D:\FUJ-DataTranfer _26_For_Allmodel\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Form1.resources
+D:\FUJ-DataTranfer _26_For_Allmodel\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Part.ucTray.resources
+D:\FUJ-DataTranfer _26_For_Allmodel\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Properties.Resources.resources
+D:\FUJ-DataTranfer _26_For_Allmodel\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.View.PartTary.resources
+D:\FUJ-DataTranfer _26_For_Allmodel\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.GenerateResource.Cache
+E:\WORK_MWI\FUJI\microstep\FUJ-DataTranfer _26_For_Allmodel\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe.config
+E:\WORK_MWI\FUJI\microstep\FUJ-DataTranfer _26_For_Allmodel\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.exe
+E:\WORK_MWI\FUJI\microstep\FUJ-DataTranfer _26_For_Allmodel\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.pdb
+E:\WORK_MWI\FUJI\microstep\FUJ-DataTranfer _26_For_Allmodel\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.exe
+E:\WORK_MWI\FUJI\microstep\FUJ-DataTranfer _26_For_Allmodel\FUJ-DataTranfer\bin\Debug\FUJ-DataTranfer.pdb
+E:\WORK_MWI\FUJI\microstep\FUJ-DataTranfer _26_For_Allmodel\FUJ-DataTranfer\bin\Debug\Ai Production.dll
+E:\WORK_MWI\FUJI\microstep\FUJ-DataTranfer _26_For_Allmodel\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.dll
+E:\WORK_MWI\FUJI\microstep\FUJ-DataTranfer _26_For_Allmodel\FUJ-DataTranfer\bin\Debug\Interop.ActProgTypeLib.dll
+E:\WORK_MWI\FUJI\microstep\FUJ-DataTranfer _26_For_Allmodel\FUJ-DataTranfer\bin\Debug\PCBase Interface.dll
+E:\WORK_MWI\FUJI\microstep\FUJ-DataTranfer _26_For_Allmodel\FUJ-DataTranfer\bin\Debug\System.ValueTuple.dll
+E:\WORK_MWI\FUJI\microstep\FUJ-DataTranfer _26_For_Allmodel\FUJ-DataTranfer\bin\Debug\AxInterop.DATABUILDERAXLibLB.dll
+E:\WORK_MWI\FUJI\microstep\FUJ-DataTranfer _26_For_Allmodel\FUJ-DataTranfer\bin\Debug\Interop.DATABUILDERAXLibLB.dll
+E:\WORK_MWI\FUJI\microstep\FUJ-DataTranfer _26_For_Allmodel\FUJ-DataTranfer\bin\Debug\PCBase Interface.pdb
+E:\WORK_MWI\FUJI\microstep\FUJ-DataTranfer _26_For_Allmodel\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.pdb
+E:\WORK_MWI\FUJI\microstep\FUJ-DataTranfer _26_For_Allmodel\FUJ-DataTranfer\bin\Debug\Ai_PCSystem.dll.config
+E:\WORK_MWI\FUJI\microstep\FUJ-DataTranfer _26_For_Allmodel\FUJ-DataTranfer\bin\Debug\Ai Production.pdb
+E:\WORK_MWI\FUJI\microstep\FUJ-DataTranfer _26_For_Allmodel\FUJ-DataTranfer\bin\Debug\System.ValueTuple.xml
+E:\WORK_MWI\FUJI\microstep\FUJ-DataTranfer _26_For_Allmodel\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csprojAssemblyReference.cache
+E:\WORK_MWI\FUJI\microstep\FUJ-DataTranfer _26_For_Allmodel\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Form1.resources
+E:\WORK_MWI\FUJI\microstep\FUJ-DataTranfer _26_For_Allmodel\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Part.ucTray.resources
+E:\WORK_MWI\FUJI\microstep\FUJ-DataTranfer _26_For_Allmodel\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Properties.Resources.resources
+E:\WORK_MWI\FUJI\microstep\FUJ-DataTranfer _26_For_Allmodel\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.View.PartTary.resources
+E:\WORK_MWI\FUJI\microstep\FUJ-DataTranfer _26_For_Allmodel\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.GenerateResource.cache
+E:\WORK_MWI\FUJI\microstep\FUJ-DataTranfer _26_For_Allmodel\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.CoreCompileInputs.cache
+E:\WORK_MWI\FUJI\microstep\FUJ-DataTranfer _26_For_Allmodel\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.CopyComplete
+C:\Users\dell xsp\OneDrive\Desktop\FUJ-DataTranfer _26_For_Allmodel\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csprojAssemblyReference.cache
+C:\Users\dell xsp\OneDrive\Desktop\FUJ-DataTranfer _26_For_Allmodel\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Form1.resources
+C:\Users\dell xsp\OneDrive\Desktop\FUJ-DataTranfer _26_For_Allmodel\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Part.ucTray.resources
+C:\Users\dell xsp\OneDrive\Desktop\FUJ-DataTranfer _26_For_Allmodel\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.Properties.Resources.resources
+C:\Users\dell xsp\OneDrive\Desktop\FUJ-DataTranfer _26_For_Allmodel\FUJ-DataTranfer\obj\Debug\FUJ_DataTranfer.View.PartTary.resources
+C:\Users\dell xsp\OneDrive\Desktop\FUJ-DataTranfer _26_For_Allmodel\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.GenerateResource.cache
+C:\Users\dell xsp\OneDrive\Desktop\FUJ-DataTranfer _26_For_Allmodel\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csproj.CoreCompileInputs.cache
+C:\Users\dell xsp\OneDrive\Desktop\FUJ-DataTranfer _26_For_Allmodel\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.exe
+C:\Users\dell xsp\OneDrive\Desktop\FUJ-DataTranfer _26_For_Allmodel\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.pdb
+D:\FUJ-DataTranfer _26_For_Allmodel\FUJ-DataTranfer\obj\Debug\FUJ-DataTranfer.csprojResolveAssemblyReference.cache

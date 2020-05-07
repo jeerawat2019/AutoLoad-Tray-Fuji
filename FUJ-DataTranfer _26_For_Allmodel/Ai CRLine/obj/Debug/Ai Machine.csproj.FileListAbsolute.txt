@@ -1,0 +1,248 @@
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 11\Ai CRLine\bin\Debug\Ai CRLine.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 11\Ai CRLine\bin\Debug\Ai CRLine.pdb
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 11\Ai CRLine\bin\Debug\PCBase Interface.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 11\Ai CRLine\bin\Debug\AxInterop.DATABUILDERAXLibLB.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 11\Ai CRLine\bin\Debug\Interop.DATABUILDERAXLibLB.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 11\Ai CRLine\bin\Debug\PCBase Interface.pdb
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 11\Ai CRLine\obj\Debug\Ai Machine.csprojAssemblyReference.cache
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 11\Ai CRLine\obj\Debug\Ai Machine.csproj.CoreCompileInputs.cache
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 11\Ai CRLine\obj\Debug\Ai Machine.csproj.CopyComplete
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 11\Ai CRLine\obj\Debug\Ai CRLine.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 11\Ai CRLine\obj\Debug\Ai CRLine.pdb
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 12\Ai CRLine\bin\Debug\Ai CRLine.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 12\Ai CRLine\bin\Debug\Ai CRLine.pdb
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 12\Ai CRLine\bin\Debug\PCBase Interface.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 12\Ai CRLine\bin\Debug\AxInterop.DATABUILDERAXLibLB.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 12\Ai CRLine\bin\Debug\Interop.DATABUILDERAXLibLB.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 12\Ai CRLine\bin\Debug\PCBase Interface.pdb
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 12\Ai CRLine\obj\Debug\Ai Machine.csprojAssemblyReference.cache
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 12\Ai CRLine\obj\Debug\Ai Machine.csproj.CoreCompileInputs.cache
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 12\Ai CRLine\obj\Debug\Ai Machine.csproj.CopyComplete
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 12\Ai CRLine\obj\Debug\Ai CRLine.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 12\Ai CRLine\obj\Debug\Ai CRLine.pdb
+D:\Project Automation 2003\036_MITSUBISHI TUREBO\CR AssyLoging - 13\Ai CRLine\bin\Debug\Ai CRLine.dll
+D:\Project Automation 2003\036_MITSUBISHI TUREBO\CR AssyLoging - 13\Ai CRLine\bin\Debug\Ai CRLine.pdb
+D:\Project Automation 2003\036_MITSUBISHI TUREBO\CR AssyLoging - 13\Ai CRLine\bin\Debug\PCBase Interface.dll
+D:\Project Automation 2003\036_MITSUBISHI TUREBO\CR AssyLoging - 13\Ai CRLine\bin\Debug\AxInterop.DATABUILDERAXLibLB.dll
+D:\Project Automation 2003\036_MITSUBISHI TUREBO\CR AssyLoging - 13\Ai CRLine\bin\Debug\Interop.DATABUILDERAXLibLB.dll
+D:\Project Automation 2003\036_MITSUBISHI TUREBO\CR AssyLoging - 13\Ai CRLine\bin\Debug\PCBase Interface.pdb
+D:\Project Automation 2003\036_MITSUBISHI TUREBO\CR AssyLoging - 13\Ai CRLine\obj\Debug\Ai Machine.csprojResolveAssemblyReference.cache
+D:\Project Automation 2003\036_MITSUBISHI TUREBO\CR AssyLoging - 13\Ai CRLine\obj\Debug\Ai CRLine.dll
+D:\Project Automation 2003\036_MITSUBISHI TUREBO\CR AssyLoging - 13\Ai CRLine\obj\Debug\Ai CRLine.pdb
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 14\Ai CRLine\bin\Debug\Ai CRLine.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 14\Ai CRLine\bin\Debug\Ai CRLine.pdb
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 14\Ai CRLine\bin\Debug\PCBase Interface.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 14\Ai CRLine\bin\Debug\AxInterop.DATABUILDERAXLibLB.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 14\Ai CRLine\bin\Debug\Interop.DATABUILDERAXLibLB.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 14\Ai CRLine\bin\Debug\PCBase Interface.pdb
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 14\Ai CRLine\obj\Debug\Ai Machine.csprojAssemblyReference.cache
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 14\Ai CRLine\obj\Debug\Ai Machine.csproj.CoreCompileInputs.cache
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 14\Ai CRLine\obj\Debug\Ai Machine.csproj.CopyComplete
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 14\Ai CRLine\obj\Debug\Ai CRLine.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 14\Ai CRLine\obj\Debug\Ai CRLine.pdb
+C:\Users\Jeerawat\Dropbox\CR AssyLoging - 14\Ai CRLine\bin\Debug\Ai CRLine.dll
+C:\Users\Jeerawat\Dropbox\CR AssyLoging - 14\Ai CRLine\bin\Debug\Ai CRLine.pdb
+C:\Users\Jeerawat\Dropbox\CR AssyLoging - 14\Ai CRLine\bin\Debug\PCBase Interface.dll
+C:\Users\Jeerawat\Dropbox\CR AssyLoging - 14\Ai CRLine\bin\Debug\AxInterop.DATABUILDERAXLibLB.dll
+C:\Users\Jeerawat\Dropbox\CR AssyLoging - 14\Ai CRLine\bin\Debug\Interop.DATABUILDERAXLibLB.dll
+C:\Users\Jeerawat\Dropbox\CR AssyLoging - 14\Ai CRLine\bin\Debug\PCBase Interface.pdb
+C:\Users\Jeerawat\Dropbox\CR AssyLoging - 14\Ai CRLine\obj\Debug\Ai Machine.csprojResolveAssemblyReference.cache
+C:\Users\Jeerawat\Dropbox\CR AssyLoging - 14\Ai CRLine\obj\Debug\Ai CRLine.dll
+C:\Users\Jeerawat\Dropbox\CR AssyLoging - 14\Ai CRLine\obj\Debug\Ai CRLine.pdb
+C:\Users\dell xsp\Dropbox\CR AssyLoging - 14\Ai CRLine\bin\Debug\Ai CRLine.dll
+C:\Users\dell xsp\Dropbox\CR AssyLoging - 14\Ai CRLine\bin\Debug\Ai CRLine.pdb
+C:\Users\dell xsp\Dropbox\CR AssyLoging - 14\Ai CRLine\bin\Debug\PCBase Interface.dll
+C:\Users\dell xsp\Dropbox\CR AssyLoging - 14\Ai CRLine\bin\Debug\AxInterop.DATABUILDERAXLibLB.dll
+C:\Users\dell xsp\Dropbox\CR AssyLoging - 14\Ai CRLine\bin\Debug\Interop.DATABUILDERAXLibLB.dll
+C:\Users\dell xsp\Dropbox\CR AssyLoging - 14\Ai CRLine\bin\Debug\PCBase Interface.pdb
+C:\Users\dell xsp\Dropbox\CR AssyLoging - 14\Ai CRLine\obj\Debug\Ai Machine.csprojAssemblyReference.cache
+C:\Users\dell xsp\Dropbox\CR AssyLoging - 14\Ai CRLine\obj\Debug\Ai Machine.csproj.CoreCompileInputs.cache
+C:\Users\dell xsp\Dropbox\CR AssyLoging - 14\Ai CRLine\obj\Debug\Ai Machine.csproj.CopyComplete
+C:\Users\dell xsp\Dropbox\CR AssyLoging - 14\Ai CRLine\obj\Debug\Ai CRLine.dll
+C:\Users\dell xsp\Dropbox\CR AssyLoging - 14\Ai CRLine\obj\Debug\Ai CRLine.pdb
+C:\Users\Jeerawat\Dropbox\CR AssyLoging - 15\Ai CRLine\bin\Debug\Ai CRLine.dll
+C:\Users\Jeerawat\Dropbox\CR AssyLoging - 15\Ai CRLine\bin\Debug\Ai CRLine.pdb
+C:\Users\Jeerawat\Dropbox\CR AssyLoging - 15\Ai CRLine\bin\Debug\PCBase Interface.dll
+C:\Users\Jeerawat\Dropbox\CR AssyLoging - 15\Ai CRLine\bin\Debug\AxInterop.DATABUILDERAXLibLB.dll
+C:\Users\Jeerawat\Dropbox\CR AssyLoging - 15\Ai CRLine\bin\Debug\Interop.DATABUILDERAXLibLB.dll
+C:\Users\Jeerawat\Dropbox\CR AssyLoging - 15\Ai CRLine\bin\Debug\PCBase Interface.pdb
+C:\Users\Jeerawat\Dropbox\CR AssyLoging - 15\Ai CRLine\obj\Debug\Ai Machine.csprojResolveAssemblyReference.cache
+C:\Users\Jeerawat\Dropbox\CR AssyLoging - 15\Ai CRLine\obj\Debug\Ai CRLine.dll
+C:\Users\Jeerawat\Dropbox\CR AssyLoging - 15\Ai CRLine\obj\Debug\Ai CRLine.pdb
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 15\Ai CRLine\bin\Debug\Ai CRLine.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 15\Ai CRLine\bin\Debug\Ai CRLine.pdb
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 15\Ai CRLine\bin\Debug\PCBase Interface.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 15\Ai CRLine\bin\Debug\AxInterop.DATABUILDERAXLibLB.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 15\Ai CRLine\bin\Debug\Interop.DATABUILDERAXLibLB.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 15\Ai CRLine\bin\Debug\PCBase Interface.pdb
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 15\Ai CRLine\obj\Debug\Ai Machine.csprojAssemblyReference.cache
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 15\Ai CRLine\obj\Debug\Ai Machine.csproj.CoreCompileInputs.cache
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 15\Ai CRLine\obj\Debug\Ai Machine.csproj.CopyComplete
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 15\Ai CRLine\obj\Debug\Ai CRLine.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 15\Ai CRLine\obj\Debug\Ai CRLine.pdb
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 15\Ai CRLine\bin\Debug\Ai CRLine.dll.config
+C:\Users\JEERAWAT\Dropbox\CR AssyLoging - 16\Ai CRLine\bin\Debug\Ai CRLine.dll.config
+C:\Users\JEERAWAT\Dropbox\CR AssyLoging - 16\Ai CRLine\bin\Debug\Ai CRLine.dll
+C:\Users\JEERAWAT\Dropbox\CR AssyLoging - 16\Ai CRLine\bin\Debug\Ai CRLine.pdb
+C:\Users\JEERAWAT\Dropbox\CR AssyLoging - 16\Ai CRLine\bin\Debug\PCBase Interface.dll
+C:\Users\JEERAWAT\Dropbox\CR AssyLoging - 16\Ai CRLine\bin\Debug\AxInterop.DATABUILDERAXLibLB.dll
+C:\Users\JEERAWAT\Dropbox\CR AssyLoging - 16\Ai CRLine\bin\Debug\Interop.DATABUILDERAXLibLB.dll
+C:\Users\JEERAWAT\Dropbox\CR AssyLoging - 16\Ai CRLine\bin\Debug\PCBase Interface.pdb
+C:\Users\JEERAWAT\Dropbox\CR AssyLoging - 16\Ai CRLine\obj\Debug\Ai Machine.csprojResolveAssemblyReference.cache
+C:\Users\JEERAWAT\Dropbox\CR AssyLoging - 16\Ai CRLine\obj\Debug\Ai CRLine.dll
+C:\Users\JEERAWAT\Dropbox\CR AssyLoging - 16\Ai CRLine\obj\Debug\Ai CRLine.pdb
+C:\Project MWI\CR AssyLoging - 17\Ai CRLine\bin\Debug\Ai CRLine.dll.config
+C:\Project MWI\CR AssyLoging - 17\Ai CRLine\bin\Debug\Ai CRLine.dll
+C:\Project MWI\CR AssyLoging - 17\Ai CRLine\bin\Debug\Ai CRLine.pdb
+C:\Project MWI\CR AssyLoging - 17\Ai CRLine\bin\Debug\PCBase Interface.dll
+C:\Project MWI\CR AssyLoging - 17\Ai CRLine\bin\Debug\AxInterop.DATABUILDERAXLibLB.dll
+C:\Project MWI\CR AssyLoging - 17\Ai CRLine\bin\Debug\Interop.DATABUILDERAXLibLB.dll
+C:\Project MWI\CR AssyLoging - 17\Ai CRLine\bin\Debug\PCBase Interface.pdb
+C:\Project MWI\CR AssyLoging - 17\Ai CRLine\obj\Debug\Ai CRLine.dll
+C:\Project MWI\CR AssyLoging - 17\Ai CRLine\obj\Debug\Ai CRLine.pdb
+C:\Project MWI\CR AssyLoging - 17\Ai CRLine\obj\Debug\Ai Machine.csprojAssemblyReference.cache
+C:\Project MWI\CR AssyLoging - 17\Ai CRLine\obj\Debug\Ai Machine.csproj.CoreCompileInputs.cache
+C:\Project MWI\CR AssyLoging - 17\Ai CRLine\obj\Debug\Ai Machine.csproj.CopyComplete
+C:\Project MWI\CR AssyLoging - 22\Ai CRLine\bin\Debug\Ai CRLine.dll.config
+C:\Project MWI\CR AssyLoging - 22\Ai CRLine\bin\Debug\Ai CRLine.dll
+C:\Project MWI\CR AssyLoging - 22\Ai CRLine\bin\Debug\Ai CRLine.pdb
+C:\Project MWI\CR AssyLoging - 22\Ai CRLine\bin\Debug\PCBase Interface.dll
+C:\Project MWI\CR AssyLoging - 22\Ai CRLine\bin\Debug\AxInterop.DATABUILDERAXLibLB.dll
+C:\Project MWI\CR AssyLoging - 22\Ai CRLine\bin\Debug\Interop.DATABUILDERAXLibLB.dll
+C:\Project MWI\CR AssyLoging - 22\Ai CRLine\bin\Debug\PCBase Interface.pdb
+C:\Project MWI\CR AssyLoging - 22\Ai CRLine\obj\Debug\Ai Machine.csprojAssemblyReference.cache
+C:\Project MWI\CR AssyLoging - 22\Ai CRLine\obj\Debug\Ai Machine.csproj.CoreCompileInputs.cache
+C:\Project MWI\CR AssyLoging - 22\Ai CRLine\obj\Debug\Ai Machine.csproj.CopyComplete
+C:\Project MWI\CR AssyLoging - 22\Ai CRLine\obj\Debug\Ai CRLine.dll
+C:\Project MWI\CR AssyLoging - 22\Ai CRLine\obj\Debug\Ai CRLine.pdb
+C:\Project MWI\CR AssyLoging - 23\Ai CRLine\bin\Debug\Ai CRLine.dll.config
+C:\Project MWI\CR AssyLoging - 23\Ai CRLine\bin\Debug\Ai CRLine.dll
+C:\Project MWI\CR AssyLoging - 23\Ai CRLine\bin\Debug\Ai CRLine.pdb
+C:\Project MWI\CR AssyLoging - 23\Ai CRLine\bin\Debug\PCBase Interface.dll
+C:\Project MWI\CR AssyLoging - 23\Ai CRLine\bin\Debug\AxInterop.DATABUILDERAXLibLB.dll
+C:\Project MWI\CR AssyLoging - 23\Ai CRLine\bin\Debug\Interop.DATABUILDERAXLibLB.dll
+C:\Project MWI\CR AssyLoging - 23\Ai CRLine\bin\Debug\PCBase Interface.pdb
+C:\Project MWI\CR AssyLoging - 23\Ai CRLine\obj\Debug\Ai Machine.csprojAssemblyReference.cache
+C:\Project MWI\CR AssyLoging - 23\Ai CRLine\obj\Debug\Ai Machine.csproj.CoreCompileInputs.cache
+C:\Project MWI\CR AssyLoging - 23\Ai CRLine\obj\Debug\Ai Machine.csproj.CopyComplete
+C:\Project MWI\CR AssyLoging - 23\Ai CRLine\obj\Debug\Ai CRLine.dll
+C:\Project MWI\CR AssyLoging - 23\Ai CRLine\obj\Debug\Ai CRLine.pdb
+C:\Project MWI\CR AssyLoging - 24\Ai CRLine\bin\Debug\Ai CRLine.dll.config
+C:\Project MWI\CR AssyLoging - 24\Ai CRLine\bin\Debug\Ai CRLine.dll
+C:\Project MWI\CR AssyLoging - 24\Ai CRLine\bin\Debug\Ai CRLine.pdb
+C:\Project MWI\CR AssyLoging - 24\Ai CRLine\bin\Debug\PCBase Interface.dll
+C:\Project MWI\CR AssyLoging - 24\Ai CRLine\bin\Debug\AxInterop.DATABUILDERAXLibLB.dll
+C:\Project MWI\CR AssyLoging - 24\Ai CRLine\bin\Debug\Interop.DATABUILDERAXLibLB.dll
+C:\Project MWI\CR AssyLoging - 24\Ai CRLine\bin\Debug\PCBase Interface.pdb
+C:\Project MWI\CR AssyLoging - 24\Ai CRLine\obj\Debug\Ai Machine.csprojAssemblyReference.cache
+C:\Project MWI\CR AssyLoging - 24\Ai CRLine\obj\Debug\Ai Machine.csproj.CoreCompileInputs.cache
+C:\Project MWI\CR AssyLoging - 24\Ai CRLine\obj\Debug\Ai Machine.csproj.CopyComplete
+C:\Project MWI\CR AssyLoging - 24\Ai CRLine\obj\Debug\Ai CRLine.dll
+C:\Project MWI\CR AssyLoging - 24\Ai CRLine\obj\Debug\Ai CRLine.pdb
+C:\Project MWI\CR AssyLoging - 27\Ai CRLine\bin\Debug\Ai CRLine.dll.config
+C:\Project MWI\CR AssyLoging - 27\Ai CRLine\bin\Debug\Ai CRLine.dll
+C:\Project MWI\CR AssyLoging - 27\Ai CRLine\bin\Debug\Ai CRLine.pdb
+C:\Project MWI\CR AssyLoging - 27\Ai CRLine\bin\Debug\PCBase Interface.dll
+C:\Project MWI\CR AssyLoging - 27\Ai CRLine\bin\Debug\AxInterop.DATABUILDERAXLibLB.dll
+C:\Project MWI\CR AssyLoging - 27\Ai CRLine\bin\Debug\Interop.DATABUILDERAXLibLB.dll
+C:\Project MWI\CR AssyLoging - 27\Ai CRLine\bin\Debug\PCBase Interface.pdb
+C:\Project MWI\CR AssyLoging - 27\Ai CRLine\obj\Debug\Ai Machine.csprojAssemblyReference.cache
+C:\Project MWI\CR AssyLoging - 27\Ai CRLine\obj\Debug\Ai Machine.csproj.CoreCompileInputs.cache
+C:\Project MWI\CR AssyLoging - 27\Ai CRLine\obj\Debug\Ai Machine.csproj.CopyComplete
+C:\Project MWI\CR AssyLoging - 27\Ai CRLine\obj\Debug\Ai CRLine.dll
+C:\Project MWI\CR AssyLoging - 27\Ai CRLine\obj\Debug\Ai CRLine.pdb
+C:\Project MWI\CR AssyLoging - 29\Ai CRLine\bin\Debug\Ai CRLine.dll.config
+C:\Project MWI\CR AssyLoging - 29\Ai CRLine\bin\Debug\Ai CRLine.dll
+C:\Project MWI\CR AssyLoging - 29\Ai CRLine\bin\Debug\Ai CRLine.pdb
+C:\Project MWI\CR AssyLoging - 29\Ai CRLine\bin\Debug\PCBase Interface.dll
+C:\Project MWI\CR AssyLoging - 29\Ai CRLine\bin\Debug\AxInterop.DATABUILDERAXLibLB.dll
+C:\Project MWI\CR AssyLoging - 29\Ai CRLine\bin\Debug\Interop.DATABUILDERAXLibLB.dll
+C:\Project MWI\CR AssyLoging - 29\Ai CRLine\bin\Debug\PCBase Interface.pdb
+C:\Project MWI\CR AssyLoging - 29\Ai CRLine\obj\Debug\Ai Machine.csprojAssemblyReference.cache
+C:\Project MWI\CR AssyLoging - 29\Ai CRLine\obj\Debug\Ai Machine.csproj.CoreCompileInputs.cache
+C:\Project MWI\CR AssyLoging - 29\Ai CRLine\obj\Debug\Ai Machine.csproj.CopyComplete
+C:\Project MWI\CR AssyLoging - 29\Ai CRLine\obj\Debug\Ai CRLine.dll
+C:\Project MWI\CR AssyLoging - 29\Ai CRLine\obj\Debug\Ai CRLine.pdb
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 33 Rework\Ai CRLine\bin\Debug\Ai CRLine.dll.config
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 33 Rework\Ai CRLine\bin\Debug\Ai CRLine.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 33 Rework\Ai CRLine\bin\Debug\Ai CRLine.pdb
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 33 Rework\Ai CRLine\bin\Debug\PCBase Interface.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 33 Rework\Ai CRLine\bin\Debug\AxInterop.DATABUILDERAXLibLB.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 33 Rework\Ai CRLine\bin\Debug\Interop.DATABUILDERAXLibLB.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 33 Rework\Ai CRLine\bin\Debug\PCBase Interface.pdb
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 33 Rework\Ai CRLine\obj\Debug\Ai Machine.csprojAssemblyReference.cache
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 33 Rework\Ai CRLine\obj\Debug\Ai Machine.csproj.CoreCompileInputs.cache
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 33 Rework\Ai CRLine\obj\Debug\Ai Machine.csproj.CopyComplete
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 33 Rework\Ai CRLine\obj\Debug\Ai CRLine.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 33 Rework\Ai CRLine\obj\Debug\Ai CRLine.pdb
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 35 Rework\Ai CRLine\bin\Debug\Ai CRLine.dll.config
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 35 Rework\Ai CRLine\bin\Debug\Ai CRLine.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 35 Rework\Ai CRLine\bin\Debug\Ai CRLine.pdb
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 35 Rework\Ai CRLine\bin\Debug\PCBase Interface.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 35 Rework\Ai CRLine\bin\Debug\AxInterop.DATABUILDERAXLibLB.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 35 Rework\Ai CRLine\bin\Debug\Interop.DATABUILDERAXLibLB.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 35 Rework\Ai CRLine\bin\Debug\PCBase Interface.pdb
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 35 Rework\Ai CRLine\obj\Debug\Ai Machine.csprojAssemblyReference.cache
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 35 Rework\Ai CRLine\obj\Debug\Ai Machine.csproj.CoreCompileInputs.cache
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 35 Rework\Ai CRLine\obj\Debug\Ai Machine.csproj.CopyComplete
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 35 Rework\Ai CRLine\obj\Debug\Ai CRLine.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 35 Rework\Ai CRLine\obj\Debug\Ai CRLine.pdb
+C:\CR AssyLoging - 35 Rework\Ai CRLine\obj\Debug\Ai CRLine.dll
+C:\CR AssyLoging - 35 Rework\Ai CRLine\obj\Debug\Ai CRLine.pdb
+C:\CR AssyLoging - 35 Rework\Ai CRLine\bin\Debug\Ai CRLine.dll.config
+C:\CR AssyLoging - 35 Rework\Ai CRLine\bin\Debug\Ai CRLine.dll
+C:\CR AssyLoging - 35 Rework\Ai CRLine\bin\Debug\Ai CRLine.pdb
+C:\CR AssyLoging - 35 Rework\Ai CRLine\bin\Debug\PCBase Interface.dll
+C:\CR AssyLoging - 35 Rework\Ai CRLine\bin\Debug\AxInterop.DATABUILDERAXLibLB.dll
+C:\CR AssyLoging - 35 Rework\Ai CRLine\bin\Debug\Interop.DATABUILDERAXLibLB.dll
+C:\CR AssyLoging - 35 Rework\Ai CRLine\bin\Debug\PCBase Interface.pdb
+C:\CR AssyLoging - 35 Rework\Ai CRLine\obj\Debug\Ai Machine.csprojAssemblyReference.cache
+C:\CR AssyLoging - 35 Rework\Ai CRLine\obj\Debug\Ai Machine.csproj.CoreCompileInputs.cache
+C:\CR AssyLoging - 35 Rework\Ai CRLine\obj\Debug\Ai Machine.csproj.CopyComplete
+C:\CR AssyLoging - 36 Rework\Ai CRLine\bin\Debug\Ai CRLine.dll.config
+C:\CR AssyLoging - 36 Rework\Ai CRLine\bin\Debug\Ai CRLine.dll
+C:\CR AssyLoging - 36 Rework\Ai CRLine\bin\Debug\Ai CRLine.pdb
+C:\CR AssyLoging - 36 Rework\Ai CRLine\bin\Debug\PCBase Interface.dll
+C:\CR AssyLoging - 36 Rework\Ai CRLine\bin\Debug\AxInterop.DATABUILDERAXLibLB.dll
+C:\CR AssyLoging - 36 Rework\Ai CRLine\bin\Debug\Interop.DATABUILDERAXLibLB.dll
+C:\CR AssyLoging - 36 Rework\Ai CRLine\bin\Debug\PCBase Interface.pdb
+C:\CR AssyLoging - 36 Rework\Ai CRLine\obj\Debug\Ai Machine.csprojAssemblyReference.cache
+C:\CR AssyLoging - 36 Rework\Ai CRLine\obj\Debug\Ai Machine.csproj.CoreCompileInputs.cache
+C:\CR AssyLoging - 36 Rework\Ai CRLine\obj\Debug\Ai Machine.csproj.CopyComplete
+C:\CR AssyLoging - 36 Rework\Ai CRLine\obj\Debug\Ai CRLine.dll
+C:\CR AssyLoging - 36 Rework\Ai CRLine\obj\Debug\Ai CRLine.pdb
+C:\CR AssyLoging - 37 Rework\Ai CRLine\bin\Debug\Ai CRLine.dll.config
+C:\CR AssyLoging - 37 Rework\Ai CRLine\bin\Debug\Ai CRLine.dll
+C:\CR AssyLoging - 37 Rework\Ai CRLine\bin\Debug\Ai CRLine.pdb
+C:\CR AssyLoging - 37 Rework\Ai CRLine\bin\Debug\PCBase Interface.dll
+C:\CR AssyLoging - 37 Rework\Ai CRLine\bin\Debug\AxInterop.DATABUILDERAXLibLB.dll
+C:\CR AssyLoging - 37 Rework\Ai CRLine\bin\Debug\Interop.DATABUILDERAXLibLB.dll
+C:\CR AssyLoging - 37 Rework\Ai CRLine\bin\Debug\PCBase Interface.pdb
+C:\CR AssyLoging - 37 Rework\Ai CRLine\obj\Debug\Ai Machine.csprojAssemblyReference.cache
+C:\CR AssyLoging - 37 Rework\Ai CRLine\obj\Debug\Ai Machine.csproj.CoreCompileInputs.cache
+C:\CR AssyLoging - 37 Rework\Ai CRLine\obj\Debug\Ai Machine.csproj.CopyComplete
+C:\CR AssyLoging - 37 Rework\Ai CRLine\obj\Debug\Ai CRLine.dll
+C:\CR AssyLoging - 37 Rework\Ai CRLine\obj\Debug\Ai CRLine.pdb
+D:\AUTOMATION MACHINE 2019\004 HIT AT\03_B2024-AirFlow Machine\New Program\AF-Monitoring\Ai CRLine\bin\Debug\Ai CRLine.dll.config
+D:\AUTOMATION MACHINE 2019\004 HIT AT\03_B2024-AirFlow Machine\New Program\AF-Monitoring\Ai CRLine\bin\Debug\Ai CRLine.dll
+D:\AUTOMATION MACHINE 2019\004 HIT AT\03_B2024-AirFlow Machine\New Program\AF-Monitoring\Ai CRLine\bin\Debug\Ai CRLine.pdb
+D:\AUTOMATION MACHINE 2019\004 HIT AT\03_B2024-AirFlow Machine\New Program\AF-Monitoring\Ai CRLine\bin\Debug\PCBase Interface.dll
+D:\AUTOMATION MACHINE 2019\004 HIT AT\03_B2024-AirFlow Machine\New Program\AF-Monitoring\Ai CRLine\bin\Debug\AxInterop.DATABUILDERAXLibLB.dll
+D:\AUTOMATION MACHINE 2019\004 HIT AT\03_B2024-AirFlow Machine\New Program\AF-Monitoring\Ai CRLine\bin\Debug\Interop.DATABUILDERAXLibLB.dll
+D:\AUTOMATION MACHINE 2019\004 HIT AT\03_B2024-AirFlow Machine\New Program\AF-Monitoring\Ai CRLine\bin\Debug\PCBase Interface.pdb
+D:\AUTOMATION MACHINE 2019\004 HIT AT\03_B2024-AirFlow Machine\New Program\AF-Monitoring\Ai CRLine\obj\Debug\Ai Machine.csprojAssemblyReference.cache
+D:\AUTOMATION MACHINE 2019\004 HIT AT\03_B2024-AirFlow Machine\New Program\AF-Monitoring\Ai CRLine\obj\Debug\Ai Machine.csproj.CoreCompileInputs.cache
+D:\AUTOMATION MACHINE 2019\004 HIT AT\03_B2024-AirFlow Machine\New Program\AF-Monitoring\Ai CRLine\obj\Debug\Ai Machine.csproj.CopyComplete
+D:\AUTOMATION MACHINE 2019\004 HIT AT\03_B2024-AirFlow Machine\New Program\AF-Monitoring\Ai CRLine\obj\Debug\Ai CRLine.dll
+D:\AUTOMATION MACHINE 2019\004 HIT AT\03_B2024-AirFlow Machine\New Program\AF-Monitoring\Ai CRLine\obj\Debug\Ai CRLine.pdb
+D:\AUTOMATION MACHINE 2019\004 HIT AT\03_B2024-AirFlow Machine\New Program\AirFlow-Monitoring\Ai CRLine\bin\Debug\Ai CRLine.dll.config
+D:\AUTOMATION MACHINE 2019\004 HIT AT\03_B2024-AirFlow Machine\New Program\AirFlow-Monitoring\Ai CRLine\bin\Debug\Ai CRLine.dll
+D:\AUTOMATION MACHINE 2019\004 HIT AT\03_B2024-AirFlow Machine\New Program\AirFlow-Monitoring\Ai CRLine\bin\Debug\Ai CRLine.pdb
+D:\AUTOMATION MACHINE 2019\004 HIT AT\03_B2024-AirFlow Machine\New Program\AirFlow-Monitoring\Ai CRLine\bin\Debug\PCBase Interface.dll
+D:\AUTOMATION MACHINE 2019\004 HIT AT\03_B2024-AirFlow Machine\New Program\AirFlow-Monitoring\Ai CRLine\bin\Debug\AxInterop.DATABUILDERAXLibLB.dll
+D:\AUTOMATION MACHINE 2019\004 HIT AT\03_B2024-AirFlow Machine\New Program\AirFlow-Monitoring\Ai CRLine\bin\Debug\Interop.DATABUILDERAXLibLB.dll
+D:\AUTOMATION MACHINE 2019\004 HIT AT\03_B2024-AirFlow Machine\New Program\AirFlow-Monitoring\Ai CRLine\bin\Debug\PCBase Interface.pdb
+D:\AUTOMATION MACHINE 2019\004 HIT AT\03_B2024-AirFlow Machine\New Program\AirFlow-Monitoring\Ai CRLine\obj\Debug\Ai Machine.csprojAssemblyReference.cache
+D:\AUTOMATION MACHINE 2019\004 HIT AT\03_B2024-AirFlow Machine\New Program\AirFlow-Monitoring\Ai CRLine\obj\Debug\Ai Machine.csproj.CopyComplete
+D:\AUTOMATION MACHINE 2019\004 HIT AT\03_B2024-AirFlow Machine\New Program\AirFlow-Monitoring\Ai CRLine\obj\Debug\Ai CRLine.dll
+D:\AUTOMATION MACHINE 2019\004 HIT AT\03_B2024-AirFlow Machine\New Program\AirFlow-Monitoring\Ai CRLine\obj\Debug\Ai CRLine.pdb

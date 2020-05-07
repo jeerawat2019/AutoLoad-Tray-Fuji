@@ -1,0 +1,364 @@
+D:\Project Automation 2003\036_MITSUBISHI TUREBO\New CR AssyLoging Line 21\zMSB-AT CR AssyLoging\Ai PCSystem\bin\Debug\Ai_PCSystem.dll
+D:\Project Automation 2003\036_MITSUBISHI TUREBO\New CR AssyLoging Line 21\zMSB-AT CR AssyLoging\Ai PCSystem\bin\Debug\Ai_PCSystem.pdb
+D:\Project Automation 2003\036_MITSUBISHI TUREBO\New CR AssyLoging Line 21\zMSB-AT CR AssyLoging\Ai PCSystem\obj\Debug\Ai PCSystem.csprojResolveAssemblyReference.cache
+D:\Project Automation 2003\036_MITSUBISHI TUREBO\New CR AssyLoging Line 21\zMSB-AT CR AssyLoging\Ai PCSystem\obj\Debug\Ai_PCSystem.dll
+D:\Project Automation 2003\036_MITSUBISHI TUREBO\New CR AssyLoging Line 21\zMSB-AT CR AssyLoging\Ai PCSystem\obj\Debug\Ai_PCSystem.pdb
+D:\Project Automation 2003\036_MITSUBISHI TUREBO\New CR AssyLoging Line 21\zMSB-AT CR AssyLoging - 01\Ai PCSystem\bin\Debug\Ai_PCSystem.dll
+D:\Project Automation 2003\036_MITSUBISHI TUREBO\New CR AssyLoging Line 21\zMSB-AT CR AssyLoging - 01\Ai PCSystem\bin\Debug\Ai_PCSystem.pdb
+D:\Project Automation 2003\036_MITSUBISHI TUREBO\New CR AssyLoging Line 21\zMSB-AT CR AssyLoging - 01\Ai PCSystem\obj\Debug\Ai PCSystem.csprojResolveAssemblyReference.cache
+D:\Project Automation 2003\036_MITSUBISHI TUREBO\New CR AssyLoging Line 21\zMSB-AT CR AssyLoging - 01\Ai PCSystem\obj\Debug\Ai_PCSystem.dll
+D:\Project Automation 2003\036_MITSUBISHI TUREBO\New CR AssyLoging Line 21\zMSB-AT CR AssyLoging - 01\Ai PCSystem\obj\Debug\Ai_PCSystem.pdb
+D:\Project Automation 2003\036_MITSUBISHI TUREBO\New CR AssyLoging Line 21\zMSB-AT CR AssyLoging - 02\Ai PCSystem\bin\Debug\Ai_PCSystem.dll
+D:\Project Automation 2003\036_MITSUBISHI TUREBO\New CR AssyLoging Line 21\zMSB-AT CR AssyLoging - 02\Ai PCSystem\bin\Debug\Ai_PCSystem.pdb
+D:\Project Automation 2003\036_MITSUBISHI TUREBO\New CR AssyLoging Line 21\zMSB-AT CR AssyLoging - 02\Ai PCSystem\obj\Debug\Ai PCSystem.csprojResolveAssemblyReference.cache
+D:\Project Automation 2003\036_MITSUBISHI TUREBO\New CR AssyLoging Line 21\zMSB-AT CR AssyLoging - 02\Ai PCSystem\obj\Debug\Ai_PCSystem.dll
+D:\Project Automation 2003\036_MITSUBISHI TUREBO\New CR AssyLoging Line 21\zMSB-AT CR AssyLoging - 02\Ai PCSystem\obj\Debug\Ai_PCSystem.pdb
+C:\Project MWI\002 MTA\zMSB-AT CR AssyLoging - 02\Ai PCSystem\bin\Debug\Ai_PCSystem.dll
+C:\Project MWI\002 MTA\zMSB-AT CR AssyLoging - 02\Ai PCSystem\bin\Debug\Ai_PCSystem.pdb
+C:\Project MWI\002 MTA\zMSB-AT CR AssyLoging - 02\Ai PCSystem\obj\Debug\Ai PCSystem.csprojResolveAssemblyReference.cache
+C:\Project MWI\002 MTA\zMSB-AT CR AssyLoging - 02\Ai PCSystem\obj\Debug\Ai_PCSystem.dll
+C:\Project MWI\002 MTA\zMSB-AT CR AssyLoging - 02\Ai PCSystem\obj\Debug\Ai_PCSystem.pdb
+C:\Project MWI\002 MTA\zMSB-AT CR AssyLoging - 03\Ai PCSystem\bin\Debug\Ai_PCSystem.dll
+C:\Project MWI\002 MTA\zMSB-AT CR AssyLoging - 03\Ai PCSystem\bin\Debug\Ai_PCSystem.pdb
+C:\Project MWI\002 MTA\zMSB-AT CR AssyLoging - 03\Ai PCSystem\obj\Debug\Ai PCSystem.csprojResolveAssemblyReference.cache
+C:\Project MWI\002 MTA\zMSB-AT CR AssyLoging - 03\Ai PCSystem\obj\Debug\Ai_PCSystem.dll
+C:\Project MWI\002 MTA\zMSB-AT CR AssyLoging - 03\Ai PCSystem\obj\Debug\Ai_PCSystem.pdb
+C:\Project MWI\002 MTA\zMSB-AT CR AssyLoging - 03\Ai PCSystem\bin\Debug\Ai_PCSystem.dll.config
+D:\AUTOMATION MACHINE 2019\002 MTA\zMSB-AT CR AssyLoging - 05\Ai PCSystem\bin\Debug\Ai_PCSystem.dll.config
+D:\AUTOMATION MACHINE 2019\002 MTA\zMSB-AT CR AssyLoging - 05\Ai PCSystem\bin\Debug\Ai_PCSystem.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\zMSB-AT CR AssyLoging - 05\Ai PCSystem\bin\Debug\Ai_PCSystem.pdb
+D:\AUTOMATION MACHINE 2019\002 MTA\zMSB-AT CR AssyLoging - 05\Ai PCSystem\obj\Debug\Ai PCSystem.csprojAssemblyReference.cache
+D:\AUTOMATION MACHINE 2019\002 MTA\zMSB-AT CR AssyLoging - 05\Ai PCSystem\obj\Debug\Ai PCSystem.csproj.CoreCompileInputs.cache
+D:\AUTOMATION MACHINE 2019\002 MTA\zMSB-AT CR AssyLoging - 05\Ai PCSystem\obj\Debug\Ai_PCSystem.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\zMSB-AT CR AssyLoging - 05\Ai PCSystem\obj\Debug\Ai_PCSystem.pdb
+D:\AUTOMATION MACHINE 2019\002 MTA\zMSB-AT CR AssyLoging - 06\Ai PCSystem\bin\Debug\Ai_PCSystem.dll.config
+D:\AUTOMATION MACHINE 2019\002 MTA\zMSB-AT CR AssyLoging - 06\Ai PCSystem\bin\Debug\Ai_PCSystem.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\zMSB-AT CR AssyLoging - 06\Ai PCSystem\bin\Debug\Ai_PCSystem.pdb
+D:\AUTOMATION MACHINE 2019\002 MTA\zMSB-AT CR AssyLoging - 06\Ai PCSystem\obj\Debug\Ai PCSystem.csprojAssemblyReference.cache
+D:\AUTOMATION MACHINE 2019\002 MTA\zMSB-AT CR AssyLoging - 06\Ai PCSystem\obj\Debug\Ai PCSystem.csproj.CoreCompileInputs.cache
+D:\AUTOMATION MACHINE 2019\002 MTA\zMSB-AT CR AssyLoging - 06\Ai PCSystem\obj\Debug\Ai_PCSystem.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\zMSB-AT CR AssyLoging - 06\Ai PCSystem\obj\Debug\Ai_PCSystem.pdb
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 06\Ai PCSystem\bin\Debug\Ai_PCSystem.dll.config
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 06\Ai PCSystem\bin\Debug\Ai_PCSystem.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 06\Ai PCSystem\bin\Debug\Ai_PCSystem.pdb
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 06\Ai PCSystem\obj\Debug\Ai PCSystem.csprojAssemblyReference.cache
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 06\Ai PCSystem\obj\Debug\Ai PCSystem.csproj.CoreCompileInputs.cache
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 06\Ai PCSystem\obj\Debug\Ai_PCSystem.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 06\Ai PCSystem\obj\Debug\Ai_PCSystem.pdb
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 11\Ai PCSystem\bin\Debug\Ai_PCSystem.dll.config
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 11\Ai PCSystem\bin\Debug\Ai_PCSystem.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 11\Ai PCSystem\bin\Debug\Ai_PCSystem.pdb
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 11\Ai PCSystem\obj\Debug\Ai PCSystem.csprojAssemblyReference.cache
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 11\Ai PCSystem\obj\Debug\Ai PCSystem.csproj.CoreCompileInputs.cache
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 11\Ai PCSystem\obj\Debug\Ai_PCSystem.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 11\Ai PCSystem\obj\Debug\Ai_PCSystem.pdb
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 12\Ai PCSystem\bin\Debug\Ai_PCSystem.dll.config
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 12\Ai PCSystem\bin\Debug\Ai_PCSystem.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 12\Ai PCSystem\bin\Debug\Ai_PCSystem.pdb
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 12\Ai PCSystem\obj\Debug\Ai PCSystem.csprojAssemblyReference.cache
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 12\Ai PCSystem\obj\Debug\Ai PCSystem.csproj.CoreCompileInputs.cache
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 12\Ai PCSystem\obj\Debug\Ai_PCSystem.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 12\Ai PCSystem\obj\Debug\Ai_PCSystem.pdb
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 13\Ai PCSystem\bin\Debug\Ai_PCSystem.dll.config
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 13\Ai PCSystem\bin\Debug\Ai_PCSystem.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 13\Ai PCSystem\bin\Debug\Ai_PCSystem.pdb
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 13\Ai PCSystem\obj\Debug\Ai PCSystem.csprojAssemblyReference.cache
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 13\Ai PCSystem\obj\Debug\Ai PCSystem.csproj.CoreCompileInputs.cache
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 13\Ai PCSystem\obj\Debug\Ai_PCSystem.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 13\Ai PCSystem\obj\Debug\Ai_PCSystem.pdb
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 14\Ai PCSystem\bin\Debug\Ai_PCSystem.dll.config
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 14\Ai PCSystem\bin\Debug\Ai_PCSystem.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 14\Ai PCSystem\bin\Debug\Ai_PCSystem.pdb
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 14\Ai PCSystem\obj\Debug\Ai PCSystem.csprojAssemblyReference.cache
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 14\Ai PCSystem\obj\Debug\Ai PCSystem.csproj.CoreCompileInputs.cache
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 14\Ai PCSystem\obj\Debug\Ai_PCSystem.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 14\Ai PCSystem\obj\Debug\Ai_PCSystem.pdb
+C:\Users\Jeerawat\Dropbox\CR AssyLoging - 14\Ai PCSystem\bin\Debug\Ai_PCSystem.dll.config
+C:\Users\Jeerawat\Dropbox\CR AssyLoging - 14\Ai PCSystem\bin\Debug\Ai_PCSystem.dll
+C:\Users\Jeerawat\Dropbox\CR AssyLoging - 14\Ai PCSystem\bin\Debug\Ai_PCSystem.pdb
+C:\Users\Jeerawat\Dropbox\CR AssyLoging - 14\Ai PCSystem\obj\Debug\Ai PCSystem.csprojResolveAssemblyReference.cache
+C:\Users\Jeerawat\Dropbox\CR AssyLoging - 14\Ai PCSystem\obj\Debug\Ai_PCSystem.dll
+C:\Users\Jeerawat\Dropbox\CR AssyLoging - 14\Ai PCSystem\obj\Debug\Ai_PCSystem.pdb
+C:\Users\dell xsp\Dropbox\CR AssyLoging - 14\Ai PCSystem\bin\Debug\Ai_PCSystem.dll.config
+C:\Users\dell xsp\Dropbox\CR AssyLoging - 14\Ai PCSystem\bin\Debug\Ai_PCSystem.dll
+C:\Users\dell xsp\Dropbox\CR AssyLoging - 14\Ai PCSystem\bin\Debug\Ai_PCSystem.pdb
+C:\Users\dell xsp\Dropbox\CR AssyLoging - 14\Ai PCSystem\obj\Debug\Ai PCSystem.csprojAssemblyReference.cache
+C:\Users\dell xsp\Dropbox\CR AssyLoging - 14\Ai PCSystem\obj\Debug\Ai PCSystem.csproj.CoreCompileInputs.cache
+C:\Users\dell xsp\Dropbox\CR AssyLoging - 14\Ai PCSystem\obj\Debug\Ai_PCSystem.dll
+C:\Users\dell xsp\Dropbox\CR AssyLoging - 14\Ai PCSystem\obj\Debug\Ai_PCSystem.pdb
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 15\Ai PCSystem\bin\Debug\Ai_PCSystem.dll.config
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 15\Ai PCSystem\bin\Debug\Ai_PCSystem.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 15\Ai PCSystem\bin\Debug\Ai_PCSystem.pdb
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 15\Ai PCSystem\obj\Debug\Ai PCSystem.csprojAssemblyReference.cache
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 15\Ai PCSystem\obj\Debug\Ai PCSystem.csproj.CoreCompileInputs.cache
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 15\Ai PCSystem\obj\Debug\Ai_PCSystem.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 15\Ai PCSystem\obj\Debug\Ai_PCSystem.pdb
+C:\Users\JEERAWAT\Dropbox\CR AssyLoging - 16\Ai PCSystem\bin\Debug\Ai_PCSystem.dll.config
+C:\Users\JEERAWAT\Dropbox\CR AssyLoging - 16\Ai PCSystem\bin\Debug\Ai_PCSystem.dll
+C:\Users\JEERAWAT\Dropbox\CR AssyLoging - 16\Ai PCSystem\bin\Debug\Ai_PCSystem.pdb
+C:\Users\JEERAWAT\Dropbox\CR AssyLoging - 16\Ai PCSystem\obj\Debug\Ai PCSystem.csprojResolveAssemblyReference.cache
+C:\Users\JEERAWAT\Dropbox\CR AssyLoging - 16\Ai PCSystem\obj\Debug\Ai_PCSystem.dll
+C:\Users\JEERAWAT\Dropbox\CR AssyLoging - 16\Ai PCSystem\obj\Debug\Ai_PCSystem.pdb
+C:\Project MWI\CR AssyLoging - 16\Ai PCSystem\bin\Debug\Ai_PCSystem.dll.config
+C:\Project MWI\CR AssyLoging - 16\Ai PCSystem\bin\Debug\Ai_PCSystem.dll
+C:\Project MWI\CR AssyLoging - 16\Ai PCSystem\bin\Debug\Ai_PCSystem.pdb
+C:\Project MWI\CR AssyLoging - 16\Ai PCSystem\obj\Debug\Ai PCSystem.csprojResolveAssemblyReference.cache
+C:\Project MWI\CR AssyLoging - 16\Ai PCSystem\obj\Debug\Ai_PCSystem.dll
+C:\Project MWI\CR AssyLoging - 16\Ai PCSystem\obj\Debug\Ai_PCSystem.pdb
+C:\Project MWI\CR AssyLoging - 17\Ai PCSystem\bin\Debug\Ai_PCSystem.dll.config
+C:\Project MWI\CR AssyLoging - 17\Ai PCSystem\bin\Debug\Ai_PCSystem.dll
+C:\Project MWI\CR AssyLoging - 17\Ai PCSystem\bin\Debug\Ai_PCSystem.pdb
+C:\Project MWI\CR AssyLoging - 17\Ai PCSystem\obj\Debug\Ai_PCSystem.dll
+C:\Project MWI\CR AssyLoging - 17\Ai PCSystem\obj\Debug\Ai_PCSystem.pdb
+C:\Project MWI\CR AssyLoging - 17\Ai PCSystem\obj\Debug\Ai PCSystem.csprojAssemblyReference.cache
+C:\Project MWI\CR AssyLoging - 17\Ai PCSystem\obj\Debug\Ai PCSystem.csproj.CoreCompileInputs.cache
+C:\Project MWI\CR AssyLoging - 18\Ai PCSystem\bin\Debug\Ai_PCSystem.dll.config
+C:\Project MWI\CR AssyLoging - 18\Ai PCSystem\bin\Debug\Ai_PCSystem.dll
+C:\Project MWI\CR AssyLoging - 18\Ai PCSystem\bin\Debug\Ai_PCSystem.pdb
+C:\Project MWI\CR AssyLoging - 18\Ai PCSystem\obj\Debug\Ai PCSystem.csprojAssemblyReference.cache
+C:\Project MWI\CR AssyLoging - 18\Ai PCSystem\obj\Debug\Ai PCSystem.csproj.CoreCompileInputs.cache
+C:\Project MWI\CR AssyLoging - 18\Ai PCSystem\obj\Debug\Ai_PCSystem.dll
+C:\Project MWI\CR AssyLoging - 18\Ai PCSystem\obj\Debug\Ai_PCSystem.pdb
+C:\Project MWI\CR AssyLoging - 19\Ai PCSystem\bin\Debug\Ai_PCSystem.dll.config
+C:\Project MWI\CR AssyLoging - 19\Ai PCSystem\bin\Debug\Ai_PCSystem.dll
+C:\Project MWI\CR AssyLoging - 19\Ai PCSystem\bin\Debug\Ai_PCSystem.pdb
+C:\Project MWI\CR AssyLoging - 19\Ai PCSystem\obj\Debug\Ai PCSystem.csprojAssemblyReference.cache
+C:\Project MWI\CR AssyLoging - 19\Ai PCSystem\obj\Debug\Ai PCSystem.csproj.CoreCompileInputs.cache
+C:\Project MWI\CR AssyLoging - 19\Ai PCSystem\obj\Debug\Ai_PCSystem.dll
+C:\Project MWI\CR AssyLoging - 19\Ai PCSystem\obj\Debug\Ai_PCSystem.pdb
+C:\Project MWI\CR AssyLoging - 20\Ai PCSystem\bin\Debug\Ai_PCSystem.dll.config
+C:\Project MWI\CR AssyLoging - 20\Ai PCSystem\bin\Debug\Ai_PCSystem.dll
+C:\Project MWI\CR AssyLoging - 20\Ai PCSystem\bin\Debug\Ai_PCSystem.pdb
+C:\Project MWI\CR AssyLoging - 20\Ai PCSystem\obj\Debug\Ai PCSystem.csprojAssemblyReference.cache
+C:\Project MWI\CR AssyLoging - 20\Ai PCSystem\obj\Debug\Ai PCSystem.csproj.CoreCompileInputs.cache
+C:\Project MWI\CR AssyLoging - 20\Ai PCSystem\obj\Debug\Ai_PCSystem.dll
+C:\Project MWI\CR AssyLoging - 20\Ai PCSystem\obj\Debug\Ai_PCSystem.pdb
+C:\Project MWI\CR AssyLoging - 21\Ai PCSystem\bin\Debug\Ai_PCSystem.dll.config
+C:\Project MWI\CR AssyLoging - 21\Ai PCSystem\bin\Debug\Ai_PCSystem.dll
+C:\Project MWI\CR AssyLoging - 21\Ai PCSystem\bin\Debug\Ai_PCSystem.pdb
+C:\Project MWI\CR AssyLoging - 21\Ai PCSystem\obj\Debug\Ai PCSystem.csprojAssemblyReference.cache
+C:\Project MWI\CR AssyLoging - 21\Ai PCSystem\obj\Debug\Ai PCSystem.csproj.CoreCompileInputs.cache
+C:\Project MWI\CR AssyLoging - 21\Ai PCSystem\obj\Debug\Ai_PCSystem.dll
+C:\Project MWI\CR AssyLoging - 21\Ai PCSystem\obj\Debug\Ai_PCSystem.pdb
+C:\Project MWI\CR AssyLoging - 23\Ai PCSystem\bin\Debug\Ai_PCSystem.dll.config
+C:\Project MWI\CR AssyLoging - 23\Ai PCSystem\bin\Debug\Ai_PCSystem.dll
+C:\Project MWI\CR AssyLoging - 23\Ai PCSystem\bin\Debug\Ai_PCSystem.pdb
+C:\Project MWI\CR AssyLoging - 23\Ai PCSystem\obj\Debug\Ai PCSystem.csprojAssemblyReference.cache
+C:\Project MWI\CR AssyLoging - 23\Ai PCSystem\obj\Debug\Ai PCSystem.csproj.CoreCompileInputs.cache
+C:\Project MWI\CR AssyLoging - 23\Ai PCSystem\obj\Debug\Ai_PCSystem.dll
+C:\Project MWI\CR AssyLoging - 23\Ai PCSystem\obj\Debug\Ai_PCSystem.pdb
+C:\Project MWI\CR AssyLoging - 25\Ai PCSystem\bin\Debug\Ai_PCSystem.dll.config
+C:\Project MWI\CR AssyLoging - 25\Ai PCSystem\bin\Debug\Ai_PCSystem.dll
+C:\Project MWI\CR AssyLoging - 25\Ai PCSystem\bin\Debug\Ai_PCSystem.pdb
+C:\Project MWI\CR AssyLoging - 25\Ai PCSystem\obj\Debug\Ai PCSystem.csprojAssemblyReference.cache
+C:\Project MWI\CR AssyLoging - 25\Ai PCSystem\obj\Debug\Ai PCSystem.csproj.CoreCompileInputs.cache
+C:\Project MWI\CR AssyLoging - 25\Ai PCSystem\obj\Debug\Ai_PCSystem.dll
+C:\Project MWI\CR AssyLoging - 25\Ai PCSystem\obj\Debug\Ai_PCSystem.pdb
+C:\Project MWI\CR AssyLoging - 26\Ai PCSystem\bin\Debug\Ai_PCSystem.dll.config
+C:\Project MWI\CR AssyLoging - 26\Ai PCSystem\bin\Debug\Ai_PCSystem.dll
+C:\Project MWI\CR AssyLoging - 26\Ai PCSystem\bin\Debug\Ai_PCSystem.pdb
+C:\Project MWI\CR AssyLoging - 26\Ai PCSystem\obj\Debug\Ai PCSystem.csprojAssemblyReference.cache
+C:\Project MWI\CR AssyLoging - 26\Ai PCSystem\obj\Debug\Ai PCSystem.csproj.CoreCompileInputs.cache
+C:\Project MWI\CR AssyLoging - 26\Ai PCSystem\obj\Debug\Ai_PCSystem.dll
+C:\Project MWI\CR AssyLoging - 26\Ai PCSystem\obj\Debug\Ai_PCSystem.pdb
+C:\Project MWI\CR AssyLoging - 27\Ai PCSystem\bin\Debug\Ai_PCSystem.dll.config
+C:\Project MWI\CR AssyLoging - 27\Ai PCSystem\bin\Debug\Ai_PCSystem.dll
+C:\Project MWI\CR AssyLoging - 27\Ai PCSystem\bin\Debug\Ai_PCSystem.pdb
+C:\Project MWI\CR AssyLoging - 27\Ai PCSystem\obj\Debug\Ai PCSystem.csprojAssemblyReference.cache
+C:\Project MWI\CR AssyLoging - 27\Ai PCSystem\obj\Debug\Ai PCSystem.csproj.CoreCompileInputs.cache
+C:\Project MWI\CR AssyLoging - 27\Ai PCSystem\obj\Debug\Ai_PCSystem.dll
+C:\Project MWI\CR AssyLoging - 27\Ai PCSystem\obj\Debug\Ai_PCSystem.pdb
+C:\Project MWI\CR AssyLoging - 28\Ai PCSystem\bin\Debug\Ai_PCSystem.dll.config
+C:\Project MWI\CR AssyLoging - 28\Ai PCSystem\bin\Debug\Ai_PCSystem.dll
+C:\Project MWI\CR AssyLoging - 28\Ai PCSystem\bin\Debug\Ai_PCSystem.pdb
+C:\Project MWI\CR AssyLoging - 28\Ai PCSystem\obj\Debug\Ai PCSystem.csprojAssemblyReference.cache
+C:\Project MWI\CR AssyLoging - 28\Ai PCSystem\obj\Debug\Ai PCSystem.csproj.CoreCompileInputs.cache
+C:\Project MWI\CR AssyLoging - 28\Ai PCSystem\obj\Debug\Ai_PCSystem.dll
+C:\Project MWI\CR AssyLoging - 28\Ai PCSystem\obj\Debug\Ai_PCSystem.pdb
+C:\Project MWI\CR AssyLoging - 29\Ai PCSystem\bin\Debug\Ai_PCSystem.dll.config
+C:\Project MWI\CR AssyLoging - 29\Ai PCSystem\bin\Debug\Ai_PCSystem.dll
+C:\Project MWI\CR AssyLoging - 29\Ai PCSystem\bin\Debug\Ai_PCSystem.pdb
+C:\Project MWI\CR AssyLoging - 29\Ai PCSystem\obj\Debug\Ai PCSystem.csprojAssemblyReference.cache
+C:\Project MWI\CR AssyLoging - 29\Ai PCSystem\obj\Debug\Ai PCSystem.csproj.CoreCompileInputs.cache
+C:\Project MWI\CR AssyLoging - 29\Ai PCSystem\obj\Debug\Ai_PCSystem.dll
+C:\Project MWI\CR AssyLoging - 29\Ai PCSystem\obj\Debug\Ai_PCSystem.pdb
+C:\Project MWI\CR AssyLoging - 30\Ai PCSystem\bin\Debug\Ai_PCSystem.dll.config
+C:\Project MWI\CR AssyLoging - 30\Ai PCSystem\bin\Debug\Ai_PCSystem.dll
+C:\Project MWI\CR AssyLoging - 30\Ai PCSystem\bin\Debug\Ai_PCSystem.pdb
+C:\Project MWI\CR AssyLoging - 30\Ai PCSystem\obj\Debug\Ai PCSystem.csprojAssemblyReference.cache
+C:\Project MWI\CR AssyLoging - 30\Ai PCSystem\obj\Debug\Ai PCSystem.csproj.CoreCompileInputs.cache
+C:\Project MWI\CR AssyLoging - 30\Ai PCSystem\obj\Debug\Ai_PCSystem.dll
+C:\Project MWI\CR AssyLoging - 30\Ai PCSystem\obj\Debug\Ai_PCSystem.pdb
+C:\Project MWI\CR AssyLoging - 31\Ai PCSystem\bin\Debug\Ai_PCSystem.dll.config
+C:\Project MWI\CR AssyLoging - 31\Ai PCSystem\bin\Debug\Ai_PCSystem.dll
+C:\Project MWI\CR AssyLoging - 31\Ai PCSystem\bin\Debug\Ai_PCSystem.pdb
+C:\Project MWI\CR AssyLoging - 31\Ai PCSystem\obj\Debug\Ai PCSystem.csprojAssemblyReference.cache
+C:\Project MWI\CR AssyLoging - 31\Ai PCSystem\obj\Debug\Ai PCSystem.csproj.CoreCompileInputs.cache
+C:\Project MWI\CR AssyLoging - 31\Ai PCSystem\obj\Debug\Ai_PCSystem.dll
+C:\Project MWI\CR AssyLoging - 31\Ai PCSystem\obj\Debug\Ai_PCSystem.pdb
+C:\CR AssyLoging - 32\Ai PCSystem\bin\Debug\Ai_PCSystem.dll.config
+C:\CR AssyLoging - 32\Ai PCSystem\bin\Debug\Ai_PCSystem.dll
+C:\CR AssyLoging - 32\Ai PCSystem\bin\Debug\Ai_PCSystem.pdb
+C:\CR AssyLoging - 32\Ai PCSystem\obj\Debug\Ai PCSystem.csprojAssemblyReference.cache
+C:\CR AssyLoging - 32\Ai PCSystem\obj\Debug\Ai PCSystem.csproj.CoreCompileInputs.cache
+C:\CR AssyLoging - 32\Ai PCSystem\obj\Debug\Ai_PCSystem.dll
+C:\CR AssyLoging - 32\Ai PCSystem\obj\Debug\Ai_PCSystem.pdb
+C:\Project MWI\CR AssyLoging - 33 Rework\Ai PCSystem\bin\Debug\Ai_PCSystem.dll.config
+C:\Project MWI\CR AssyLoging - 33 Rework\Ai PCSystem\bin\Debug\Ai_PCSystem.dll
+C:\Project MWI\CR AssyLoging - 33 Rework\Ai PCSystem\bin\Debug\Ai_PCSystem.pdb
+C:\Project MWI\CR AssyLoging - 33 Rework\Ai PCSystem\obj\Debug\Ai PCSystem.csprojAssemblyReference.cache
+C:\Project MWI\CR AssyLoging - 33 Rework\Ai PCSystem\obj\Debug\Ai PCSystem.csproj.CoreCompileInputs.cache
+C:\Project MWI\CR AssyLoging - 33 Rework\Ai PCSystem\obj\Debug\Ai_PCSystem.dll
+C:\Project MWI\CR AssyLoging - 33 Rework\Ai PCSystem\obj\Debug\Ai_PCSystem.pdb
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 33 Rework\Ai PCSystem\bin\Debug\Ai_PCSystem.dll.config
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 33 Rework\Ai PCSystem\bin\Debug\Ai_PCSystem.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 33 Rework\Ai PCSystem\bin\Debug\Ai_PCSystem.pdb
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 33 Rework\Ai PCSystem\obj\Debug\Ai PCSystem.csprojAssemblyReference.cache
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 33 Rework\Ai PCSystem\obj\Debug\Ai PCSystem.csproj.CoreCompileInputs.cache
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 33 Rework\Ai PCSystem\obj\Debug\Ai_PCSystem.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 33 Rework\Ai PCSystem\obj\Debug\Ai_PCSystem.pdb
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 35 Rework\Ai PCSystem\bin\Debug\Ai_PCSystem.dll.config
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 35 Rework\Ai PCSystem\bin\Debug\Ai_PCSystem.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 35 Rework\Ai PCSystem\bin\Debug\Ai_PCSystem.pdb
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 35 Rework\Ai PCSystem\obj\Debug\Ai PCSystem.csprojAssemblyReference.cache
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 35 Rework\Ai PCSystem\obj\Debug\Ai PCSystem.csproj.CoreCompileInputs.cache
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 35 Rework\Ai PCSystem\obj\Debug\Ai_PCSystem.dll
+D:\AUTOMATION MACHINE 2019\002 MTA\CR AssyLoging - 35 Rework\Ai PCSystem\obj\Debug\Ai_PCSystem.pdb
+C:\CR AssyLoging - 35 Rework\Ai PCSystem\bin\Debug\Ai_PCSystem.dll.config
+C:\CR AssyLoging - 35 Rework\Ai PCSystem\bin\Debug\Ai_PCSystem.dll
+C:\CR AssyLoging - 35 Rework\Ai PCSystem\bin\Debug\Ai_PCSystem.pdb
+C:\CR AssyLoging - 35 Rework\Ai PCSystem\obj\Debug\Ai_PCSystem.dll
+C:\CR AssyLoging - 35 Rework\Ai PCSystem\obj\Debug\Ai_PCSystem.pdb
+C:\CR AssyLoging - 35 Rework\Ai PCSystem\obj\Debug\Ai PCSystem.csprojAssemblyReference.cache
+C:\CR AssyLoging - 35 Rework\Ai PCSystem\obj\Debug\Ai PCSystem.csproj.CoreCompileInputs.cache
+C:\CR AssyLoging - 36 Rework\Ai PCSystem\bin\Debug\Ai_PCSystem.dll.config
+C:\CR AssyLoging - 36 Rework\Ai PCSystem\bin\Debug\Ai_PCSystem.dll
+C:\CR AssyLoging - 36 Rework\Ai PCSystem\bin\Debug\Ai_PCSystem.pdb
+C:\CR AssyLoging - 36 Rework\Ai PCSystem\obj\Debug\Ai PCSystem.csprojAssemblyReference.cache
+C:\CR AssyLoging - 36 Rework\Ai PCSystem\obj\Debug\Ai PCSystem.csproj.CoreCompileInputs.cache
+C:\CR AssyLoging - 36 Rework\Ai PCSystem\obj\Debug\Ai_PCSystem.dll
+C:\CR AssyLoging - 36 Rework\Ai PCSystem\obj\Debug\Ai_PCSystem.pdb
+C:\CR AssyLoging - 37 Rework\Ai PCSystem\bin\Debug\Ai_PCSystem.dll.config
+C:\CR AssyLoging - 37 Rework\Ai PCSystem\bin\Debug\Ai_PCSystem.dll
+C:\CR AssyLoging - 37 Rework\Ai PCSystem\bin\Debug\Ai_PCSystem.pdb
+C:\CR AssyLoging - 37 Rework\Ai PCSystem\obj\Debug\Ai PCSystem.csproj.CoreCompileInputs.cache
+C:\CR AssyLoging - 37 Rework\Ai PCSystem\obj\Debug\Ai_PCSystem.dll
+C:\CR AssyLoging - 37 Rework\Ai PCSystem\obj\Debug\Ai_PCSystem.pdb
+C:\CR AssyLoging - 37 Rework\Ai PCSystem\obj\Debug\Ai PCSystem.csprojAssemblyReference.cache
+D:\AUTOMATION MACHINE 2019\004 HIT AT\03_B2024-AirFlow Machine\New Program\AF-Monitoring\Ai PCSystem\bin\Debug\Ai_PCSystem.dll.config
+D:\AUTOMATION MACHINE 2019\004 HIT AT\03_B2024-AirFlow Machine\New Program\AF-Monitoring\Ai PCSystem\bin\Debug\Ai_PCSystem.dll
+D:\AUTOMATION MACHINE 2019\004 HIT AT\03_B2024-AirFlow Machine\New Program\AF-Monitoring\Ai PCSystem\bin\Debug\Ai_PCSystem.pdb
+D:\AUTOMATION MACHINE 2019\004 HIT AT\03_B2024-AirFlow Machine\New Program\AF-Monitoring\Ai PCSystem\obj\Debug\Ai PCSystem.csproj.CoreCompileInputs.cache
+D:\AUTOMATION MACHINE 2019\004 HIT AT\03_B2024-AirFlow Machine\New Program\AF-Monitoring\Ai PCSystem\obj\Debug\Ai_PCSystem.dll
+D:\AUTOMATION MACHINE 2019\004 HIT AT\03_B2024-AirFlow Machine\New Program\AF-Monitoring\Ai PCSystem\obj\Debug\Ai_PCSystem.pdb
+D:\AUTOMATION MACHINE 2019\004 HIT AT\03_B2024-AirFlow Machine\New Program\AF-Monitoring\Ai PCSystem\obj\Debug\Ai PCSystem.csprojAssemblyReference.cache
+D:\AUTOMATION MACHINE 2019\004 HIT AT\03_B2024-AirFlow Machine\New Program\AF-Monitorings\Ai PCSystem\bin\Debug\Ai_PCSystem.dll.config
+D:\AUTOMATION MACHINE 2019\004 HIT AT\03_B2024-AirFlow Machine\New Program\AF-Monitorings\Ai PCSystem\bin\Debug\Ai_PCSystem.dll
+D:\AUTOMATION MACHINE 2019\004 HIT AT\03_B2024-AirFlow Machine\New Program\AF-Monitorings\Ai PCSystem\bin\Debug\Ai_PCSystem.pdb
+D:\AUTOMATION MACHINE 2019\004 HIT AT\03_B2024-AirFlow Machine\New Program\AF-Monitorings\Ai PCSystem\obj\Debug\Ai PCSystem.csprojAssemblyReference.cache
+D:\AUTOMATION MACHINE 2019\004 HIT AT\03_B2024-AirFlow Machine\New Program\AF-Monitorings\Ai PCSystem\obj\Debug\Ai PCSystem.csproj.CoreCompileInputs.cache
+D:\AUTOMATION MACHINE 2019\004 HIT AT\03_B2024-AirFlow Machine\New Program\AF-Monitorings\Ai PCSystem\obj\Debug\Ai_PCSystem.dll
+D:\AUTOMATION MACHINE 2019\004 HIT AT\03_B2024-AirFlow Machine\New Program\AF-Monitorings\Ai PCSystem\obj\Debug\Ai_PCSystem.pdb
+D:\AUTOMATION MACHINE 2019\004 HIT AT\03_B2024-AirFlow Machine\New Program\AirFlow-Monitoring\Ai PCSystem\bin\Debug\Ai_PCSystem.dll.config
+D:\AUTOMATION MACHINE 2019\004 HIT AT\03_B2024-AirFlow Machine\New Program\AirFlow-Monitoring\Ai PCSystem\bin\Debug\Ai_PCSystem.dll
+D:\AUTOMATION MACHINE 2019\004 HIT AT\03_B2024-AirFlow Machine\New Program\AirFlow-Monitoring\Ai PCSystem\bin\Debug\Ai_PCSystem.pdb
+D:\AUTOMATION MACHINE 2019\004 HIT AT\03_B2024-AirFlow Machine\New Program\AirFlow-Monitoring\Ai PCSystem\obj\Debug\Ai_PCSystem.dll
+D:\AUTOMATION MACHINE 2019\004 HIT AT\03_B2024-AirFlow Machine\New Program\AirFlow-Monitoring\Ai PCSystem\obj\Debug\Ai_PCSystem.pdb
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer\Ai PCSystem\obj\Debug\Ai PCSystem.csprojAssemblyReference.cache
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer\Ai PCSystem\obj\Debug\Ai PCSystem.csproj.CoreCompileInputs.cache
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer\Ai PCSystem\bin\Debug\Ai_PCSystem.dll.config
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer\Ai PCSystem\bin\Debug\Ai_PCSystem.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer\Ai PCSystem\bin\Debug\Ai_PCSystem.pdb
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer\Ai PCSystem\obj\Debug\Ai_PCSystem.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer\Ai PCSystem\obj\Debug\Ai_PCSystem.pdb
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 01\Ai PCSystem\bin\Debug\Ai_PCSystem.dll.config
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 01\Ai PCSystem\bin\Debug\Ai_PCSystem.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 01\Ai PCSystem\bin\Debug\Ai_PCSystem.pdb
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 01\Ai PCSystem\obj\Debug\Ai PCSystem.csprojAssemblyReference.cache
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 01\Ai PCSystem\obj\Debug\Ai PCSystem.csproj.CoreCompileInputs.cache
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 01\Ai PCSystem\obj\Debug\Ai_PCSystem.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 01\Ai PCSystem\obj\Debug\Ai_PCSystem.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 02\Ai PCSystem\bin\Debug\Ai_PCSystem.dll.config
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 02\Ai PCSystem\bin\Debug\Ai_PCSystem.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 02\Ai PCSystem\bin\Debug\Ai_PCSystem.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 02\Ai PCSystem\obj\Debug\Ai PCSystem.csproj.CoreCompileInputs.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 02\Ai PCSystem\obj\Debug\Ai_PCSystem.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 02\Ai PCSystem\obj\Debug\Ai_PCSystem.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 09\Ai PCSystem\bin\Debug\Ai_PCSystem.dll.config
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 09\Ai PCSystem\bin\Debug\Ai_PCSystem.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 09\Ai PCSystem\bin\Debug\Ai_PCSystem.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 09\Ai PCSystem\obj\Debug\Ai PCSystem.csproj.CoreCompileInputs.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 09\Ai PCSystem\obj\Debug\Ai_PCSystem.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 09\Ai PCSystem\obj\Debug\Ai_PCSystem.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 09\Ai PCSystem\obj\Debug\Ai PCSystem.csprojAssemblyReference.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 11\Ai PCSystem\bin\Debug\Ai_PCSystem.dll.config
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 11\Ai PCSystem\bin\Debug\Ai_PCSystem.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 11\Ai PCSystem\bin\Debug\Ai_PCSystem.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 11\Ai PCSystem\obj\Debug\Ai PCSystem.csproj.CoreCompileInputs.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 11\Ai PCSystem\obj\Debug\Ai_PCSystem.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 11\Ai PCSystem\obj\Debug\Ai_PCSystem.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 12\Ai PCSystem\bin\Debug\Ai_PCSystem.dll.config
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 12\Ai PCSystem\bin\Debug\Ai_PCSystem.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 12\Ai PCSystem\bin\Debug\Ai_PCSystem.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 12\Ai PCSystem\obj\Debug\Ai PCSystem.csprojAssemblyReference.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 12\Ai PCSystem\obj\Debug\Ai PCSystem.csproj.CoreCompileInputs.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 12\Ai PCSystem\obj\Debug\Ai_PCSystem.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 12\Ai PCSystem\obj\Debug\Ai_PCSystem.pdb
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 14\Ai PCSystem\bin\Debug\Ai_PCSystem.dll.config
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 14\Ai PCSystem\bin\Debug\Ai_PCSystem.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 14\Ai PCSystem\bin\Debug\Ai_PCSystem.pdb
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 14\Ai PCSystem\obj\Debug\Ai PCSystem.csprojAssemblyReference.cache
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 14\Ai PCSystem\obj\Debug\Ai PCSystem.csproj.CoreCompileInputs.cache
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 14\Ai PCSystem\obj\Debug\Ai_PCSystem.dll
+D:\AUTOMATION MACHINE 2019\100 AI MEGAPLUS\001-FJK (FUJIKURA)\FUJ-DataTranfer - 14\Ai PCSystem\obj\Debug\Ai_PCSystem.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 16\Ai PCSystem\bin\Debug\Ai_PCSystem.dll.config
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 16\Ai PCSystem\bin\Debug\Ai_PCSystem.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 16\Ai PCSystem\bin\Debug\Ai_PCSystem.pdb
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 16\Ai PCSystem\obj\Debug\Ai PCSystem.csproj.CoreCompileInputs.cache
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 16\Ai PCSystem\obj\Debug\Ai_PCSystem.dll
+C:\Project MWI\008_FJI\FUJ-DataTranfer - 16\Ai PCSystem\obj\Debug\Ai_PCSystem.pdb
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 21\FUJ-DataTranfer - 21\Ai PCSystem\bin\Debug\Ai_PCSystem.dll.config
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 21\FUJ-DataTranfer - 21\Ai PCSystem\bin\Debug\Ai_PCSystem.dll
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 21\FUJ-DataTranfer - 21\Ai PCSystem\bin\Debug\Ai_PCSystem.pdb
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 21\FUJ-DataTranfer - 21\Ai PCSystem\obj\Debug\Ai PCSystem.csprojAssemblyReference.cache
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 21\FUJ-DataTranfer - 21\Ai PCSystem\obj\Debug\Ai PCSystem.csproj.CoreCompileInputs.cache
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 21\FUJ-DataTranfer - 21\Ai PCSystem\obj\Debug\Ai_PCSystem.dll
+C:\Users\adminadminad\Desktop\FUJ-DataTranfer - 21\FUJ-DataTranfer - 21\Ai PCSystem\obj\Debug\Ai_PCSystem.pdb
+D:\FUJ-DataTranfer - 23\Ai PCSystem\bin\Debug\Ai_PCSystem.dll.config
+D:\FUJ-DataTranfer - 23\Ai PCSystem\bin\Debug\Ai_PCSystem.dll
+D:\FUJ-DataTranfer - 23\Ai PCSystem\bin\Debug\Ai_PCSystem.pdb
+D:\FUJ-DataTranfer - 23\Ai PCSystem\obj\Debug\Ai PCSystem.csprojResolveAssemblyReference.cache
+D:\FUJ-DataTranfer - 23\Ai PCSystem\obj\Debug\Ai_PCSystem.dll
+D:\FUJ-DataTranfer - 23\Ai PCSystem\obj\Debug\Ai_PCSystem.pdb
+D:\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\Ai PCSystem\bin\Debug\Ai_PCSystem.dll.config
+D:\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\Ai PCSystem\bin\Debug\Ai_PCSystem.dll
+D:\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\Ai PCSystem\bin\Debug\Ai_PCSystem.pdb
+D:\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\Ai PCSystem\obj\Debug\Ai PCSystem.csprojResolveAssemblyReference.cache
+D:\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\Ai PCSystem\obj\Debug\Ai_PCSystem.dll
+D:\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\Ai PCSystem\obj\Debug\Ai_PCSystem.pdb
+E:\WORK MWI\FUJI\TRAY_MODEL_PROGRAM\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\Ai PCSystem\bin\Debug\Ai_PCSystem.dll.config
+E:\WORK MWI\FUJI\TRAY_MODEL_PROGRAM\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\Ai PCSystem\bin\Debug\Ai_PCSystem.dll
+E:\WORK MWI\FUJI\TRAY_MODEL_PROGRAM\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\Ai PCSystem\bin\Debug\Ai_PCSystem.pdb
+E:\WORK MWI\FUJI\TRAY_MODEL_PROGRAM\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\Ai PCSystem\obj\Debug\Ai PCSystem.csprojAssemblyReference.cache
+E:\WORK MWI\FUJI\TRAY_MODEL_PROGRAM\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\Ai PCSystem\obj\Debug\Ai PCSystem.csproj.CoreCompileInputs.cache
+E:\WORK MWI\FUJI\TRAY_MODEL_PROGRAM\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\Ai PCSystem\obj\Debug\Ai_PCSystem.dll
+E:\WORK MWI\FUJI\TRAY_MODEL_PROGRAM\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\Ai PCSystem\obj\Debug\Ai_PCSystem.pdb
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\Ai PCSystem\bin\Debug\Ai_PCSystem.dll.config
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\Ai PCSystem\bin\Debug\Ai_PCSystem.dll
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\Ai PCSystem\bin\Debug\Ai_PCSystem.pdb
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\Ai PCSystem\obj\Debug\Ai PCSystem.csprojResolveAssemblyReference.cache
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\Ai PCSystem\obj\Debug\Ai_PCSystem.dll
+D:\MODEl_RGPZ-114\FUJ-DataTranfer - 25\FUJ-DataTranfer - 25\Ai PCSystem\obj\Debug\Ai_PCSystem.pdb
+D:\FUJ-DataTranfer _26_For_Allmodel\Ai PCSystem\bin\Debug\Ai_PCSystem.dll.config
+D:\FUJ-DataTranfer _26_For_Allmodel\Ai PCSystem\bin\Debug\Ai_PCSystem.dll
+D:\FUJ-DataTranfer _26_For_Allmodel\Ai PCSystem\bin\Debug\Ai_PCSystem.pdb
+D:\FUJ-DataTranfer _26_For_Allmodel\Ai PCSystem\obj\Debug\Ai PCSystem.csprojResolveAssemblyReference.cache
+D:\FUJ-DataTranfer _26_For_Allmodel\Ai PCSystem\obj\Debug\Ai_PCSystem.dll
+D:\FUJ-DataTranfer _26_For_Allmodel\Ai PCSystem\obj\Debug\Ai_PCSystem.pdb
+E:\WORK_MWI\FUJI\microstep\FUJ-DataTranfer _26_For_Allmodel\Ai PCSystem\bin\Debug\Ai_PCSystem.dll.config
+E:\WORK_MWI\FUJI\microstep\FUJ-DataTranfer _26_For_Allmodel\Ai PCSystem\bin\Debug\Ai_PCSystem.dll
+E:\WORK_MWI\FUJI\microstep\FUJ-DataTranfer _26_For_Allmodel\Ai PCSystem\bin\Debug\Ai_PCSystem.pdb
+E:\WORK_MWI\FUJI\microstep\FUJ-DataTranfer _26_For_Allmodel\Ai PCSystem\obj\Debug\Ai PCSystem.csprojAssemblyReference.cache
+E:\WORK_MWI\FUJI\microstep\FUJ-DataTranfer _26_For_Allmodel\Ai PCSystem\obj\Debug\Ai PCSystem.csproj.CoreCompileInputs.cache
+E:\WORK_MWI\FUJI\microstep\FUJ-DataTranfer _26_For_Allmodel\Ai PCSystem\obj\Debug\Ai_PCSystem.dll
+E:\WORK_MWI\FUJI\microstep\FUJ-DataTranfer _26_For_Allmodel\Ai PCSystem\obj\Debug\Ai_PCSystem.pdb
